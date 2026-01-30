@@ -3,6 +3,7 @@ title: Tanvir Bhupal
 description: Luxury relocation advisor for families in Surrey and Greater Vancouver.
 url: "https://realeasy.info"
 baseurl: ""
+theme: minima
 
 # Branding & Authority
 author: Tanvir Bhupal
@@ -14,7 +15,7 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 
-# Collections (for your Insights/Blog later)
+# Collections
 collections:
   posts:
     output: true
