@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a class="brand" href="/">Tanvir Bhupal</a>
+    <nav class="site-nav nav">
+      <ul>
+        <li class="{% if page.url == '/about/' %}active{% endif %}">
+          <a href="/about/">Approach</a>
+        </li>
+        <li class="{% if page.url contains '/blog/' %}active{% endif %}">
+          <a href="/blog/">Insights</a>
+        </li>
+        <li class="{% if page.url == '/search/' %}active{% endif %}">
+          <a href="/search/">Search</a>
+        </li>
+        <li class="{% if page.url == '/contact/' %}active{% endif %}">
+          <a href="/contact/" class="cta">Inquiry</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
