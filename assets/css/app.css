@@ -1,0 +1,59 @@
+:root {
+  /* The Luxury Palette */
+  --bg-color: #F7F5F2;    /* Warm Parchment */
+  --text-main: #2D2D2A;   /* Charcoal Olive */
+  --accent: #8E795E;      /* Warm Bronze */
+  --white: #ffffff;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  font-family: 'Libre Baskerville', serif; /* Or your preferred serif */
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 40px;
+}
+
+/* Header & Nav */
+.nav-wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 0;
+}
+
+.brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--text-main);
+  letter-spacing: 1px;
+}
+
+.site-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 30px;
+  margin: 0;
+}
+
+.site-nav a {
+  text-decoration: none;
+  color: var(--text-main);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.cta {
+  border: 1px solid var(--accent);
+  padding: 10px 20px;
+  color: var(--accent) !important;
+}
