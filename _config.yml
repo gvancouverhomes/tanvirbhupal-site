@@ -1,0 +1,21 @@
+# Site Settings
+title: Tanvir Bhupal
+description: Luxury relocation advisor for families in Surrey and Greater Vancouver.
+url: "https://tanvirbhupal.com"
+baseurl: ""
+
+# Branding & Authority
+author: Tanvir Bhupal
+location: Surrey, BC
+email: tanvir@tanvirbhupal.com
+
+# Build Settings
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+# Collections (for your Insights/Blog later)
+collections:
+  posts:
+    output: true
+    permalink: /insights/:title/
