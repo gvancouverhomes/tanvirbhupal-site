@@ -15,20 +15,40 @@ layout: null
             background: var(--bg); color: var(--text); font-family: "Georgia", serif;
             line-height: 1.8; margin: 0; padding: 0; -webkit-font-smoothing: antialiased;
         }
-        .hero-split { display: flex; min-height: 90vh; align-items: center; flex-wrap: wrap; }
+        
+        /* Navigation Bar */
+        header {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 30px 10%; background: var(--bg); border-bottom: 1px solid rgba(0,0,0,0.05);
+        }
+        .logo { font-size: 1.2rem; letter-spacing: 2px; text-transform: uppercase; font-weight: bold; color: var(--dark); text-decoration: none; }
+        nav a { text-decoration: none; color: var(--soft); margin-left: 30px; font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1.5px; transition: 0.3s; }
+        nav a:hover { color: var(--dark); }
+
+        /* Hero Section */
+        .hero-split { display: flex; min-height: 80vh; align-items: center; flex-wrap: wrap; }
         .hero-text { width: 50%; padding: 0 10%; box-sizing: border-box; }
         .hero-text h1 { font-size: 2.8rem; font-weight: normal; line-height: 1.2; color: var(--dark); margin-bottom: 30px; }
-        .hero-image { width: 50%; height: 90vh; background: url('/hero.png') center/cover no-repeat; filter: grayscale(15%) contrast(1.05); }
+        .hero-image { 
+            width: 50%; height: 80vh; 
+            background: url('./hero.png') center/cover no-repeat; 
+            filter: grayscale(15%) contrast(1.05); 
+            background-color: #eee; /* Fallback color if image fails */
+        }
+
+        /* Pillars & Content */
         .section-pad { padding: var(--spacing) 10%; }
         .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 50px; }
         .pillar h3 { font-size: 1.1rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid var(--text); padding-bottom: 15px; margin-bottom: 20px; }
+        
         .portfolio-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px; margin-top: 40px; }
         .enclave-card { padding: 30px; border: 1px solid rgba(0,0,0,0.1); text-align: center; text-decoration: none; color: var(--text); transition: 0.3s; font-size: 0.8rem; letter-spacing: 1.5px; }
         .enclave-card:hover { background: #fff; border-color: var(--dark); }
-        .calendar-item { border-left: 2px solid #ddd; padding-left: 25px; margin-bottom: 40px; }
-        .calendar-tag { font-size: 0.7rem; text-transform: uppercase; color: #999; letter-spacing: 1px; }
+
         footer { padding: 60px 10%; border-top: 1px solid #eee; background: #fff; font-size: 0.8rem; }
+
         @media (max-width: 900px) { 
+            header { flex-direction: column; gap: 20px; }
             .hero-split { flex-direction: column; } 
             .hero-text, .hero-image { width: 100%; height: auto; padding: 60px 20px; } 
             .hero-image { height: 400px; }
@@ -38,11 +58,20 @@ layout: null
 </head>
 <body>
 
+<header>
+    <a href="/" class="logo">TANVIR BHUPAL</a>
+    <nav>
+        <a href="/">Advisory</a>
+        <a href="/intelligence">The Briefing</a>
+        <a href="mailto:tanvir@realeasy.info">Contact</a>
+    </nav>
+</header>
+
 <section class="hero-split">
   <div class="hero-text">
     <h1>Your move is a logistical undertaking. I make it a strategic one.</h1>
     <p>Private relocation and real estate advisory for families moving with intention. Every decision is filtered for risk, lifestyle fit, and long-term value before a single offer is written.</p>
-    <a href="#calendar" style="text-decoration: underline; color: #1a1a1a; font-weight: bold; font-size: 0.8rem; letter-spacing: 1px;">VIEW THE INTELLIGENCE CALENDAR</a>
+    <a href="/intelligence" style="text-decoration: underline; color: #1a1a1a; font-weight: bold; font-size: 0.8rem; letter-spacing: 1px;">ACCESS THE STRATEGIC BRIEFING</a>
   </div>
   <div class="hero-image"></div>
 </section>
@@ -74,22 +103,6 @@ layout: null
       <div class="enclave-card">PANORAMA RIDGE</div>
       <div class="enclave-card">FRASER HEIGHTS</div>
     </div>
-  </div>
-</section>
-
-<section id="calendar" class="section-pad">
-  <h2 style="font-weight: normal; margin-bottom: 50px;">The 2026 Intelligence Calendar</h2>
-  <div class="calendar-item">
-    <span class="calendar-tag">Feb 2026 • Video Briefing</span>
-    <h4 style="margin: 5px 0;">The Elgin Chantrell Land Shift: Decoupling Equity from Structure</h4>
-  </div>
-  <div class="calendar-item">
-    <span class="calendar-tag">March 2026 • Podcast Episode 01</span>
-    <h4 style="margin: 5px 0;">The Privacy Protocol: Managing a $3M+ Transition Discreetly</h4>
-  </div>
-  <div class="calendar-item">
-    <span class="calendar-tag">April 2026 • Strategic Analysis</span>
-    <h4 style="margin: 5px 0;">The Relocation Friction Map: Commute vs. Community in Ocean Park</h4>
   </div>
 </section>
 
