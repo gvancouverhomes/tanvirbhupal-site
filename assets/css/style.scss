@@ -1,3 +1,30 @@
 ---
 ---
-@import "minima";
+/* Custom Boutique Luxury CSS for Tanvir Bhupal */
+
+body {
+    background-color: #fdfcf9; /* Boutique Off-White */
+    color: #333333;           /* Executive Charcoal */
+    font-family: "Georgia", "Times New Roman", serif; /* Classic Serif */
+    line-height: 1.6;
+    margin: 0 auto;
+    max-width: 800px;         /* "Gallery" centered width */
+    padding: 40px 20px;
+}
+
+h1, h2, h3 {
+    color: #1a1a1a;           /* Slightly darker for authority */
+    font-weight: normal;
+    margin-top: 1.5em;
+}
+
+a {
+    color: #555555;
+    text-decoration: underline;
+}
+
+header, footer {
+    margin-bottom: 50px;
+    border-bottom: 1px solid #eeeeee;
+    padding-bottom: 20px;
+}
