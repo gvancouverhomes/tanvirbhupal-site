@@ -16,7 +16,6 @@ layout: null
             line-height: 1.8; margin: 0; padding: 0; -webkit-font-smoothing: antialiased;
         }
         
-        /* Navigation Bar */
         header {
             display: flex; justify-content: space-between; align-items: center;
             padding: 30px 10%; background: var(--bg); border-bottom: 1px solid rgba(0,0,0,0.05);
@@ -25,19 +24,16 @@ layout: null
         nav a { text-decoration: none; color: var(--soft); margin-left: 30px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; transition: 0.3s; }
         nav a:hover { color: var(--dark); border-bottom: 1px solid var(--dark); }
 
-        /* Hero Section */
         .hero-split { display: flex; min-height: 85vh; align-items: center; flex-wrap: wrap; }
         .hero-text { width: 50%; padding: 0 10%; box-sizing: border-box; }
         .hero-text h1 { font-size: 3rem; font-weight: normal; line-height: 1.1; color: var(--dark); margin-bottom: 30px; }
         .hero-image { 
             width: 50%; height: 85vh; 
-            /* THE FIX IS HERE: Pointing to your specific folder */
             background: url('./assets/images/hero.png') center/cover no-repeat; 
             filter: grayscale(10%) contrast(1.02); 
             background-color: #eee;
         }
 
-        /* Pillars */
         .section-pad { padding: var(--spacing) 10%; }
         .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 60px; }
         .pillar h3 { font-size: 1rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px; color: var(--dark); }
