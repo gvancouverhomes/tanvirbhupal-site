@@ -10,7 +10,12 @@ body {
 .hero-split { display: flex; min-height: 90vh; align-items: center; }
 .hero-text { width: 50%; padding: 0 10%; }
 .hero-text h1 { font-size: 3rem; font-weight: normal; line-height: 1.2; color: var(--dark); margin-bottom: 30px; }
-.hero-image { width: 50%; height: 90vh; background: url('/hero.png') center/cover no-repeat; filter: grayscale(20%); }
+.hero-image { 
+  width: 50%; 
+  height: 90vh; 
+  background: url('{{ "/assets/images/hero.png" | relative_url }}') center/cover no-repeat; 
+  filter: grayscale(20%); 
+}
 .section-pad { padding: var(--spacing) 10%; }
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 50px; }
 .pillar h3 { font-size: 1.2rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid var(--text); padding-bottom: 15px; margin-bottom: 20px; }
