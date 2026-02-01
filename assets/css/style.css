@@ -1,0 +1,48 @@
+---
+---
+/* Global Variables for $750k GCI Branding */
+:root {
+    --bg: #fdfcf9;    /* Boutique Off-White */
+    --text: #333;     /* Executive Charcoal */
+    --dark: #1a1a1a;  /* Deep Slate */
+    --soft: #666;     /* Subtle Grey */
+    --spacing: 80px;
+}
+
+body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: "Georgia", serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Layout Components */
+.hero-split { display: flex; min-height: 85vh; align-items: center; flex-wrap: wrap; }
+.hero-text { width: 50%; padding: 0 10%; box-sizing: border-box; }
+.hero-text h1 { font-size: 3rem; font-weight: normal; line-height: 1.1; color: var(--dark); margin-bottom: 30px; }
+
+.hero-image { 
+    width: 50%; height: 85vh; 
+    background: url('{{ "/assets/images/hero.png" | relative_url }}') center/cover no-repeat; 
+    filter: grayscale(10%) contrast(1.02); 
+    background-color: #eee;
+}
+
+.section-pad { padding: var(--spacing) 10%; }
+.grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 60px; }
+.pillar h3 { font-size: 1rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px; color: var(--dark); }
+
+.portfolio-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 40px; }
+.enclave-card { padding: 40px 20px; border: 1px solid rgba(0,0,0,0.1); text-align: center; text-decoration: none; color: var(--text); transition: 0.4s; font-size: 0.8rem; letter-spacing: 2px; }
+.enclave-card:hover { background: #fff; border-color: var(--dark); transform: translateY(-2px); }
+
+/* Mobile Optimization */
+@media (max-width: 900px) { 
+    .hero-split { flex-direction: column; } 
+    .hero-text, .hero-image { width: 100%; height: auto; padding: 60px 20px; } 
+    .hero-image { height: 450px; }
+    .grid-3 { grid-template-columns: 1fr; gap: 40px; } 
+}
