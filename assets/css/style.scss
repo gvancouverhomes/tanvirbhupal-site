@@ -1,60 +1,124 @@
 ---
 ---
-/* 2026 Boutique Luxury Hero CSS */
+/* 2026 Boutique Luxury Framework - Tanvir Bhupal */
+
+:root {
+  --bg-color: #fdfcf9;    /* Boutique Off-White */
+  --text-main: #333333;   /* Executive Charcoal */
+  --text-dark: #1a1a1a;   /* Deep Slate */
+  --accent: #555555;      /* Subtle Grey */
+  --spacing: 80px;
+}
 
 body {
-    background-color: #fdfcf9; /* Boutique Off-White */
-    color: #333333;           /* Executive Charcoal */
-    font-family: "Georgia", serif;
-    line-height: 1.8;
-    margin: 0 auto;
-    max-width: 950px;
-    padding: 40px 20px;
+  background-color: var(--bg-color);
+  color: var(--text-main);
+  font-family: "Georgia", "Times New Roman", serif;
+  line-height: 1.8;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
 }
 
-/* Hero Section Styling */
-.hero {
-    padding: 100px 0;
-    text-align: center;
-    border-bottom: 1px solid #eee;
+/* Header & Navigation */
+header {
+  padding: 30px 5%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
 }
 
-.hero h1 {
-    font-size: 3rem;
-    font-weight: normal;
-    letter-spacing: -1px;
-    margin-bottom: 20px;
+nav a {
+  text-decoration: none;
+  color: var(--text-main);
+  margin-left: 30px;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
 }
 
-.hero p.lead {
-    font-size: 1.2rem;
-    color: #666;
-    max-width: 600px;
-    margin: 0 auto 30px;
+/* Hero Section - Split Screen */
+.hero-split {
+  display: flex;
+  min-height: 80vh;
+  align-items: center;
 }
 
-.hero-cta {
-    display: inline-block;
-    padding: 12px 30px;
-    border: 1px solid #333;
-    text-decoration: none;
-    color: #333;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-size: 0.8rem;
+.hero-text {
+  width: 50%;
+  padding: 0 8%;
 }
 
-/* Strategic Pillars Section */
+.hero-text h1 {
+  font-size: 2.8rem;
+  font-weight: normal;
+  line-height: 1.2;
+  color: var(--text-dark);
+}
+
+.hero-image {
+  width: 50%;
+  height: 80vh;
+  background: url('/hero.jpg') center/cover no-repeat;
+  filter: grayscale(10%) contrast(1.05); /* Desaturated Art Look */
+}
+
+/* Strategic Pillars */
 .pillars {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 40px;
-    padding: 80px 0;
+  display: flex;
+  justify-content: space-between;
+  padding: var(--spacing) 8%;
+  gap: 40px;
 }
 
-.pillar-item h3 {
-    border-bottom: 1px solid #333;
-    padding-bottom: 10px;
-    font-size: 1.1rem;
+.pillar {
+  flex: 1;
 }
 
+.pillar h3 {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 1px solid var(--text-main);
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+/* Neighborhood Portfolio - The Moat */
+.portfolio {
+  padding: var(--spacing) 8%;
+  background: #f8f7f2; /* Slightly darker off-white to separate section */
+}
+
+.portfolio-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.enclave-card {
+  padding: 40px 20px;
+  border: 1px solid rgba(0,0,0,0.1);
+  text-align: center;
+  transition: 0.3s;
+  text-decoration: none;
+  color: var(--text-main);
+}
+
+.enclave-card:hover {
+  background: #ffffff;
+  border-color: var(--text-dark);
+}
+
+/* Transitions & Mobile */
+@media (max-width: 900px) {
+  .hero-split, .pillars { flex-direction: column; }
+  .hero-text, .hero-image { width: 100%; height: auto; padding: 40px 20px; }
+  .hero-image { height: 400px; }
+}
