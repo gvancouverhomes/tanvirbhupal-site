@@ -26,7 +26,8 @@ body {
 
 .hero-image { 
     width: 50%; height: 85vh; 
-    background: url('{{ "/assets/images/hero.png" | relative_url }}') center/cover no-repeat; 
+    /* We use the full URL to bypass folder path confusion */
+    background: url('https://realeasy.info/assets/images/hero.png') center/cover no-repeat; 
     filter: grayscale(10%) contrast(1.02); 
     background-color: #eee;
 }
