@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
+{% raw %}
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -128,3 +129,4 @@ layout: null
 
 </body>
 </html>
+{% endraw %}
