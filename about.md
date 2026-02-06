@@ -21,7 +21,7 @@ permalink: /about/
 
     <div style="display: flex; align-items: center; gap: 40px; margin: 60px 0; padding: 40px; background: #fdfcf9; border: 1px solid #eee; flex-wrap: wrap;">
       <div style="flex: 1; min-width: 250px;">
-        <img src="/assets/images/family.jpg" alt="Tanvir Bhupal and Family" style="width: 100%; height: auto; border-radius: 2px; filter: grayscale(10%);">
+        <img src="/assets/images/family.png" alt="Tanvir Bhupal and Family" style="width: 100%; height: auto; border-radius: 2px; filter: grayscale(10%);">
       </div>
       <div style="flex: 1.5; min-width: 250px;">
         <p style="font-style: italic; color: #1a1a1a; font-size: 1.1rem; line-height: 1.6;">
