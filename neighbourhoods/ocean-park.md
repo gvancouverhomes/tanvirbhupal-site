@@ -8,7 +8,7 @@ permalink: /neighbourhoods/ocean-park/
 <section class="section-pad">
   <div style="max-width: 800px; margin: 0 auto;">
     <h1 style="font-size: 2.5rem; font-weight: normal; color: #1a1a1a; margin-bottom: 20px;">Ocean Park Neighbourhood Analysis</h1>
-    <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px; font-style: italic;">The Epicentre of Multi-Generational Wealth Retention in South Surrey.</p>
+    <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px; font-style: italic;">The Cornerstone of Multi-Generational Wealth Retention in South Surrey.</p>
 
     <div style="color: #444; line-height: 1.8;">
         <p>Ocean Park is defined by its "Village" micro-culture and its rare <strong>Bluff-front</strong> topography. Unlike more transit-oriented sectors, Ocean Park serves as a terminal enclave, offering a level of quietude and community cohesion that generates significant long-term equity stability.</p>
