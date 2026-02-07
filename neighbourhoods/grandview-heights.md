@@ -22,16 +22,19 @@ permalink: /neighbourhoods/grandview-heights/
   .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
   .metric-list li { margin-bottom: 10px; }
 
-  /* Data Exhibit - Flat/Professional */
+  /* Data Exhibit */
   .data-exhibit { margin: 50px 0; text-align: center; background: #fff; padding: 30px; border: 1px solid var(--border); }
   .data-exhibit img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
   .caption { font-size: 0.75rem; color: var(--meta); margin-top: 20px; text-transform: uppercase; letter-spacing: 2px; }
 
-  /* Call to Action Card */
+  /* Call to Action Card - Structural Fix */
   .audit-card { margin-top: 60px; padding: 40px; background: #fdfcf9; border: 1px solid var(--border); }
-  .audit-title { margin-bottom: 10px; font-weight: bold; color: var(--dark); }
+  .audit-flex { display: flex; gap: 40px; align-items: flex-start; justify-content: space-between; }
+  .audit-content { flex: 1; }
+  .audit-action { flex-shrink: 0; margin-top: 5px; }
+  .audit-title { margin-bottom: 15px; font-weight: bold; color: var(--dark); display: block; font-size: 1.1rem; }
   .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 20px; }
-  .audit-btn { display: inline-block; padding: 12px 25px; background: var(--dark); color: #fff; text-decoration: none; font-size: 0.8rem; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); }
+  .audit-btn { display: inline-block; padding: 14px 28px; background: var(--dark); color: #fff; text-decoration: none; font-size: 0.8rem; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); white-space: nowrap; }
   .audit-btn:hover { background: var(--mid); border-color: var(--mid); }
 
   /* Navigation Grid */
@@ -50,9 +53,10 @@ permalink: /neighbourhoods/grandview-heights/
     .intel-sub { font-size: 1.1rem; }
     .section-title { font-size: 1.25rem; padding-left: 15px; }
     .data-exhibit { padding: 15px; margin: 30px 0; }
-    .audit-card { padding: 25px 20px; }
+    .audit-flex { flex-direction: column; gap: 25px; }
+    .audit-card { padding: 30px 20px; }
+    .audit-btn { width: 100%; text-align: center; }
     .nav-section { padding: 50px 15px; }
-    .nav-grid { gap: 12px; }
   }
 </style>
 
@@ -87,10 +91,16 @@ permalink: /neighbourhoods/grandview-heights/
   </section>
 
   <footer class="audit-card">
-    <h4 class="audit-title">Development Portfolio Review</h4>
-    <p class="audit-text">Grandview values in 2026 reflect a structural shift from rural acreages to NCP-guided modern estates. The Darts Hill NCP alone envisions 1,316 townhomes and 100 single-family homes, with development accelerating as water infrastructure upgrades along 24th Avenue complete.</p>
-    <p class="audit-text">For a strategic audit of your Grandview property or development potential analysis in active NCP zones, please initiate an inquiry.</p>
-    <a href="/contact" class="audit-btn">REQUEST STRATEGIC AUDIT</a>
+    <div class="audit-flex">
+      <div class="audit-content">
+        <h4 class="audit-title">Development Portfolio Review</h4>
+        <p class="audit-text">Grandview values in 2026 reflect a structural shift from rural acreages to NCP-guided modern estates. The Darts Hill NCP alone envisions 1,316 townhomes and 100 single-family homes, with development accelerating as water infrastructure upgrades along 24th Avenue complete.</p>
+        <p class="audit-text">For a strategic audit of your Grandview property or development potential analysis in active NCP zones, please initiate an inquiry.</p>
+      </div>
+      <div class="audit-action">
+        <a href="/contact" class="audit-btn">REQUEST STRATEGIC AUDIT</a>
+      </div>
+    </div>
   </footer>
 </article>
 
