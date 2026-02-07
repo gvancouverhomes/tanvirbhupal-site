@@ -22,7 +22,7 @@ permalink: /neighbourhoods/grandview-heights/
   .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
   .metric-list li { margin-bottom: 10px; }
 
-  /* Data Exhibit - Professional Flat Style */
+  /* Data Exhibit */
   .data-exhibit { margin: 50px 0; text-align: center; background: #fff; padding: 30px; border: 1px solid var(--border); }
   .data-exhibit img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
   .caption { font-size: 0.75rem; color: var(--meta); margin-top: 20px; text-transform: uppercase; letter-spacing: 2px; }
@@ -101,7 +101,7 @@ permalink: /neighbourhoods/grandview-heights/
     
     <p>We are tracking <strong>"Build-Year Premium"</strong> as a primary value driver. Current MLS data indicates Grandview properties average 39 days on market at $1,093,267 (December 2025), with newer construction (2020+) commanding measurable advantages. October 2024 saw a 32% surge in Metro Vancouver sales following Bank of Canada rate cuts, with Morgan Creek and Grandview Heights capturing disproportionate volume in the luxury segment.</p>
     
-    <p>Additionally, proximity to the 24th Avenue infrastructure corridor (Grandview Heights Aquatic Centre, Grandview Heights Secondary, and Morgan Crossing/Grandview Corners retail hubs) is creating geographic concentration of value, particularly for properties within walking distance of Ta'talu Elementary and retail amenities.</p>
+    <p>Additionally, proximity to the 24th Avenue infrastructure corridor (Grandview Heights Aquatic Centre, Grandview Heights Secondary, Morgan Crossing/Grandview Corners retail hubs) is creating geographic concentration of value, particularly for properties within walking distance of Ta'talu Elementary and retail amenities.</p>
 
     <figure class="data-exhibit">
       <img src="/assets/images/grandview-matrix-2026.png" alt="Strategic scatter plot correlating construction year and price-per-square-foot in Grandview Heights.">
@@ -110,10 +110,10 @@ permalink: /neighbourhoods/grandview-heights/
 
     <h3 class="metric-label">Core Intelligence Metrics</h3>
     <ul class="metric-list">
-        <li><strong>Education Authority:</strong> Pacific Heights Elementary, Edgewood Elementary, Ta'talu Elementary (opened 2024), and Grandview Heights Secondary (1,500-student capacity).</li>
+        <li><strong>Education Authority:</strong> Pacific Heights Elementary, Edgewood Elementary, Ta'talu Elementary (opened 2024), and Grandview Heights Secondary (1,500-student capacity, opened September 2021).</li>
         <li><strong>Asset Class:</strong> Modern custom detached estates (4,000+ sq. ft., predominantly 2020-2026 construction), contemporary townhome clusters with rooftop patios, and active NCP development lands.</li>
-        <li><strong>Infrastructure Entity:</strong> Grandview Heights Aquatic Centre (Olympic-standard facility) and Grandview Corners/Morgan Crossing retail corridor.</li>
-        <li><strong>Zoning Context:</strong> Active NCP areas including Darts Hill (approved 2021, 1,416 units across 101 acres), Orchard Grove, Redwood Heights, and Grandview Heights Area 5.</li>
+        <li><strong>Infrastructure Entity:</strong> Grandview Heights Aquatic Centre (10-lane Olympic-standard pool, FINA-certified competition facility, opened 2016) and Grandview Corners/Morgan Crossing retail corridor.</li>
+        <li><strong>Zoning Context:</strong> Active NCP (Neighbourhood Concept Plan) areas including Darts Hill (approved 2021, 1,416 units across 101 acres), Orchard Grove (approved 2011), Redwood Heights (approved 2020), and Grandview Heights Area 5 (under review since 2022 petition).</li>
     </ul>
   </section>
 
@@ -125,8 +125,8 @@ permalink: /neighbourhoods/grandview-heights/
     </div>
 
     <div class="audit-body">
-      <p class="audit-text">Grandview values in 2026 reflect a structural shift from rural acreages to NCP-guided modern estates. The Darts Hill NCP alone envisions 1,316 townhomes and 100 single-family homes, with development accelerating as water infrastructure upgrades along 24th Avenue complete.</p>
-      <p class="audit-text" style="margin-bottom: 0;">For a strategic audit of your Grandview property or development potential analysis in active NCP zones, please initiate an inquiry.</p>
+      <p class="audit-text">Grandview values in 2026 reflect a structural shift from rural acreages to NCP-guided modern estates, where build year (2020+) and proximity to the 24th Avenue corridor drive measurable price-per-square-foot premiums. The Darts Hill NCP alone envisions 1,316 townhomes and 100 single-family homes, with development accelerating as water infrastructure upgrades along 24th Avenue complete.</p>
+      <p class="audit-text" style="margin-bottom: 0;">For a strategic audit of your Grandview property or development potential analysis in active NCP zones (Darts Hill, Orchard Grove, Redwood Heights), please initiate an inquiry.</p>
     </div>
   </footer>
 </article>
