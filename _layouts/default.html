@@ -8,15 +8,42 @@
     <title>{{ page.title }} | Tanvir Bhupal</title>
     <link rel="stylesheet" href="/assets/css/style.css">
 </head>
-<body>
+<body style="margin:0; padding:0; font-family: sans-serif; background-color: #fdfcf9;">
 
-    {% include header.html %}
+    <header style="display: flex; justify-content: space-between; align-items: center; padding: 30px 10%; border-bottom: 1px solid rgba(0,0,0,0.05); background: #fdfcf9;">
+        <a href="/" style="font-size: 1.1rem; letter-spacing: 3px; text-transform: uppercase; font-weight: bold; color: #1a1a1a; text-decoration: none;">TANVIR BHUPAL</a>
+        <nav>
+            <a href="/about" style="text-decoration: none; color: #666; margin-left: 30px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px;">Approach</a>
+            <a href="/intelligence" style="text-decoration: none; color: #666; margin-left: 30px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px;">The Briefing</a>
+            <a href="/neighbourhoods" style="text-decoration: none; color: #666; margin-left: 30px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px;">Neighbourhoods</a>
+            <a href="/contact" style="text-decoration: none; color: #666; margin-left: 30px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px;">Inquiry</a>
+        </nav>
+    </header>
 
     <main>
         {{ content }}
     </main>
 
-    {% include footer.html %}
+    <footer style="padding: 80px 10%; border-top: 1px solid #eee; background: #fff; font-size: 0.8rem; margin-top: 50px;">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 40px;">
+        
+        <div style="text-align: left; flex: 1; min-width: 250px;">
+          <p style="margin: 0 0 10px 0;"><strong>© 2026 Tanvir Bhupal. Real Estate Advisor.</strong></p>
+          <p style="margin: 0; color: #666;">eXp Realty – 701 W Georgia St #1500</p>
+          <p style="margin: 0; color: #666;">Vancouver, BC V7Y 1G5</p>
+          <p style="margin: 10px 0 0 0;">604-897-7826</p>
+        </div>
+
+        <div style="text-align: right; flex: 1; min-width: 250px; color: #666;">
+          <p style="margin: 0 0 10px 0;">This website is not intended to solicit buyers or sellers currently under contract.</p>
+          <p style="margin: 0;">All information is deemed reliable but not guaranteed.</p>
+          <div style="margin-top: 25px; letter-spacing: 2px; font-size: 0.7rem; color: #1a1a1a; font-weight: bold;">
+            LINKEDIN // INSTAGRAM // SPOTIFY // GOOGLE
+          </div>
+        </div>
+
+      </div>
+    </footer>
 
 </body>
 </html>
