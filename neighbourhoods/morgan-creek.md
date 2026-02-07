@@ -8,7 +8,7 @@ permalink: /neighbourhoods/morgan-creek/
 <section class="section-pad">
   <div style="max-width: 800px; margin: 0 auto;">
     <h1 style="font-size: 2.5rem; font-weight: normal; color: #1a1a1a; margin-bottom: 20px;">Morgan Creek Neighbourhood Analysis</h1>
-    <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px; font-style: italic;">The Epicentre of Master-Planned Luxury and Private Education Proximity.</p>
+    <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px; font-style: italic;">The Strategic Anchor of Master-Planned Luxury and Private Education Proximity.</p>
 
     <div style="color: #444; line-height: 1.8;">
         <p>Morgan Creek is South Surrey’s premier master-planned community, defined by the <strong>Morgan Creek Golf Course</strong> and its proximity to <strong>Southridge School</strong>. It offers a structured luxury environment where architectural consistency and manicured landscapes drive long-term price floor stability.</p>
