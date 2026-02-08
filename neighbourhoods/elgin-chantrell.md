@@ -23,7 +23,23 @@ permalink: /neighbourhoods/elgin-chantrell/
   .audit-body { grid-area: body; }
   .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 1.5rem; max-width: 650px; line-height: 1.6; }
   .audit-btn { display: inline-block; padding: 14px 28px; background: var(--dark); color: #fff !important; text-decoration: none; font-size: 0.8rem; font-weight: bold; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); white-space: nowrap; }
-  @media (max-width: 768px) { .intel-container { padding: 40px 15px; } .intel-header { font-size: 1.85rem; } .audit-card { grid-template-columns: 1fr; grid-template-areas: "header" "body" "action"; padding: 30px 20px; } .audit-btn { width: 100%; text-align: center; } }
+
+  /* Navigation Grid Styles */
+  .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); margin-top: 80px; }
+  .nav-section-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 3px; color: var(--meta); margin-bottom: 40px; text-align: center; }
+  .nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1100px; margin: 0 auto; }
+  .nav-card { display: block; padding: 30px 15px; background: #fff; border: 1px solid var(--border); text-decoration: none !important; transition: border-color 0.2s ease; text-align: center; }
+  .nav-card:hover { border-color: var(--dark); }
+  .nav-tag { display: block; font-size: 0.6rem; color: var(--meta); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+  .nav-name { display: block; font-size: 1rem; color: var(--dark); font-weight: bold; }
+
+  @media (max-width: 768px) { 
+    .intel-container { padding: 40px 15px; } 
+    .intel-header { font-size: 1.85rem; } 
+    .audit-card { grid-template-columns: 1fr; grid-template-areas: "header" "body" "action"; padding: 30px 20px; } 
+    .audit-btn { width: 100%; text-align: center; } 
+    .nav-grid { grid-template-columns: 1fr; }
+  }
 </style>
 
 <article class="intel-container">
@@ -39,7 +55,7 @@ permalink: /neighbourhoods/elgin-chantrell/
     <p>Unlike the 120+ day deliberation cycle seen in other enclaves, Elgin Chantrell maintains a <strong>68-day absorption rate</strong>. This velocity advantage is driven by institutional stability and move-in readiness. We are currently tracking a consistent <strong>94% sale-to-list ratio</strong>, confirming that buyers and sellers in this market are in tight alignment on pricing.</p>
 
     <h2 class="section-title">The Education Moat</h2>
-    <p>The primary value driver for Elgin Chantrell is its status as an <strong>Institutional Education Hub</strong>. Catchment proximity to <strong>Elgin Park Secondary</strong> and <strong>Chantrell Creek Elementary</strong> creates a permanent floor for property values. In 2026, homes within these specific school boundaries command a <strong>12–15% Catchment Premium</strong> over comparable luxury stock in neighboring markets. For the HNW investor, this is a liquidity moat that ensures a perpetual exit strategy.</p>
+    <p>The primary value driver for Elgin Chantrell is its status as an <strong>Institutional Education Hub</strong>. Catchment proximity to <strong>Elgin Park Secondary</strong> and <strong>Chantrell Creek Elementary</strong> creates a permanent floor for property values. In 2026, homes within these specific school boundaries command a <strong>12–15% Catchment Premium</strong> over comparable luxury stock in neighboring markets.</p>
 
     <figure class="data-exhibit">
       <img src="{{ '/assets/images/elgin-chantrell-catchment-premium.png' | relative_url }}" 
@@ -48,7 +64,7 @@ permalink: /neighbourhoods/elgin-chantrell/
     </figure>
 
     <h2 class="section-title">The Commute Calculus</h2>
-    <p>Elgin Chantrell occupies a strategic position within the 15-minute radius of Highway 99 and the US Border. With the <strong>South Surrey Park & Ride</strong> offering a 51-minute express connection to Vancouver City Centre, this infrastructure advantage attracts a dual buyer pool: families prioritizing schools and professionals prioritizing downtown connectivity. This overlap drives the velocity and pricing stability that define the node.</p>
+    <p>Elgin Chantrell occupies a strategic position within the 15-minute radius of Highway 99 and the US Border. With the <strong>South Surrey Park & Ride</strong> offering a 51-minute express connection to Vancouver City Centre, this infrastructure advantage attracts a dual buyer pool: families prioritizing schools and professionals prioritizing downtown connectivity.</p>
 
     <h3 class="metric-label">Core Intelligence Metrics</h3>
     <ul class="metric-list">
@@ -62,7 +78,7 @@ permalink: /neighbourhoods/elgin-chantrell/
     <ul class="metric-list">
         <li><strong>Not a "Lock-and-Go" low-maintenance market:</strong> This is the domain of large footprints; for turnkey luxury, see Morgan Creek.</li>
         <li><strong>Not a multi-acre estate enclave:</strong> Parcels are generous but rarely reach the "private park" scale of Panorama Ridge.</li>
-        <li><strong>Not a first-time luxury buyer entry point:</strong> Entry floors reflect established executive status; this is a destination market for proven capital.</li>
+        <li><strong>Not a first-time luxury buyer entry point:</strong> Entry floors reflect established executive status.</li>
     </ul>
 
     <p><strong>Strategic Positioning:</strong> Elgin Chantrell is the <strong>Liquid Luxury Benchmark</strong>. It is the safest Prestige Play for those requiring both the status of a South Surrey address and the security of a high-velocity exit.</p>
