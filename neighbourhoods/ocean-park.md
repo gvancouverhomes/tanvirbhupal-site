@@ -17,13 +17,30 @@ permalink: /neighbourhoods/ocean-park/
   .data-exhibit { margin: 50px 0; text-align: center; background: #fff; padding: 30px; border: 1px solid var(--border); }
   .data-exhibit img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
   .caption { font-size: 0.75rem; color: var(--meta); margin-top: 20px; text-transform: uppercase; letter-spacing: 2px; }
+  
+  /* Navigation Grid Styles */
+  .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); }
+  .nav-section-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 3px; color: var(--meta); margin-bottom: 40px; text-align: center; }
+  .nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1100px; margin: 0 auto; }
+  .nav-card { display: block; padding: 30px 15px; background: #fff; border: 1px solid var(--border); text-decoration: none; transition: border-color 0.2s ease; text-align: center; }
+  .nav-card:hover { border-color: var(--dark); }
+  .nav-tag { display: block; font-size: 0.6rem; color: var(--meta); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
+  .nav-name { display: block; font-size: 1rem; color: var(--dark); font-weight: bold; }
+
   .audit-card { margin-top: 60px; padding: 40px; background: #fdfcf9; border: 1px solid var(--border); display: grid; grid-template-columns: 1fr auto; grid-template-areas: "header action" "body body"; gap: 20px 40px; align-items: center; }
   .audit-title { grid-area: header; margin: 0; font-weight: bold; color: var(--dark); font-size: 1.1rem; }
   .audit-action { grid-area: action; }
   .audit-body { grid-area: body; }
   .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 1.5rem; max-width: 650px; line-height: 1.6; }
   .audit-btn { display: inline-block; padding: 14px 28px; background: var(--dark); color: #fff !important; text-decoration: none; font-size: 0.8rem; font-weight: bold; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); white-space: nowrap; }
-  @media (max-width: 768px) { .intel-container { padding: 40px 15px; } .intel-header { font-size: 1.85rem; } .audit-card { grid-template-columns: 1fr; grid-template-areas: "header" "body" "action"; padding: 30px 20px; } .audit-btn { width: 100%; text-align: center; } }
+  
+  @media (max-width: 768px) { 
+    .intel-container { padding: 40px 15px; } 
+    .intel-header { font-size: 1.85rem; } 
+    .audit-card { grid-template-columns: 1fr; grid-template-areas: "header" "body" "action"; padding: 30px 20px; } 
+    .audit-btn { width: 100%; text-align: center; } 
+    .nav-section { padding: 50px 15px; }
+  }
 </style>
 
 <article class="intel-container">
@@ -42,9 +59,9 @@ permalink: /neighbourhoods/ocean-park/
     <p>Ocean Park’s moat is its <strong>Irreplicability</strong>. You cannot manufacture a 100-year-old seaside village. The neighborhood is bordered by the Boundary Bay bluffs to the south and west, effectively "locking" the supply. This geographic compression creates a hard ceiling on new detached inventory, protecting long-term valuations from the dilution seen in high-growth corridors.</p>
 
     <figure class="data-exhibit">
-      <img src="{{ '/assets/images/ocean-park-lifestyle-premium.png' | relative_url }}" 
-           alt="Comparative chart showing Ocean Park's price-per-square-foot premium relative to South Surrey detached averages.">
-      <figcaption class="caption">Asset Evaluation: The Walkability & Coastal Lifestyle Premium (2026)</figcaption>
+      <img src="{{ '/assets/images/ocean-park-compression-curve.png' | relative_url }}" 
+           alt="The Geographic Compression Curve showing the inverse relationship between lot size and price-per-square-foot in Ocean Park.">
+      <figcaption class="caption">Asset Evaluation: The Geographic Compression Curve (2026)</figcaption>
     </figure>
 
     <h2 class="section-title">The Downsizer Magnet</h2>
@@ -78,3 +95,31 @@ permalink: /neighbourhoods/ocean-park/
     </div>
   </section>
 </article>
+
+<aside class="nav-section">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <h2 class="nav-section-title">Compare Strategic Locations</h2>
+    <nav class="nav-grid" aria-label="Neighborhood navigation">
+      <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
+        <span class="nav-tag">Prestige with Velocity</span>
+        <span class="nav-name">Elgin Chantrell &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/morgan-creek/" class="nav-card">
+        <span class="nav-tag">Lock-and-Go Premium</span>
+        <span class="nav-name">Morgan Creek &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
+        <span class="nav-tag">The Legacy Hold</span>
+        <span class="nav-name">Panorama Ridge &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
+        <span class="nav-tag">The Growth Frontier</span>
+        <span class="nav-name">Grandview Heights &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/fraser-heights/" class="nav-card">
+        <span class="nav-tag">The Elevated Gateway</span>
+        <span class="nav-name">Fraser Heights &rarr;</span>
+      </a>
+    </nav>
+  </div>
+</aside>
