@@ -1,34 +1,80 @@
 ---
 layout: default
-title: Ocean Park Real Estate Strategy | South Surrey Village Living
-description: A strategic analysis of Ocean Park's bluff-front utility, school catchments (Ray Shepherd Elementary), and the "Village" lifestyle premium in South Surrey.
+title: Ocean Park Real Estate Strategy | The Coastal Village Monopoly
+description: Strategic analysis of Ocean Park’s geographic supply cap, village economics, and the 2026 downsizer migration patterns.
 permalink: /neighbourhoods/ocean-park/
 ---
 
-<section class="section-pad">
-  <div style="max-width: 800px; margin: 0 auto;">
-    <h1 style="font-size: 2.5rem; font-weight: normal; color: #1a1a1a; margin-bottom: 20px;">Ocean Park Neighbourhood Analysis</h1>
-    <p style="font-size: 1.2rem; color: #666; margin-bottom: 40px; font-style: italic;">The Cornerstone of Multi-Generational Wealth Retention in South Surrey.</p>
+<style>
+  :root { --dark: #1a1a1a; --mid: #555; --light: #666; --border: #eee; --bg-alt: #fafafa; --meta: #999; }
+  .intel-container { max-width: 800px; margin: 0 auto; padding: 60px 20px; color: #444; line-height: 1.8; }
+  .intel-header { font-size: 2.5rem; font-weight: normal; color: var(--dark); margin-bottom: 20px; line-height: 1.2; }
+  .intel-sub { font-size: 1.2rem; color: var(--mid); margin-bottom: 40px; font-style: italic; }
+  .section-title { font-size: 1.4rem; color: var(--dark); margin-top: 40px; border-left: 3px solid var(--dark); padding-left: 20px; margin-bottom: 20px; }
+  .metric-label { text-transform: uppercase; font-size: 0.85rem; letter-spacing: 2px; color: var(--dark); margin-top: 40px; margin-bottom: 15px; font-weight: bold; }
+  .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
+  .metric-list li { margin-bottom: 10px; }
+  .data-exhibit { margin: 50px 0; text-align: center; background: #fff; padding: 30px; border: 1px solid var(--border); }
+  .data-exhibit img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+  .caption { font-size: 0.75rem; color: var(--meta); margin-top: 20px; text-transform: uppercase; letter-spacing: 2px; }
+  .audit-card { margin-top: 60px; padding: 40px; background: #fdfcf9; border: 1px solid var(--border); display: grid; grid-template-columns: 1fr auto; grid-template-areas: "header action" "body body"; gap: 20px 40px; align-items: center; }
+  .audit-title { grid-area: header; margin: 0; font-weight: bold; color: var(--dark); font-size: 1.1rem; }
+  .audit-action { grid-area: action; }
+  .audit-body { grid-area: body; }
+  .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 1.5rem; max-width: 650px; line-height: 1.6; }
+  .audit-btn { display: inline-block; padding: 14px 28px; background: var(--dark); color: #fff !important; text-decoration: none; font-size: 0.8rem; font-weight: bold; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); white-space: nowrap; }
+  @media (max-width: 768px) { .intel-container { padding: 40px 15px; } .intel-header { font-size: 1.85rem; } .audit-card { grid-template-columns: 1fr; grid-template-areas: "header" "body" "action"; padding: 30px 20px; } .audit-btn { width: 100%; text-align: center; } }
+</style>
 
-    <div style="color: #444; line-height: 1.8;">
-        <p>Ocean Park is defined by its "Village" micro-culture and its rare <strong>Bluff-front</strong> topography. Unlike more transit-oriented sectors, Ocean Park serves as a terminal enclave, offering a level of quietude and community cohesion that generates significant long-term equity stability.</p>
-        
-        <h2 style="font-size: 1.4rem; color: #1a1a1a; margin-top: 40px; border-left: 3px solid #1a1a1a; padding-left: 20px;">Strategic Market Outlook (2026)</h2>
-        <p>In 2026, we are seeing a premium placed on "walkable estate utility." Properties within a 10-minute walk of <strong>Ocean Park Village</strong> are decoupling from the broader South Surrey market. For families, the proximity to <strong>Ray Shepherd Elementary</strong> and <strong>Laronde Elementary (French Immersion)</strong> remains the primary driver of demand.</p>
+<article class="intel-container">
+  <header>
+    <h1 class="intel-header">Ocean Park Neighbourhood Analysis</h1>
+    <p class="intel-sub">South Surrey’s Strategic Lifestyle Anchor.</p>
+  </header>
 
-        <h3 style="margin-top: 40px; color: #1a1a1a; text-transform: uppercase; font-size: 0.85rem; letter-spacing: 2px;">Core Intelligence Metrics</h3>
-        <ul style="padding-left: 20px; list-style-type: square; color: #666;">
-            <li><strong>Catchment Authority:</strong> Ray Shepherd Elementary, Laronde Elementary, and Elgin Park Secondary.</li>
-            <li><strong>Property Profiles:</strong> A mix of mid-century modernised cottages and new-growth bluff estates.</li>
-            <li><strong>Zoning Context:</strong> RS-zoned lots with high walk-score orientation.</li>
-            <li><strong>Lifestyle Entity:</strong> Close proximity to 1001 Steps and Kwomais Point Park.</li>
-        </ul>
+  <section>
+    <h2 class="section-title">Strategic Market Outlook (2026)</h2>
+    <p>Ocean Park is the only neighborhood in the Semiahmoo Peninsula that successfully captures "Village Economics." Unlike the sprawling estates of the Ridge or the new-density corridors of Grandview, Ocean Park is a low-density, geographically constrained enclave. This lack of available land creates a natural <strong>Coastal Village Monopoly</strong>.</p>
+    
+    <p>As of Q1 2026, the market is defined by <strong>Low-Turnover Stability</strong>. While broader South Surrey has seen seasonal inventory shifts, Ocean Park maintains a supply-starved environment. This scarcity has resulted in a remarkable <strong>96% selling-to-listing price ratio</strong>, indicating that buyers are willing to pay a premium for the "Village" entry point regardless of broader macroeconomic fluctuations.</p>
+
+    <h2 class="section-title">The Geographic Moat</h2>
+    <p>Ocean Park’s moat is its <strong>Irreplicability</strong>. You cannot manufacture a 100-year-old seaside village. The neighborhood is bordered by the Boundary Bay bluffs to the south and west, effectively "locking" the supply. This geographic compression creates a hard ceiling on new detached inventory, protecting long-term valuations from the dilution seen in high-growth corridors.</p>
+
+    <figure class="data-exhibit">
+      <img src="{{ '/assets/images/ocean-park-lifestyle-premium.png' | relative_url }}" 
+           alt="Comparative chart showing Ocean Park's price-per-square-foot premium relative to South Surrey detached averages.">
+      <figcaption class="caption">Asset Evaluation: The Walkability & Coastal Lifestyle Premium (2026)</figcaption>
+    </figure>
+
+    <h2 class="section-title">The Downsizer Magnet</h2>
+    <p>In 2026, we are tracking a significant <strong>Downsizer Migration Pattern</strong>. High-Net-Worth individuals are liquidating larger legacy estates in Panorama Ridge and Elgin to acquire 2,400–3,000 sq. ft. "Village Luxury" homes here. They are trading raw square footage for <strong>Walkability as a Fixed Asset</strong>. Proximity to the "1001 Steps," Kwomais Point Park, and the 128th St retail core is now a primary driver of the neighborhood's <strong>10–15% per-square-foot premium</strong>.</p>
+
+    <h3 class="metric-label">Core Intelligence Metrics</h3>
+    <ul class="metric-list">
+        <li><strong>Asset Class:</strong> Village-scale custom builds and renovated coastal character homes.</li>
+        <li><strong>Primary Velocity:</strong> 47 Median Days on Market (Q1 2026).</li>
+        <li><strong>Moat Entity:</strong> Geographic supply cap (Bluffs/Sea) and village retail capture.</li>
+        <li><strong>Buyer Migration:</strong> Local HNW downsizers and coastal lifestyle seekers.</li>
+    </ul>
+
+    <h2 class="section-title">What Ocean Park Is Not</h2>
+    <ul class="metric-list">
+        <li><strong>Not a car-dependent suburban enclave:</strong> Walkability is the core value driver; if you aren't within the village orbit, the asset’s premium is diluted.</li>
+        <li><strong>Not a redevelopment opportunity zone:</strong> Strict community character guidelines and geographic constraints prevent large-scale densification.</li>
+        <li><strong>Not a young family "starter" market:</strong> Entry-level pricing has decoupled from middle-income reality; it is now a destination for established equity.</li>
+    </ul>
+
+    <p><strong>Strategic Positioning:</strong> Ocean Park is the <strong>Lifestyle Monopoly</strong>. It is the premier choice for the HNW resident who prioritizes irreplicable community character and coastal proximity over sprawling suburban acreage.</p>
+  </section>
+
+  <section class="audit-card" aria-labelledby="audit-heading">
+    <h2 id="audit-heading" class="audit-title">Strategic Portfolio Review</h2>
+    <div class="audit-action">
+      <a href="/contact" class="audit-btn">INITIATE INQUIRY</a>
     </div>
-
-    <div style="margin-top: 60px; padding: 40px; background: #fdfcf9; border: 1px solid #eee;">
-        <h4 style="margin-bottom: 10px; font-weight: bold;">Village Portfolio Audit</h4>
-        <p style="font-size: 0.95rem; color: #444; margin-bottom: 20px;">Ocean Park property values are highly sensitive to "Village proximity" and "Bluff-line setbacks." If you require a fiduciary analysis of your Ocean Park position, please initiate an inquiry.</p>
-        <a href="/contact" style="display: inline-block; padding: 12px 25px; background: #1a1a1a; color: #fff; text-decoration: none; font-size: 0.8rem; letter-spacing: 1px;">REQUEST STRATEGIC AUDIT</a>
+    <div class="audit-body">
+      <p class="audit-text">If you are evaluating an acquisition within the Ocean Park Village core or assessing the liquidity of a coastal asset, initiate a Strategic Portfolio Review.</p>
     </div>
-  </div>
-</section>
+  </section>
+</article>
