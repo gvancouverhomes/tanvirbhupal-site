@@ -35,7 +35,14 @@ permalink: /neighbourhoods/
           <span style="font-size: 0.8rem; border-bottom: 1px solid #1a1a1a; padding-bottom: 5px;">Market Intelligence →</span>
         </a>
       </article>
-
+      
+      <article>
+        <a href="/neighbourhoods/grandview-heights" style="display: block; padding: 40px; background: #fff; border: 1px solid #eee; text-decoration: none; color: #1a1a1a; text-align: center;">
+          <span style="font-size: 0.7rem; letter-spacing: 2px; color: #999; text-transform: uppercase;">High-Growth Estates</span>
+          <h2 style="font-size: 1.3rem; margin: 15px 0; font-weight: normal;">GRANDVIEW HEIGHTS</h2>
+          <span style="font-size: 0.8rem; border-bottom: 1px solid #1a1a1a; padding-bottom: 5px;">Market Intelligence →</span>
+        </a>
+      </article>
       <article>
         <a href="/neighbourhoods/panorama-ridge" style="display: block; padding: 40px; background: #fff; border: 1px solid #eee; text-decoration: none; color: #1a1a1a; text-align: center;">
           <span style="font-size: 0.7rem; letter-spacing: 2px; color: #999; text-transform: uppercase;">Acreage & Privacy</span>
