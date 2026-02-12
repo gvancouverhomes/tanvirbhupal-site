@@ -1,46 +1,44 @@
 ---
 layout: default
-title: Home
+title: Strategic Advisory
 ---
 
 <section class="hero-split">
-    <div class="hero-text">
-        <p style="letter-spacing: 3px; text-transform: uppercase; font-size: 0.8rem; color: #666; margin-bottom: 20px;">Tanvir Bhupal | Real Estate Advisor</p>
-        <h1>The Neighbourhood Portfolio.</h1>
-        <p style="font-size: 1.1rem; color: #444; max-width: 450px; line-height: 1.8;">Hyper-local expertise in Surrey's most prestigious enclaves. A modern approach to high-value real estate.</p>
-        <a href="/contact" style="display: inline-block; margin-top: 40px; padding: 18px 35px; background: #1a1a1a; color: #fff; text-decoration: none; letter-spacing: 2px; font-size: 0.75rem; text-transform: uppercase;">Inquire</a>
-    </div>
-    <div class="hero-image"></div>
+  <div class="hero-text">
+    <h1>Your move is a logistical undertaking.<br>I make it a strategic one.</h1>
+    <p>Private relocation and real estate advisory for families moving with intention. Every decision is filtered for risk, lifestyle fit, and long-term value before a single offer is written.</p>
+    <a href="/intelligence" style="display: inline-block; margin-top: 20px; text-decoration: underline; color: #1a1a1a; font-weight: bold; font-size: 0.8rem; letter-spacing: 1px;">ACCESS THE STRATEGIC BRIEFING</a>
+  </div>
+  <div class="hero-image"></div>
 </section>
 
 <section class="section-pad">
-    <div style="text-align: center; margin-bottom: 50px;">
-        <h2 style="font-size: 2rem; font-weight: normal; letter-spacing: 4px; text-transform: uppercase;">The Neighbourhoods</h2>
-    </div>
-
-    <div class="portfolio-grid">
-        <a href="/neighbourhoods/morgan-creek/" class="enclave-card">MORGAN CREEK</a>
-        <a href="/neighbourhoods/elgin-chantrell/" class="enclave-card">ELGIN CHANTRELL</a>
-        <a href="/neighbourhoods/grandview-heights/" class="enclave-card">GRANDVIEW HEIGHTS</a>
-        <a href="/neighbourhoods/ocean-park/" class="enclave-card">OCEAN PARK</a>
-        <a href="/neighbourhoods/panorama-ridge/" class="enclave-card">PANORAMA RIDGE</a>
-        <a href="/neighbourhoods/fraser-heights/" class="enclave-card">FRASER HEIGHTS</a>
-    </div>
+  <div class="grid-3">
+    <div class="pillar">
+      <h3>Clarity</h3>
+      <p>Locations, properties, and numbers are filtered until only the most viable fiduciary paths remain. You don’t see everything; you see what matters.</p>
+    </div>
+    <div class="pillar">
+      <h3>Privacy</h3>
+      <p>Discreet searches, controlled exposure, and quiet negotiations. Your intentions stay private until action is intentional.</p>
+    </div>
+    <div class="pillar">
+      <h3>Legacy</h3>
+      <p>Decisions are anchored in land utility, school trajectory, and resale protection—focused on the next decade, not the next showing.</p>
+    </div>
+  </div>
 </section>
 
-<section class="section-pad" style="background: #fff;">
-    <div class="grid-3">
-        <div>
-            <h3 style="font-weight: normal; letter-spacing: 2px; text-transform: uppercase; font-size: 0.9rem;">Strategy</h3>
-            <p style="color: #666; font-size: 0.95rem;">A bespoke approach to real estate, prioritizing discretion and market intelligence.</p>
-        </div>
-        <div>
-            <h3 style="font-weight: normal; letter-spacing: 2px; text-transform: uppercase; font-size: 0.9rem;">Presence</h3>
-            <p style="color: #666; font-size: 0.95rem;">Deeply rooted in Surrey's premier communities, providing unmatched local perspective.</p>
-        </div>
-        <div>
-            <h3 style="font-weight: normal; letter-spacing: 2px; text-transform: uppercase; font-size: 0.9rem;">Results</h3>
-            <p style="color: #666; font-size: 0.95rem;">Executing high-value transactions with precision and professional integrity.</p>
-        </div>
-    </div>
+<section class="section-pad" style="background: #f8f7f2;">
+    <h2 style="font-weight: normal; margin-bottom: 10px; text-align: center; font-size: 2rem;">The Neighbourhood Portfolio</h2>
+    <p style="text-align: center; color: #666; margin-bottom: 50px;">Strategic enclaves analyzed for lifestyle fit and long-term value.</p>
+    
+    <div class="portfolio-grid">
+      <a href="/neighbourhoods/morgan-creek/" class="enclave-card">MORGAN CREEK</a>
+      <a href="/neighbourhoods/elgin-chantrell/" class="enclave-card">ELGIN CHANTRELL</a>
+      <a href="/neighbourhoods/grandview-heights/" class="enclave-card">GRANDVIEW HEIGHTS</a>
+      <a href="/neighbourhoods/ocean-park/" class="enclave-card">OCEAN PARK</a>
+      <a href="/neighbourhoods/panorama-ridge/" class="enclave-card">PANORAMA RIDGE</a>
+      <a href="/neighbourhoods/fraser-heights/" class="enclave-card">FRASER HEIGHTS</a>
+    </div>
 </section>
