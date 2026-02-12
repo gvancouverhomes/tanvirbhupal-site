@@ -28,18 +28,18 @@ title: Strategic Advisory
     </div>
   </div>
 </section>
-
 <section class="section-pad" style="background: #f8f7f2;">
   <div style="max-width: 1100px; margin: 0 auto;">
-    <h2 style="font-weight: normal; margin-bottom: 10px; text-align: center; font-size: 2rem;">The Neighborhood Portfolio</h2>
+    <h2 style="font-weight: normal; margin-bottom: 10px; text-align: center; font-size: 2rem;">The Neighbourhood Portfolio</h2>
     <p style="text-align: center; color: #666; margin-bottom: 50px;">Strategic enclaves analyzed for lifestyle fit and long-term value.</p>
     <div class="portfolio-grid">
-      <a href="/neighborhoods/morgan-creek/" class="enclave-card">MORGAN CREEK</a>
-      <a href="/neighborhoods/elgin-chantrell/" class="enclave-card">ELGIN CHANTRELL</a>
-      <a href="/neighborhoods/grandview-heights/" class="enclave-card">GRANDVIEW HEIGHTS</a>
-      <a href="/neighborhoods/ocean-park/" class="enclave-card">OCEAN PARK</a>
-      <a href="/neighborhoods/panorama-ridge/" class="enclave-card">PANORAMA RIDGE</a>
-      <a href="/neighborhoods/fraser-heights/" class="enclave-card">FRASER HEIGHTS</a>
+      <a href="/neighbourhoods/morgan-creek/" class="enclave-card">MORGAN CREEK</a>
+      <a href="/neighbourhoods/elgin-chantrell/" class="enclave-card">ELGIN CHANTRELL</a>
+      <a href="/neighbourhoods/grandview-heights/" class="enclave-card">GRANDVIEW HEIGHTS</a>
+      <a href="/neighbourhoods/ocean-park/" class="enclave-card">OCEAN PARK</a>
+      <a href="/neighbourhoods/panorama-ridge/" class="enclave-card">PANORAMA RIDGE</a>
+      <a href="/neighbourhoods/fraser-heights/" class="enclave-card">FRASER HEIGHTS</a>
     </div>
   </div>
 </section>
+
