@@ -36,7 +36,19 @@ body {
 .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 60px; }
 .pillar h3 { font-size: 1rem; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid #ddd; padding-bottom: 15px; margin-bottom: 20px; color: var(--dark); }
 
-.portfolio-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px; margin-top: 40px; }
+.portfolio-grid { 
+  display: grid; 
+  grid-template-columns: repeat(3, 1fr); /* Forces 3 equal columns */
+  gap: 15px; 
+  margin-top: 40px; 
+}
+
+/* Mobile check: drop to 1 or 2 columns so it doesn't get too cramped */
+@media (max-width: 600px) {
+  .portfolio-grid {
+    grid-template-columns: 1fr;
+  }
+}
 .enclave-card { padding: 40px 20px; border: 1px solid rgba(0,0,0,0.1); text-align: center; text-decoration: none; color: var(--text); transition: 0.4s; font-size: 0.8rem; letter-spacing: 2px; }
 .enclave-card:hover { background: #fff; border-color: var(--dark); transform: translateY(-2px); }
 
