@@ -33,7 +33,7 @@ title: Strategic Advisory
     <h2 style="font-weight: normal; margin-bottom: 10px; text-align: center; font-size: 2rem;">The Neighbourhood Portfolio</h2>
     <p style="text-align: center; color: #666; margin-bottom: 50px;">Strategic enclaves analyzed for lifestyle fit and long-term value.</p>
     
-    <div class="portfolio-grid">
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; width: 100%;">
       <a href="/neighbourhoods/morgan-creek/" class="enclave-card">MORGAN CREEK</a>
       <a href="/neighbourhoods/elgin-chantrell/" class="enclave-card">ELGIN CHANTRELL</a>
       <a href="/neighbourhoods/grandview-heights/" class="enclave-card">GRANDVIEW HEIGHTS</a>
