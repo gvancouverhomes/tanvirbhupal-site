@@ -34,14 +34,12 @@ permalink: /contact/
         <p style="font-size: 1.6rem; margin: 0;">
           <a href="mailto:tanvir@tanvirbhupal.com" style="color: #1a1a1a; text-decoration: none; border-bottom: 2px solid #1a1a1a;">tanvir@tanvirbhupal.com</a>
         </p>
-        <p style="font-size: 0.85rem; color: #999; margin-top: 10px;">I respond within a few hours</p>
       </div>
       <div>
         <h3 style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px; color: #999; margin-bottom: 15px;">Call or Text</h3>
         <p style="font-size: 1.6rem; font-weight: bold; margin: 0;">
           <a href="tel:6048977826" style="color: #1a1a1a; text-decoration: none;">604.897.7826</a>
         </p>
-        <p style="font-size: 0.85rem; color: #999; margin-top: 10px;">M-F 9am-7pm, Weekends by appointment</p>
       </div>
     </div>
 
