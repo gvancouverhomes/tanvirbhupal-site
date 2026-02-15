@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Morgan Creek Real Estate Strategy | The Lock-and-Go Premium
-description: Strategic analysis of Morgan Creek’s golf course lifestyle, executive pricing, and the 2026 fairway-fronting asset moat.
+description: Strategic analysis of Morgan Creek’s golf course lifestyle, executive pricing, and the stable asset moat of a fully built-out community.
 permalink: /neighbourhoods/morgan-creek/
 ---
 
@@ -11,7 +11,6 @@ permalink: /neighbourhoods/morgan-creek/
   .intel-header { font-size: 2.5rem; font-weight: normal; color: var(--dark); margin-bottom: 20px; line-height: 1.2; }
   .intel-sub { font-size: 1.2rem; color: var(--mid); margin-bottom: 40px; font-style: italic; }
   .section-title { font-size: 1.4rem; color: var(--dark); margin-top: 40px; border-left: 3px solid var(--dark); padding-left: 20px; margin-bottom: 20px; }
-  .metric-label { text-transform: uppercase; font-size: 0.85rem; letter-spacing: 2px; color: var(--dark); margin-top: 40px; margin-bottom: 15px; font-weight: bold; }
   .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
   .metric-list li { margin-bottom: 10px; }
   
@@ -41,78 +40,76 @@ permalink: /neighbourhoods/morgan-creek/
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Morgan Creek Homes for Sale: Is It Worth the Premium?</h1>
-    <p class="intel-sub">South Surrey's golf course community with zero yard work. But does it actually sell when you need to move?</p>
+    <h1 class="intel-header">Morgan Creek: South Surrey's Lock-and-Go Golf Course Community</h1>
+    <p class="intel-sub">Is the fairway premium worth it, or should you save $200K+ on an interior lot?</p>
   </header>
 
   <section>
-    <h2 class="section-title">The Numbers (February 2026)</h2>
+    <p>Morgan Creek is South Surrey's fully built-out golf course neighbourhood. No more construction. No speculative land deals. What you see is what you get.</p>
+    <p>The question isn't whether it's nice. It is. The question is whether the premium makes sense for your situation.</p>
+
+    <h2 class="section-title">What You're Actually Buying</h2>
     <ul class="metric-list">
-        <li><strong>Median Days on Market:</strong> 34 days</li>
-        <li><strong>Sale to List Price:</strong> 95%</li>
-        <li><strong>Price Range (Detached):</strong> $1.5M – $3.5M+</li>
-        <li><strong>Price Range (Executive Townhomes):</strong> $1.2M – $2.1M</li>
-        <li><strong>Location:</strong> South Surrey, BC (15 min to White Rock, 20 min to US border)</li>
+        <li><strong>Location:</strong> South Surrey. 15 minutes to White Rock, 20 minutes to the US border.</li>
+        <li><strong>Housing Types:</strong> Detached executive homes (3,500-5,500 sq ft) and luxury townhomes (2,200-3,200 sq ft). Most layouts feature master bedrooms on the main floor.</li>
+        <li><strong>The Lock-and-Go Factor:</strong> Professional strata management handles landscaping, snow removal, and exterior maintenance. You don't mow lawns or clean gutters here.</li>
+        <li><strong>Architectural Control:</strong> Strict design covenants keep the neighbourhood consistent. No purple houses. No backyard chicken coops. The character is locked in.</li>
     </ul>
+
+    <h2 class="section-title">The Fairway Premium: Luxury or Strategy?</h2>
+    <p>The biggest decision in Morgan Creek is lot type. Do you pay extra for a fairway-backing property, or save the premium and buy an interior lot?</p>
     
-    <p>Morgan Creek real estate moves faster than most South Surrey homes for sale, making it one of the top neighbourhoods in Surrey BC for resale velocity. Sellers consistently trade within 5% of their listing price. This speed is driven by one simple fact: the neighbourhood is 100% built out. No construction zones, no surprises, just finished infrastructure.</p>
-
-    <h2 class="section-title">The Fairway Premium</h2>
-    <p>Golf course properties cost roughly 15% more than interior lots. In 2026, the valuation gap looks like this:</p>
+    <p><strong>Fairway Lots:</strong></p>
     <ul class="metric-list">
-        <li><strong>Interior Lot:</strong> ~$1,600,000</li>
-        <li><strong>Fairway Lot:</strong> ~$1,850,000</li>
-        <li><strong>The Premium:</strong> ~$250,000</li>
-    </ul>
-    <p><strong>Why it matters:</strong> Fairway homes sell 35% faster. Because supply is fixed—the golf course isn't expanding—that fairway lot is your exit insurance. If you need to sell in 3-5 years, you won't sit on the market for 90 days with your equity locked up.</p>
-
-    <h2 class="section-title">Interior Lots vs Fairway Lots: What's the Difference?</h2>
-    <p>Not every Morgan Creek home backs onto the golf course. About 60% of properties are interior lots or gated enclaves.</p>
-    <p><strong>Interior lots offer:</strong></p>
-    <ul class="metric-list">
-        <li>Same architectural standards and build quality</li>
-        <li>Lower price point ($200K-$250K less than fairway)</li>
-        <li>Same strata services (landscaping, snow removal, exterior maintenance)</li>
-        <li>Faster sale than most South Surrey areas (just not as fast as fairway)</li>
-    </ul>
-    <p><strong>You don't get:</strong></p>
-    <ul class="metric-list">
-        <li>The golf course view</li>
-        <li>The 15% appreciation premium</li>
-        <li>The 35% faster resale velocity</li>
-    </ul>
-    <p><strong>Bottom line:</strong> If your budget is $1.6M and you want the Morgan Creek lifestyle without the fairway premium, interior lots are a solid play. You still get the lock-and-go convenience and architectural consistency. You just won't have the same exit speed when you sell.</p>
-
-    <h2 class="section-title">Who This Is For</h2>
-    <p><strong>Best fit:</strong> Executives downsizing from larger homes who want zero maintenance but won't compromise on finish quality. Many townhomes here feature "Master on the Main" layouts specifically for this demographic. Downsizing isn't just about square footage; it's about designing your next chapter without spending weekends on yard work.</p>
-    <p><strong>The appeal:</strong> Strata handles landscaping, snow removal, and exterior work. It is a genuine lock-and-go lifestyle for active owners.</p>
-    <p><strong>The trade-off:</strong> Strata fees run $400-$600/month for townhomes, and $200-$400 for some gated detached areas. Strict architectural covenants prevent heavy exterior customization.</p>
-
-    <h2 class="section-title">Morgan Creek vs. The Competition</h2>
-    <ul class="metric-list">
-        <li><strong>vs. Ocean Park:</strong> Ocean Park offers beach proximity and village walkability. Morgan Creek offers manicured fairway views and newer builds.</li>
-        <li><strong>vs. Elgin Chantrell:</strong> Elgin offers 1-acre custom estates with high privacy. Morgan Creek offers less maintenance and significantly higher resale velocity.</li>
-        <li><strong>vs. Panorama Ridge:</strong> Panorama is for legacy acreage holds. Morgan Creek is for executive convenience and community standards.</li>
-    </ul>
-    <p><em>Not sure which neighbourhood fits your situation? Book a 15-minute call and I'll walk you through the trade-offs based on what actually matters to you.</em></p>
-
-    <h2 class="section-title">What It Is NOT</h2>
-    <ul class="metric-list">
-        <li><strong>Not high privacy:</strong> Properties are open and manicured. Neighbours are closer than in estate neighbourhoods.</li>
-        <li><strong>Not coastal:</strong> This is an inland fairway lifestyle. You are minutes from the beach, but you don't have the ocean breeze or views.</li>
-        <li><strong>Not a redevelopment play:</strong> Unlike other parts of Surrey, strict covenants lock in the character. You are buying the finished product.</li>
+        <li>Typically cost 10-15% more than interior lots (roughly $200K-$300K on a $2M home).</li>
+        <li>Fixed supply (the golf course isn't expanding).</li>
+        <li>Historically sell faster and hold value better during market corrections.</li>
+        <li>Open sightlines to the course (no fence looking at your neighbour's yard).</li>
     </ul>
 
-    <h2 class="section-title">Does It Hold Value?</h2>
-    <p>Yes, provided you buy the right lot type. Fairway properties appreciate faster (4-5% annually) and historically drop less during market corrections. The golf course is financially stable, which means those views stay protected.</p>
+    <p><strong>Interior Lots:</strong></p>
+    <ul class="metric-list">
+        <li>Same build quality and strata benefits at a lower entry price.</li>
+        <li>Standard backyard setup (fence, some privacy from neighbours).</li>
+        <li>Ideal if you prioritize the lock-and-go lifestyle over resale speed.</li>
+    </ul>
 
-    <p><strong>Bottom line:</strong> Fairway lots = higher appreciation + faster resale liquidity.</p>
+    <p><strong>The Logic:</strong> If you think you'll sell in 3-7 years (job relocation, further downsizing), the fairway premium acts as <strong>exit insurance</strong>. You're buying liquidity, not just a view. If you're planning to stay 10+ years, an interior lot gives you the same lifestyle at a lower cost.</p>
+
+    <h2 class="section-title">Who Morgan Creek Is For</h2>
+    <p><strong>This neighbourhood fits you if:</strong></p>
+    <ul class="metric-list">
+        <li>You're downsizing from a larger home and want zero yard work.</li>
+        <li>You travel frequently and need low-maintenance living.</li>
+        <li>You want move-in-ready homes with high-end finishes.</li>
+        <li>You prefer manicured, predictable aesthetics over rustic privacy.</li>
+    </ul>
+
+    <p><strong>This neighbourhood does NOT fit if:</strong></p>
+    <ul class="metric-list">
+        <li>You want acreage or deep seclusion (neighbours are close, lots are open).</li>
+        <li>You're looking for a fixer-upper or renovation project (covenants restrict major changes).</li>
+        <li>You need coastal proximity (you're inland, no ocean views or beach walks).</li>
+    </ul>
+
+    <h2 class="section-title">Morgan Creek vs the Alternatives</h2>
+    <ul class="metric-list">
+        <li><strong>vs Elgin Chantrell:</strong> Elgin = larger estate lots (1+ acre), more privacy. Morgan Creek = smaller lots, less maintenance, faster resale.</li>
+        <li><strong>vs Ocean Park:</strong> Ocean Park = beach village lifestyle, walkable cafes. Morgan Creek = golf views, newer builds, inland location.</li>
+        <li><strong>vs Panorama Ridge:</strong> Panorama = acreage, total privacy. Morgan Creek = community feel, strata management.</li>
+    </ul>
+
+    <h2 class="section-title">The Resale Reality</h2>
+    <p>Morgan Creek properties hold value because the neighbourhood is fully mature. No more surprise developments. No infrastructure changes. The character is set.</p>
+    <p>Fairway-backing properties have historically maintained their premium (10-15%) even during market corrections. Why? <strong>Fixed supply + consistent demand = price stability</strong>. Interior lots sell too, just not as fast. If your timeline is flexible, they're a solid choice.</p>
+    
+    <p><em>To see how current market conditions are affecting valuations this month, visit my <a href="/blog/">Market Insights Blog</a>.</em></p>
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
     <h2 id="audit-heading" class="audit-title">Questions About Morgan Creek?</h2>
     <div class="audit-action">
-      <a href="/contact" class="audit-btn">BOOK A 15-MIN CALL</a>
+      <a href="/contact/" class="audit-btn">BOOK A 15-MIN CALL</a>
     </div>
     <div class="audit-body">
       <p class="audit-text"><strong>No pitch, just straight answers.</strong> tanvir@tanvirbhupal.com | 604-897-7826<br><br>I track data most agents ignore. When you find a property you like, I negotiate hard in your favour.</p>
