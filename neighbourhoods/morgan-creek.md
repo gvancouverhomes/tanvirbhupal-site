@@ -14,10 +14,7 @@ permalink: /neighbourhoods/morgan-creek/
   .metric-label { text-transform: uppercase; font-size: 0.85rem; letter-spacing: 2px; color: var(--dark); margin-top: 40px; margin-bottom: 15px; font-weight: bold; }
   .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
   .metric-list li { margin-bottom: 10px; }
-  .data-exhibit { margin: 50px 0; text-align: center; background: #fff; padding: 30px; border: 1px solid var(--border); }
-  .data-exhibit img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
-  .caption { font-size: 0.75rem; color: var(--meta); margin-top: 20px; text-transform: uppercase; letter-spacing: 2px; }
-
+  
   /* Navigation Grid Styles */
   .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); margin-top: 80px; }
   .nav-section-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 3px; color: var(--meta); margin-bottom: 40px; text-align: center; }
@@ -59,7 +56,7 @@ permalink: /neighbourhoods/morgan-creek/
         <li><strong>Location:</strong> South Surrey, BC (15 min to White Rock, 20 min to US border)</li>
     </ul>
     
-    <p>Morgan Creek homes sell faster than most South Surrey luxury areas, and sellers consistently trade within 5% of their listing price. This velocity is driven by a lack of construction risk—this is a finished master-planned node.</p>
+    <p>Morgan Creek real estate moves faster than most South Surrey homes for sale, making it one of the top neighbourhoods in Surrey BC for resale velocity. Sellers consistently trade within 5% of their listing price. This speed is driven by one simple fact: the neighbourhood is 100% built out. No construction zones, no surprises, just finished infrastructure.</p>
 
     <h2 class="section-title">The Fairway Premium</h2>
     <p>Golf course properties cost roughly 15% more than interior lots. In 2026, the valuation gap looks like this:</p>
@@ -71,9 +68,9 @@ permalink: /neighbourhoods/morgan-creek/
     <p><strong>Why it matters:</strong> Fairway homes sell 35% faster. Because supply is fixed—the golf course isn't expanding—that fairway lot is your exit insurance. If you need to sell in 3-5 years, you won't sit on the market for 90 days with your equity locked up.</p>
 
     <h2 class="section-title">Who This Is For</h2>
-    <p><strong>Best fit:</strong> Executives downsizing from larger homes who want zero maintenance but won't compromise on finish quality. Many townhomes here feature "Master on the Main" layouts specifically for this demographic.</p>
+    <p><strong>Best fit:</strong> Executives downsizing from larger homes who want zero maintenance but won't compromise on finish quality. Many townhomes here feature "Master on the Main" layouts specifically for this demographic. Downsizing isn't just about square footage; it's about designing your next chapter without spending weekends on yard work.</p>
     <p><strong>The appeal:</strong> Strata handles landscaping, snow removal, and exterior work. It is a genuine lock-and-go lifestyle for active owners.</p>
-    <p><strong>The trade-off:</strong> High strata fees (typically $400–$800/month for premium units) and strict architectural covenants that prevent heavy exterior customization.</p>
+    <p><strong>The trade-off:</strong> Strata fees run $400-$600/month for townhomes, and $200-$400 for some gated detached areas. Strict architectural covenants prevent heavy exterior customization.</p>
 
     <h2 class="section-title">Morgan Creek vs. The Competition</h2>
     <ul class="metric-list">
@@ -81,27 +78,28 @@ permalink: /neighbourhoods/morgan-creek/
         <li><strong>vs. Elgin Chantrell:</strong> Elgin offers 1-acre custom estates with high privacy. Morgan Creek offers less maintenance and significantly higher resale velocity.</li>
         <li><strong>vs. Panorama Ridge:</strong> Panorama is for legacy acreage holds. Morgan Creek is for executive convenience and community standards.</li>
     </ul>
+    <p><em>Not sure which neighbourhood fits your situation? Book a 15-minute call and I'll walk you through the trade-offs based on what actually matters to you.</em></p>
 
     <h2 class="section-title">What It Is NOT</h2>
     <ul class="metric-list">
-        <li><strong>Not high privacy:</strong> Properties are open and manicured; neighbors are closer than in estate neighborhoods.</li>
+        <li><strong>Not high privacy:</strong> Properties are open and manicured. Neighbours are closer than in estate neighbourhoods.</li>
         <li><strong>Not coastal:</strong> This is an inland fairway lifestyle. You are minutes from the beach, but you don't have the ocean breeze or views.</li>
         <li><strong>Not a redevelopment play:</strong> Unlike other parts of Surrey, strict covenants lock in the character. You are buying the finished product.</li>
     </ul>
 
     <h2 class="section-title">Does It Hold Value?</h2>
-    <p>Yes, provided you buy the right lot type. Fairway properties appreciate faster (4-5% annually) and historically drop less during market corrections. The golf course is financially stable, ensuring the "view moat" remains intact.</p>
+    <p>Yes, provided you buy the right lot type. Fairway properties appreciate faster (4-5% annually) and historically drop less during market corrections. The golf course is financially stable, which means those views stay protected.</p>
 
     <p><strong>Bottom line:</strong> Fairway lots = higher appreciation + faster resale liquidity.</p>
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
-    <h2 id="audit-heading" class="audit-title">Strategic Portfolio Review</h2>
+    <h2 id="audit-heading" class="audit-title">Questions About Morgan Creek?</h2>
     <div class="audit-action">
-      <a href="/contact" class="audit-btn">INITIATE INQUIRY</a>
+      <a href="/contact" class="audit-btn">BOOK A 15-MIN CALL</a>
     </div>
     <div class="audit-body">
-      <p class="audit-text">If you are evaluating a fairway-fronting acquisition or assessing the liquidity of a luxury townhome, let's review the asset specifics.</p>
+      <p class="audit-text"><strong>No pitch, just straight answers.</strong> tanvir@tanvirbhupal.com | 604-897-7826<br><br>I track data most agents ignore. When you find a property you like, I negotiate hard in your favour.</p>
     </div>
   </section>
 </article>
