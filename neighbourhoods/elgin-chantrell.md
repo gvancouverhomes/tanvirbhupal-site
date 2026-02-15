@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Elgin Chantrell Real Estate Strategy | South Surrey Prestige Nucleus
-description: Strategic analysis of Elgin Chantrell’s Prestige with Velocity, institutional school moats, and the 2026 Commute Calculus.
+title: Elgin Chantrell Real Estate | South Surrey's School Catchment Power Player
+description: Elgin Chantrell real estate analysis: resale speed, top-rated school boundaries, and executive home infrastructure in South Surrey.
 permalink: /neighbourhoods/elgin-chantrell/
 ---
 
@@ -14,9 +14,6 @@ permalink: /neighbourhoods/elgin-chantrell/
   .metric-label { text-transform: uppercase; font-size: 0.85rem; letter-spacing: 2px; color: var(--dark); margin-top: 40px; margin-bottom: 15px; font-weight: bold; }
   .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
   .metric-list li { margin-bottom: 10px; }
-  .data-exhibit { margin: 50px 0; text-align: center; background: #fff; padding: 30px; border: 1px solid var(--border); }
-  .data-exhibit img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
-  .caption { font-size: 0.75rem; color: var(--meta); margin-top: 20px; text-transform: uppercase; letter-spacing: 2px; }
   .audit-card { margin-top: 60px; padding: 40px; background: #fdfcf9; border: 1px solid var(--border); display: grid; grid-template-columns: 1fr auto; grid-template-areas: "header action" "body body"; gap: 20px 40px; align-items: center; }
   .audit-title { grid-area: header; margin: 0; font-weight: bold; color: var(--dark); font-size: 1.1rem; }
   .audit-action { grid-area: action; }
@@ -44,79 +41,92 @@ permalink: /neighbourhoods/elgin-chantrell/
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Elgin Chantrell Neighbourhood Analysis</h1>
-    <p class="intel-sub">South Surrey's High-Liquidity Luxury Anchor.</p>
+    <h1 class="intel-header">Elgin Chantrell: South Surrey's School Catchment Power Player</h1>
+    <p class="intel-sub">Large lots, top-rated schools, and homes that sell when you need them to.</p>
   </header>
 
   <section>
-    <h2 class="section-title">Strategic Market Outlook (2026)</h2>
-    <p>In the 2026 South Surrey landscape, Elgin Chantrell functions as the market’s primary <strong>Prestige Nucleus</strong>. It is the most fluid luxury market in the corridor, characterized by <strong>Prestige with Velocity</strong>.</p>
+    <p>Elgin Chantrell is where executive families land when schools matter and they want space. These aren't lock-and-go properties. They're custom executive homes, typically 4,500 square feet or larger, on generous lots built for active family life.</p>
     
-    <p>Unlike the 120+ day deliberation cycle seen in other enclaves, Elgin Chantrell maintains a <strong>68-day absorption rate</strong>. This velocity advantage is driven by institutional stability and move-in readiness. We are currently tracking a consistent <strong>94% sale-to-list ratio</strong>, confirming that buyers and sellers in this market are in tight alignment on pricing.</p>
+    <p>The main reason people pay a premium here is the school boundary. <strong>Elgin Park Secondary</strong> and <strong>Chantrell Creek Elementary</strong> create consistent demand. Even when the luxury market slows down, families still need to get their kids into Elgin Park.</p>
 
-    <h2 class="section-title">The Education Moat</h2>
-    <p>The primary value driver for Elgin Chantrell is its status as an <strong>Institutional Education Hub</strong>. Catchment proximity to <strong>Elgin Park Secondary</strong> and <strong>Chantrell Creek Elementary</strong> creates a permanent floor for property values. In 2026, homes within these specific school boundaries command a <strong>12–15% Catchment Premium</strong> over comparable luxury stock in neighboring markets.</p>
+    <h2 class="section-title">What You're Actually Buying</h2>
+    <p><strong>Location:</strong> South Surrey. 15 minutes to Highway 99, 20 minutes to the US border, under an hour to downtown Vancouver.</p>
+    <p><strong>Home Size:</strong> Custom executive builds, typically 4,500 to 6,500 square feet. These are established properties for professionals with families.</p>
+    <p><strong>Lot Size:</strong> 12,000 square feet up to one acre. Enough space for pools and play areas without the maintenance burden of a full rural estate.</p>
+    <p><strong>The School Premium:</strong> Homes within the Elgin Park Secondary catchment typically command a 10-15% premium over comparable properties outside the boundary. That premium has held through multiple market cycles.</p>
 
-    <figure class="data-exhibit">
-      <img src="{{ '/assets/images/elgin-chantrell-catchment-premium.png' | relative_url }}" 
-           alt="Comparative data chart illustrating the 12-15% valuation premium for properties within the Elgin Park Secondary catchment boundary.">
-      <figcaption class="caption">Asset Evaluation: School Catchment Price Premium (2026)</figcaption>
-    </figure>
+    <h2 class="section-title">Why Elgin Chantrell Moves Faster</h2>
+    <p>While some high-end Surrey homes sit on the market for 90 days or more, Elgin Chantrell properties typically sell within 60 to 75 days, even in balanced markets.</p>
 
-    <h2 class="section-title">The Commute Calculus</h2>
-    <p>Elgin Chantrell occupies a strategic position within the 15-minute radius of Highway 99 and the US Border. With the <strong>South Surrey Park & Ride</strong> offering a 51-minute express connection to Vancouver City Centre, this infrastructure advantage attracts a dual buyer pool: families prioritizing schools and professionals prioritizing downtown connectivity.</p>
-
-    <h3 class="metric-label">Core Intelligence Metrics</h3>
+    <h3 class="metric-label">The Strategic Advantages</h3>
     <ul class="metric-list">
-        <li><strong>Asset Class:</strong> Custom executive homes (4,500–6,500 sq. ft.) on 12,000 sq. ft. to 1-acre lots.</li>
-        <li><strong>Primary Velocity:</strong> 68 Median Days on Market (Q1 2026).</li>
-        <li><strong>Moat Entity:</strong> Catchment-driven liquidity and Highway 99 infrastructure.</li>
-        <li><strong>Buyer Migration:</strong> Upwardly mobile professionals and executive families.</li>
+        <li><strong>The School Magnet:</strong> Families relocating for work often narrow their search to this catchment before viewing a single home. They search here first, then look at other options. That creates a permanent floor for property values.</li>
+        <li><strong>Strategic Connectivity:</strong> 15 minutes from Highway 99 makes this the most connected luxury neighbourhood for commuting to Vancouver or traveling cross-border.</li>
+        <li><strong>Established Quality:</strong> The neighbourhood is known for custom builds where the original construction standard was high. You're less likely to walk into the renovation traps found in older luxury areas.</li>
     </ul>
 
-    <h2 class="section-title">What Elgin Chantrell Is Not</h2>
+    <h2 class="section-title">Who This Neighbourhood Is For</h2>
+    <p><strong>This area fits you if:</strong></p>
     <ul class="metric-list">
-        <li><strong>Not a "Lock-and-Go" low-maintenance market:</strong> This is the domain of large footprints; for turnkey luxury, see Morgan Creek.</li>
-        <li><strong>Not a multi-acre estate enclave:</strong> Parcels are generous but rarely reach the "private park" scale of Panorama Ridge.</li>
-        <li><strong>Not a first-time luxury buyer entry point:</strong> Entry floors reflect established executive status.</li>
+        <li>You're raising school-age kids and the catchment is non-negotiable</li>
+        <li>You want a 4,500+ square foot home with real yard space for your family</li>
+        <li>You're relocating and need a top-tier neighbourhood that's easy to exit if your role changes in the next 5 years</li>
     </ul>
 
-    <p><strong>Strategic Positioning:</strong> Elgin Chantrell is the <strong>Liquid Luxury Benchmark</strong>. It is the safest Prestige Play for those requiring both the status of a South Surrey address and the security of a high-velocity exit.</p>
+    <p><strong>This area does NOT fit if:</strong></p>
+    <ul class="metric-list">
+        <li>You want zero-maintenance lock-and-go living (see Morgan Creek)</li>
+        <li>You're seeking multi-acre seclusion and total privacy (see Panorama Ridge)</li>
+        <li>You're downsizing and no longer need significant square footage</li>
+    </ul>
+
+    <h2 class="section-title">Elgin Chantrell vs The Competition</h2>
+    <p><strong>vs Morgan Creek:</strong> Morgan Creek offers golf course views and lower-maintenance strata options. Elgin Chantrell offers larger private lots and the school catchment advantage.</p>
+    <p><strong>vs Ocean Park:</strong> Ocean Park is defined by its coastal village vibe and beach proximity. Elgin Chantrell is defined by executive infrastructure and highway access.</p>
+    <p><strong>vs Panorama Ridge:</strong> Panorama Ridge provides deep privacy on legacy estates. Elgin Chantrell provides better resale speed and a more family-focused neighbourhood feel.</p>
+
+    <h2 class="section-title">The Resale Reality</h2>
+    <p>Value retention here is tied to something that doesn't fluctuate with trends: education. As long as Elgin Park Secondary maintains its reputation, families will pay a premium to get into the boundary.</p>
+    
+    <p>Homes here typically sell 30-40% faster than comparable luxury markets in South Surrey because the buyer pool is replenished every year by families entering the school system.</p>
+    
+    <p>If you care about being able to sell when you need to, Elgin Chantrell gives you the best odds in South Surrey.</p>
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
-    <h2 id="audit-heading" class="audit-title">Strategic Portfolio Review</h2>
+    <h2 id="audit-heading" class="audit-title">Thinking About Elgin Chantrell?</h2>
     <div class="audit-action">
-      <a href="/contact" class="audit-btn">INITIATE INQUIRY</a>
+      <a href="/contact" class="audit-btn">GET IN TOUCH</a>
     </div>
     <div class="audit-body">
-      <p class="audit-text">If you are evaluating whether your Elgin Chantrell asset still reflects optimal positioning in the 2026 market, or if you are considering acquisition into this prestige node, initiate a Strategic Portfolio Review.</p>
+      <p class="audit-text">If you're considering buying or selling in Elgin Chantrell, let's talk. I'll tell you what's actually selling, what's overpriced, and whether the school premium makes sense for your situation.</p>
     </div>
   </section>
 </article>
 
 <aside class="nav-section">
   <div style="max-width: 1100px; margin: 0 auto;">
-    <h2 class="nav-section-title">Compare Strategic Locations</h2>
-    <nav class="nav-grid" aria-label="Neighborhood navigation">
+    <h2 class="nav-section-title">Compare Other Neighbourhoods</h2>
+    <nav class="nav-grid" aria-label="Neighbourhood navigation">
       <a href="/neighbourhoods/ocean-park/" class="nav-card">
-        <span class="nav-tag">Coastal Village Monopoly</span>
+        <span class="nav-tag">Beach Village Living</span>
         <span class="nav-name">Ocean Park &rarr;</span>
       </a>
       <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-        <span class="nav-tag">Lock-and-Go Premium</span>
+        <span class="nav-tag">Golf Course + Low Maintenance</span>
         <span class="nav-name">Morgan Creek &rarr;</span>
       </a>
       <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-        <span class="nav-tag">The Legacy Hold</span>
+        <span class="nav-tag">Privacy on Acreage</span>
         <span class="nav-name">Panorama Ridge &rarr;</span>
       </a>
       <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-        <span class="nav-tag">The Growth Frontier</span>
+        <span class="nav-tag">Family-Friendly Value</span>
         <span class="nav-name">Grandview Heights &rarr;</span>
       </a>
       <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-        <span class="nav-tag">The Elevated Gateway</span>
+        <span class="nav-tag">Elevated + Affordable</span>
         <span class="nav-name">Fraser Heights &rarr;</span>
       </a>
     </nav>
