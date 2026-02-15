@@ -69,9 +69,9 @@ permalink: /neighbourhoods/elgin-chantrell/
     <h2 class="section-title">Who This Neighbourhood Is For</h2>
     <p><strong>This area fits you if:</strong></p>
     <ul class="metric-list">
-        <li>You're raising school-age kids and the catchment is non-negotiable</li>
-        <li>You want a 4,500+ square foot home with real yard space for your family</li>
-        <li>You're relocating and need a top-tier neighbourhood that's easy to exit if your role changes in the next 5 years</li>
+        <li>You're raising school-age kids and the catchment is non-negotiable.</li>
+        <li>You want a 4,500+ square foot home with real yard space for your family.</li>
+        <li>You're relocating and need a top-tier neighbourhood that's easy to exit if your role changes in the next 5 years.</li>
     </ul>
 
     <p><strong>This area does NOT fit if:</strong></p>
