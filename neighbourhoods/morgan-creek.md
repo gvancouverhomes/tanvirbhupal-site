@@ -109,7 +109,7 @@ permalink: /neighbourhoods/morgan-creek/
   <section class="audit-card" aria-labelledby="audit-heading">
     <h2 id="audit-heading" class="audit-title">Questions About Morgan Creek?</h2>
     <div class="audit-action">
-      <a href="/contact/" class="audit-btn">BOOK A 15-MIN CALL</a>
+      <a href="/contact/" class="audit-btn">INQUIRE ABOUT MORGAN CREEK</a>
     </div>
     <div class="audit-body">
       <p class="audit-text"><strong>No pitch, just straight answers.</strong> tanvir@tanvirbhupal.com | 604-897-7826<br><br>I track data most agents ignore. When you find a property you like, I negotiate hard in your favour.</p>
