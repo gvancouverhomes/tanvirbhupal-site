@@ -15,7 +15,6 @@ permalink: /neighbourhoods/morgan-creek/
   .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
   .metric-list li { margin-bottom: 10px; }
   
-  /* Navigation Grid Styles */
   .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); margin-top: 80px; }
   .nav-section-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 3px; color: var(--meta); margin-bottom: 40px; text-align: center; }
   .nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1100px; margin: 0 auto; }
@@ -66,6 +65,23 @@ permalink: /neighbourhoods/morgan-creek/
         <li><strong>The Premium:</strong> ~$250,000</li>
     </ul>
     <p><strong>Why it matters:</strong> Fairway homes sell 35% faster. Because supply is fixed—the golf course isn't expanding—that fairway lot is your exit insurance. If you need to sell in 3-5 years, you won't sit on the market for 90 days with your equity locked up.</p>
+
+    <h2 class="section-title">Interior Lots vs Fairway Lots: What's the Difference?</h2>
+    <p>Not every Morgan Creek home backs onto the golf course. About 60% of properties are interior lots or gated enclaves.</p>
+    <p><strong>Interior lots offer:</strong></p>
+    <ul class="metric-list">
+        <li>Same architectural standards and build quality</li>
+        <li>Lower price point ($200K-$250K less than fairway)</li>
+        <li>Same strata services (landscaping, snow removal, exterior maintenance)</li>
+        <li>Faster sale than most South Surrey areas (just not as fast as fairway)</li>
+    </ul>
+    <p><strong>You don't get:</strong></p>
+    <ul class="metric-list">
+        <li>The golf course view</li>
+        <li>The 15% appreciation premium</li>
+        <li>The 35% faster resale velocity</li>
+    </ul>
+    <p><strong>Bottom line:</strong> If your budget is $1.6M and you want the Morgan Creek lifestyle without the fairway premium, interior lots are a solid play. You still get the lock-and-go convenience and architectural consistency. You just won't have the same exit speed when you sell.</p>
 
     <h2 class="section-title">Who This Is For</h2>
     <p><strong>Best fit:</strong> Executives downsizing from larger homes who want zero maintenance but won't compromise on finish quality. Many townhomes here feature "Master on the Main" layouts specifically for this demographic. Downsizing isn't just about square footage; it's about designing your next chapter without spending weekends on yard work.</p>
