@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Elgin Chantrell Real Estate | South Surrey's School Catchment Power Player
-description: Elgin Chantrell real estate analysis: resale speed, top-rated school boundaries, and executive home infrastructure in South Surrey.
+title: "Elgin Chantrell Real Estate | South Surrey's School Catchment Power Player"
+description: "Elgin Chantrell real estate analysis: resale speed, top-rated school boundaries, and executive home infrastructure in South Surrey."
 permalink: /neighbourhoods/elgin-chantrell/
 ---
 
