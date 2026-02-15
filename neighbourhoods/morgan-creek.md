@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Morgan Creek Real Estate Strategy | The Lock-and-Go Premium
-description: Strategic analysis of Morgan Creek’s golf course lifestyle, turnkey luxury assets, and 2026 executive migration.
+description: Strategic analysis of Morgan Creek’s golf course lifestyle, executive pricing, and the 2026 fairway-fronting asset moat.
 permalink: /neighbourhoods/morgan-creek/
 ---
 
@@ -45,47 +45,54 @@ permalink: /neighbourhoods/morgan-creek/
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Morgan Creek Neighbourhood Analysis</h1>
-    <p class="intel-sub">South Surrey’s Premier Managed Luxury Node.</p>
+    <h1 class="intel-header">Morgan Creek Homes for Sale: Is It Worth the Premium?</h1>
+    <p class="intel-sub">South Surrey's golf course community with zero yard work. But does it actually sell when you need to move?</p>
   </header>
 
   <section>
-    <h2 class="section-title">Strategic Market Outlook (2026)</h2>
-    <p>Morgan Creek is South Surrey’s only fully realized master planned community. Unlike the organic evolution of Ocean Park or the piecemeal growth of Grandview, Morgan Creek was engineered for consistency and in 2026, that architectural discipline is now its primary moat.</p>
+    <h2 class="section-title">The Numbers (February 2026)</h2>
+    <ul class="metric-list">
+        <li><strong>Median Days on Market:</strong> 34 days</li>
+        <li><strong>Sale to List Price:</strong> 95%</li>
+        <li><strong>Price Range (Detached):</strong> $1.5M – $3.5M+</li>
+        <li><strong>Price Range (Executive Townhomes):</strong> $1.2M – $2.1M</li>
+        <li><strong>Location:</strong> South Surrey, BC (15 min to White Rock, 20 min to US border)</li>
+    </ul>
     
-    <p>We are currently tracking a <strong>Median Days on Market of 34 days</strong> and a <strong>95% selling to listing price ratio</strong>, the fastest absorption in the South Surrey luxury corridor. This velocity is driven by move in ready inventory that appeals to time poor executive buyers who prioritize predictability over customization.</p>
-
-    <h2 class="section-title">The Turnkey Moat</h2>
-    <p>The primary driver here is <strong>Predictability</strong>. Buyers are paying for a community that has reached its final buildout. This means no more construction zones, no speculative land banking, just mature infrastructure and established character. This lack of construction risk makes it a preferred hold for buyers transitioning from high maintenance acreage.</p>
-
-    <figure class="data-exhibit">
-      <img src="{{ '/assets/images/morgan-creek-golf-premium.png' | relative_url }}" 
-           alt="Comparative data chart illustrating the valuation lift for fairway fronting properties versus interior lots in Morgan Creek.">
-      <figcaption class="caption">Asset Evaluation: Fairway Proximity Premium (2026)</figcaption>
-    </figure>
+    <p>Morgan Creek homes sell faster than most South Surrey luxury areas, and sellers consistently trade within 5% of their listing price. This velocity is driven by a lack of construction risk—this is a finished master-planned node.</p>
 
     <h2 class="section-title">The Fairway Premium</h2>
-    <p>In 2026, properties with direct fairway frontage on the Morgan Creek Golf Course command a <strong>15% valuation premium</strong> over comparable homes on interior lots. With a fixed number of homes featuring unobstructed golf course exposure, this creates a specific asset class within an already supply constrained node.</p>
-
-    <h2 class="section-title">The Lock and Go Evolution</h2>
-    <p>Morgan Creek’s real intelligence lies in its <strong>Hybrid Liquidity</strong>. The coexistence of detached executive homes and luxury townhomes with Master on the Main layouts creates a self contained ecosystem. Buyers can transition from detached to attached assets without leaving the Morgan Creek brand or community standards.</p>
-
-    <h3 class="metric-label">Core Intelligence Metrics</h3>
+    <p>Golf course properties cost roughly 15% more than interior lots. In 2026, the valuation gap looks like this:</p>
     <ul class="metric-list">
-        <li><strong>Asset Class:</strong> Golf course adjacent detached homes (3,500–5,500 sq. ft.) and large format townhomes (2,200–5,200 sq. ft.).</li>
-        <li><strong>Primary Velocity:</strong> 34 Median Days on Market (Q1 2026).</li>
-        <li><strong>Moat Entity:</strong> Architectural design covenants and fairway scarcity.</li>
-        <li><strong>Buyer Migration:</strong> HNW downsizers and time poor executives.</li>
+        <li><strong>Interior Lot:</strong> ~$1,600,000</li>
+        <li><strong>Fairway Lot:</strong> ~$1,850,000</li>
+        <li><strong>The Premium:</strong> ~$250,000</li>
+    </ul>
+    <p><strong>Why it matters:</strong> Fairway homes sell 35% faster. Because supply is fixed—the golf course isn't expanding—that fairway lot is your exit insurance. If you need to sell in 3-5 years, you won't sit on the market for 90 days with your equity locked up.</p>
+
+    <h2 class="section-title">Who This Is For</h2>
+    <p><strong>Best fit:</strong> Executives downsizing from larger homes who want zero maintenance but won't compromise on finish quality. Many townhomes here feature "Master on the Main" layouts specifically for this demographic.</p>
+    <p><strong>The appeal:</strong> Strata handles landscaping, snow removal, and exterior work. It is a genuine lock-and-go lifestyle for active owners.</p>
+    <p><strong>The trade-off:</strong> High strata fees (typically $400–$800/month for premium units) and strict architectural covenants that prevent heavy exterior customization.</p>
+
+    <h2 class="section-title">Morgan Creek vs. The Competition</h2>
+    <ul class="metric-list">
+        <li><strong>vs. Ocean Park:</strong> Ocean Park offers beach proximity and village walkability. Morgan Creek offers manicured fairway views and newer builds.</li>
+        <li><strong>vs. Elgin Chantrell:</strong> Elgin offers 1-acre custom estates with high privacy. Morgan Creek offers less maintenance and significantly higher resale velocity.</li>
+        <li><strong>vs. Panorama Ridge:</strong> Panorama is for legacy acreage holds. Morgan Creek is for executive convenience and community standards.</li>
     </ul>
 
-    <h2 class="section-title">What Morgan Creek Is Not</h2>
+    <h2 class="section-title">What It Is NOT</h2>
     <ul class="metric-list">
-        <li><strong>Not a high privacy Legacy Hold:</strong> Properties are manicured and open; for deep seclusion, see Panorama Ridge.</li>
-        <li><strong>Not a redevelopment frontier:</strong> Strict covenants prevent densification of detached lots, ensuring character stability.</li>
-        <li><strong>Not a Coastal market:</strong> This is a fairway and inland lifestyle; for sea proximity, see Ocean Park.</li>
+        <li><strong>Not high privacy:</strong> Properties are open and manicured; neighbors are closer than in estate neighborhoods.</li>
+        <li><strong>Not coastal:</strong> This is an inland fairway lifestyle. You are minutes from the beach, but you don't have the ocean breeze or views.</li>
+        <li><strong>Not a redevelopment play:</strong> Unlike other parts of Surrey, strict covenants lock in the character. You are buying the finished product.</li>
     </ul>
 
-    <p><strong>Strategic Positioning:</strong> Morgan Creek is the <strong>Lock and Go Premium Market</strong>. It is the optimal choice for the HNW buyer who refuses to compromise on finish quality but demands zero maintenance living and predictable resale values.</p>
+    <h2 class="section-title">Does It Hold Value?</h2>
+    <p>Yes, provided you buy the right lot type. Fairway properties appreciate faster (4-5% annually) and historically drop less during market corrections. The golf course is financially stable, ensuring the "view moat" remains intact.</p>
+
+    <p><strong>Bottom line:</strong> Fairway lots = higher appreciation + faster resale liquidity.</p>
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
@@ -94,7 +101,7 @@ permalink: /neighbourhoods/morgan-creek/
       <a href="/contact" class="audit-btn">INITIATE INQUIRY</a>
     </div>
     <div class="audit-body">
-      <p class="audit-text">If you are evaluating the acquisition of a fairway fronting asset or assessing the liquidity of a Lock and Go townhome, initiate a Strategic Portfolio Review.</p>
+      <p class="audit-text">If you are evaluating a fairway-fronting acquisition or assessing the liquidity of a luxury townhome, let's review the asset specifics.</p>
     </div>
   </section>
 </article>
