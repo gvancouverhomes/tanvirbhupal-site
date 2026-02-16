@@ -1,33 +1,20 @@
 ---
 layout: default
-title: Panorama Ridge Real Estate Strategy | South Surrey Legacy Estates
-description: Strategic analysis of Panorama Ridge’s fixed-supply market, ridgeline scarcity, and the 2026 Privacy Premium.
+title: Panorama Ridge Real Estate Strategy | South Surrey's Estate Privacy Enclave
+description: Strategic analysis of Panorama Ridge’s multi-acre lots, gated properties, and its role as a legacy estate privacy stronghold in South Surrey.
 permalink: /neighbourhoods/panorama-ridge/
 ---
 
 <style>
-  /* Variables & Root */
   :root { --dark: #1a1a1a; --mid: #555; --light: #666; --border: #eee; --bg-alt: #fafafa; --meta: #999; }
-
-  /* Base Layout */
   .intel-container { max-width: 800px; margin: 0 auto; padding: 60px 20px; color: #444; line-height: 1.8; }
-  
-  /* Typography */
   .intel-header { font-size: 2.5rem; font-weight: normal; color: var(--dark); margin-bottom: 20px; line-height: 1.2; }
   .intel-sub { font-size: 1.2rem; color: var(--mid); margin-bottom: 40px; font-style: italic; }
   .section-title { font-size: 1.4rem; color: var(--dark); margin-top: 40px; border-left: 3px solid var(--dark); padding-left: 20px; margin-bottom: 20px; }
   .metric-label { text-transform: uppercase; font-size: 0.85rem; letter-spacing: 2px; color: var(--dark); margin-top: 40px; margin-bottom: 15px; font-weight: bold; }
-  
-  /* Lists */
   .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
   .metric-list li { margin-bottom: 10px; }
 
-  /* Data Exhibit */
-  .data-exhibit { margin: 50px 0; text-align: center; background: #fff; padding: 30px; border: 1px solid var(--border); }
-  .data-exhibit img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
-  .caption { font-size: 0.75rem; color: var(--meta); margin-top: 20px; text-transform: uppercase; letter-spacing: 2px; }
-
-  /* 10/10 Bulletproof Grid Audit Card */
   .audit-card { 
     margin-top: 60px; 
     padding: 40px; 
@@ -41,12 +28,10 @@ permalink: /neighbourhoods/panorama-ridge/
     gap: 20px 40px;
     align-items: center;
   }
-
   .audit-title { grid-area: header; margin: 0; font-weight: bold; color: var(--dark); font-size: 1.1rem; }
   .audit-action { grid-area: action; }
   .audit-body { grid-area: body; }
   .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 1.5rem; max-width: 650px; line-height: 1.6; }
-
   .audit-btn { 
     display: inline-block; 
     padding: 14px 28px; 
@@ -60,18 +45,15 @@ permalink: /neighbourhoods/panorama-ridge/
     border: 1px solid var(--dark); 
     white-space: nowrap; 
   }
-  .audit-btn:hover { background: var(--mid); border-color: var(--mid); }
 
-  /* Navigation Grid */
-  .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); }
+  .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); margin-top: 80px; }
   .nav-section-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 3px; color: var(--meta); margin-bottom: 40px; text-align: center; }
   .nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1100px; margin: 0 auto; }
-  .nav-card { display: block; padding: 30px 15px; background: #fff; border: 1px solid var(--border); text-decoration: none; transition: border-color 0.2s ease; text-align: center; }
+  .nav-card { display: block; padding: 30px 15px; background: #fff; border: 1px solid var(--border); text-decoration: none !important; transition: border-color 0.2s ease; text-align: center; }
   .nav-card:hover { border-color: var(--dark); }
   .nav-tag { display: block; font-size: 0.6rem; color: var(--meta); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
   .nav-name { display: block; font-size: 1rem; color: var(--dark); font-weight: bold; }
 
-  /* Responsive Hardening */
   @media (max-width: 768px) {
     .intel-container { padding: 40px 15px; }
     .intel-header { font-size: 1.85rem; }
@@ -79,63 +61,77 @@ permalink: /neighbourhoods/panorama-ridge/
       grid-template-columns: 1fr; 
       grid-template-areas: "header" "body" "action"; 
       padding: 30px 20px;
-      gap: 20px;
     }
     .audit-btn { width: 100%; text-align: center; }
-    .nav-section { padding: 50px 15px; }
+    .nav-grid { grid-template-columns: 1fr; }
   }
 </style>
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Panorama Ridge Neighbourhood Analysis</h1>
-    <p class="intel-sub">South Surrey's Legacy Ridgeline and Estate Stronghold.</p>
+    <h1 class="intel-header">Panorama Ridge: South Surrey's Estate Privacy Enclave</h1>
+    <p class="intel-sub">Multi-acre lots, gated properties, and space you can't find anywhere else in South Surrey.</p>
   </header>
 
   <section>
-    <h2 class="section-title">Strategic Market Outlook (2026)</h2>
-    <p>In 2026, Panorama Ridge remains South Surrey's legacy wealth stronghold: a market defined by long-term ownership, not transactional velocity. While Grandview Heights offers modern density and NCP-driven growth, the Ridge operates under entirely different mechanics: extreme scarcity of inventory and its role as a permanent "Heritage Summit."</p>
-    
-    <p>We are currently tracking a significant <strong>Privacy Premium</strong> in this enclave. Gated, multi-acre estates on the south-facing ridgeline command valuations that decouple from broader Surrey market averages. Pricing here is driven less by per-square-foot metrics and more by unquantifiable scarcity: gated access, ridgeline positioning, and protected view corridors of Mud Bay and the San Juan Islands.</p>
-    
-    <p>Market data for Q1 2026 shows that while inventory has risen elsewhere, Panorama Ridge maintains a <strong>Low-Velocity status</strong>, with average days on market (DOM) 30 to 40 percent higher than Grandview Heights. This is not a sign of weakness; it reflects the deliberate, high-conviction nature of buyers who enter this market for generational ownership, not speculation.</p>
+    <p>Panorama Ridge is South Surrey's estate neighbourhood. Half-acre to 2-acre lots. Gated driveways. South-facing ridgeline views of Mud Bay and the San Juan Islands. This is where people buy when privacy and space are non-negotiable.</p>
+    <p>This isn't a high-turnover market. People buy here for long-term ownership, often generational. Homes sit on the market longer than other South Surrey neighbourhoods, but that's not weakness. It's selectivity. Buyers here are deliberate. They're not rushing.</p>
 
-    <h2 class="section-title">Zoning as Moat</h2>
-    <p>Unlike the NCP-driven densification reshaping Grandview Heights, Panorama Ridge is protected by strict <strong>half-acre minimum zoning</strong>: a policy firewall that has resisted every Metro Vancouver densification wave since its establishment. This isn't a market that will absorb townhomes, duplexes, or subdivision plays. It's a <strong>fixed-supply enclave</strong> in a densifying region.</p>
-
-    <figure class="data-exhibit">
-      <img src="/assets/images/panorama-ridge-velocity-2026.png" 
-           alt="Q1 2026 scatter plot comparing Grandview Heights velocity (185% cluster) versus Panorama Ridge scarcity (sub-90% dispersion) with Privacy Premium overlay.">
-      <figcaption class="caption">Strategic Analysis: Panorama Ridge Scarcity & Value Decoupling</figcaption>
-    </figure>
-
-    <h3 class="metric-label">Core Intelligence Metrics</h3>
+    <h2 class="section-title">What You're Actually Buying</h2>
     <ul class="metric-list">
-        <li><strong>Education Authority:</strong> Colebrook Elementary, North Ridge Elementary, and Panorama Ridge Secondary.</li>
-        <li><strong>Asset Class:</strong> Gated executive estates (5,000+ sq. ft.), original ridgeline custom builds, and 1/2-acre to 2-acre parcels.</li>
-        <li><strong>Infrastructure Entity:</strong> Direct access to Highway 10 and Highway 99 corridors, and proximity to the Boundary Bay regional trail system.</li>
-        <li><strong>Zoning Context:</strong> Protected by half-acre minimum lot size policies: untouched by the density reforms applied to NCP zones elsewhere in South Surrey.</li>
+        <li><strong>Location:</strong> South Surrey, elevated ridgeline position. Direct access to Highway 10 and Highway 99. 20 minutes to the US border, under an hour to downtown Vancouver.</li>
+        <li><strong>Home Size:</strong> Executive estates, typically 5,000+ square feet. These are custom builds designed for large families or multi-generational living.</li>
+        <li><strong>Lot Size:</strong> Half-acre minimum, up to 2+ acres. This is the only South Surrey neighbourhood where you can get true estate-sized parcels. Gated driveways, long setbacks from the road, mature trees.</li>
+        <li><strong>The Privacy Premium:</strong> Gated, multi-acre properties on the south-facing ridgeline command significant premiums. Pricing here doesn't follow typical per-square-foot metrics. You're paying for scarcity: ridgeline views, gated access, and space that can't be replicated.</li>
     </ul>
 
-    <h2 class="section-title">What Panorama Ridge Is Not</h2>
+    <h2 class="section-title">Why Panorama Ridge Holds Value</h2>
     <ul class="metric-list">
-        <li><strong>Not a redevelopment opportunity market:</strong> Zoning protections prevent subdivision or density plays.</li>
-        <li><strong>Not a first-time buyer entry point:</strong> Pricing floors reflect legacy land value, not starter-home economics.</li>
-        <li><strong>Not experiencing NCP-driven transformation:</strong> This is a preservation enclave, not a growth corridor.</li>
+        <li><strong>Zoning Protection:</strong> Half-acre minimum lot size is locked in. While other South Surrey neighbourhoods are seeing townhome developments and lot splits, Panorama Ridge can't be subdivided. No duplexes. No townhomes. The character is preserved by zoning.</li>
+        <li><strong>Fixed Supply:</strong> There's no more land to develop. The neighbourhood is built out. The only way to buy here is when an existing owner sells, and that doesn't happen often.</li>
+        <li><strong>Generational Ownership:</strong> People buy here and stay. This isn't a stepping-stone neighbourhood. It's a destination. That low turnover creates scarcity, and scarcity protects value.</li>
     </ul>
 
-    <p><strong>Strategic Positioning:</strong> Panorama Ridge is not a velocity play: it's a scarcity hold in a region that will never replicate it. Values in 2026 are anchored by <strong>Land-Value Strongholds</strong>, where preservation of space and privacy drives long-term appreciation, independent of transactional market noise.</p>
+    <h2 class="section-title">Who Panorama Ridge Is For</h2>
+    <p><strong>This area fits you if:</strong></p>
+    <ul class="metric-list">
+        <li>You want multi-acre privacy and don't want to see your neighbours</li>
+        <li>You need 5,000+ square feet for a large or multi-generational family</li>
+        <li>You value gated access and ridgeline views</li>
+        <li>You're planning to stay long-term (10+ years)</li>
+        <li>You're established professionally and this is your legacy property</li>
+    </ul>
+
+    <p><strong>This area does NOT fit if:</strong></p>
+    <ul class="metric-list">
+        <li>You want walkable village living (see Ocean Park)</li>
+        <li>You're downsizing and don't want to maintain a large estate</li>
+        <li>You need fast resale velocity (homes here take longer to sell)</li>
+        <li>You want lock-and-go, low-maintenance living (see Morgan Creek)</li>
+        <li>You're a first-time luxury buyer testing the market (entry pricing reflects legacy land value)</li>
+    </ul>
+
+    <h2 class="section-title">Panorama Ridge vs The Competition</h2>
+    <ul class="metric-list">
+        <li><strong>vs Elgin Chantrell:</strong> Elgin Chantrell gives you 12,000 sq ft to 1-acre lots with school catchment priority. Panorama Ridge gives you half-acre to 2+ acre estates with ridgeline privacy. Elgin Chantrell is for executive families with kids. Panorama Ridge is for legacy estate holders.</li>
+        <li><strong>vs Morgan Creek:</strong> Morgan Creek gives you golf course views and strata-managed maintenance. Panorama Ridge gives you gated privacy and multi-acre space. Morgan Creek is for downsizers who want convenience. Panorama Ridge is for buyers who want total seclusion.</li>
+        <li><strong>vs Ocean Park:</strong> Ocean Park gives you walkable village living and ocean proximity. Panorama Ridge gives you ridgeline elevation and acreage privacy. Ocean Park is for lifestyle buyers who want community. Panorama Ridge is for buyers who want separation.</li>
+    </ul>
+
+    <h2 class="section-title">The Resale Reality</h2>
+    <p>Panorama Ridge doesn't operate on the same timeline as other South Surrey neighbourhoods. Homes here take longer to sell because the buyer pool is smaller and more selective.</p>
+    <p>But that doesn't mean values are weak. The half-acre zoning protection ensures supply stays fixed while the rest of South Surrey densifies. As Metro Vancouver continues to absorb density, neighbourhoods that preserve space become rarer and more valuable.</p>
+    <p>Value here is driven by land scarcity, not per-square-foot comps. You're buying ridgeline positioning, gated access, and multi-acre privacy that can't be replicated in any other South Surrey neighbourhood.</p>
+    <p>If you're buying here, you're buying for generational ownership. This isn't a 3-5 year flip. This is a 10-20 year hold, or longer.</p>
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
     <h2 id="audit-heading" class="audit-title">Strategic Portfolio Review</h2>
-    
     <div class="audit-action">
-      <a href="/contact" class="audit-btn">INITIATE INQUIRY</a>
+      <a href="/contact/" class="audit-btn">INQUIRE ABOUT PANORAMA RIDGE</a>
     </div>
-
     <div class="audit-body">
-      <p class="audit-text">For Legacy Holders: If you're evaluating whether your ridgeline estate still reflects optimal positioning in 2026, or if you're considering acquisition into this fixed-supply enclave, initiate a Strategic Portfolio Review.</p>
+      <p class="audit-text">For Legacy Holders: If you're evaluating whether your ridgeline estate still reflects optimal positioning, or if you're considering acquisition into this fixed-supply enclave, initiate a Strategic Portfolio Review.</p>
       <p class="audit-text" style="margin-bottom: 0;">For a comparative analysis of ridgeline asset valuations versus Modern New-Build assets in Grandview Heights, or to audit your Privacy Premium positioning, please initiate an inquiry.</p>
     </div>
   </section>
@@ -146,11 +142,11 @@ permalink: /neighbourhoods/panorama-ridge/
     <h2 class="nav-section-title">Compare Strategic Locations</h2>
     <nav class="nav-grid" aria-label="Neighborhood navigation">
       <a href="/neighbourhoods/ocean-park/" class="nav-card">
-        <span class="nav-tag">The Cornerstone</span>
+        <span class="nav-tag">The Coastal Village</span>
         <span class="nav-name">Ocean Park &rarr;</span>
       </a>
       <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-        <span class="nav-tag">The Strategic Anchor</span>
+        <span class="nav-tag">The Golf Course Enclave</span>
         <span class="nav-name">Morgan Creek &rarr;</span>
       </a>
       <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
