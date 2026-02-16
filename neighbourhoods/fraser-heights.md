@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fraser Heights Real Estate Strategy | The Elevated Gateway
-description: Strategic analysis of Fraser Heights’ topographical moat, Pacific Academy anchor, and 2026 executive commuter arbitrage.
+description: Strategic analysis of Fraser Heights’ topographical moat, Pacific Academy anchor, and executive commuter arbitrage.
 permalink: /neighbourhoods/fraser-heights/
 ---
 
@@ -48,56 +48,78 @@ permalink: /neighbourhoods/fraser-heights/
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Fraser Heights Neighbourhood Analysis</h1>
-    <p class="intel-sub">South Surrey’s Strategic Commuter Stronghold.</p>
+    <h1 class="intel-header">Fraser Heights: South Surrey's Elevated Commuter Hub</h1>
+    <p class="intel-sub">Mountain views, highway access, and more house for less money than coastal South Surrey.</p>
   </header>
 
   <section>
-    <h2 class="section-title">Strategic Market Outlook (2026)</h2>
-    <p>Fraser Heights remains the "Commuter’s Fortress." While South Surrey struggles with increasing congestion on the Highway 99 corridor, Fraser Heights has capitalized on its immediate access to the Trans-Canada and South Fraser Perimeter Road. In Q1 2026, we are tracking a <strong>Median Days on Market of 38 days</strong>, driven almost exclusively by tech and medical professionals who prioritize logistics over coastal proximity.</p>
-    
-    <p>The market here is characterized by <strong>High-Utility Luxury</strong>. This node appeals to the buyer who refuses to trade internal square footage for "beach vibe," favoring the 25 minutes saved on their morning commute and the topographical elevation that secures their view corridor.</p>
+    <p>Fraser Heights sits on the northern bench of South Surrey, elevated above the valley floor. You get mountain and river views, direct access to Highway 1 and the South Fraser Perimeter Road, and significantly more house for your money compared to Morgan Creek or Elgin Chantrell.</p>
+    <p>This isn't a beach neighbourhood. You're not walking to cafes or the ocean. But if your priority is commute time to Burnaby, New West, or the Fraser Valley, and you want 5,000+ square feet without paying coastal premiums, Fraser Heights delivers.</p>
 
-    <h2 class="section-title">The Topographical Moat</h2>
-    <p>The northern "Bench" of Fraser Heights offers something South Surrey rarely provides: unobstructed mountain and river views. In 2026, the value delta between a standard interior lot and a "View-Lot" on the ridge has widened to <strong>22%</strong>. Because these view corridors are protected by the slope's grade, they represent some of the most secure equity holds in the region.</p>
+    <h2 class="section-title">What You're Actually Buying</h2>
+    <ul class="metric-list">
+        <li><strong>Location:</strong> North Surrey/South Surrey border, elevated bench position. 5 minutes to Highway 1, 10 minutes to South Fraser Perimeter Road, 25-30 minutes to Burnaby, 20 minutes to the US border.</li>
+        <li><strong>Home Types:</strong> Large custom builds, typically 4,000-7,000 square feet. Modern hillside homes with walkout basements and view corridors. These are executive family homes built for space.</li>
+        <li><strong>Lot Sizes:</strong> Similar to Elgin Chantrell (10,000-15,000 square feet), but at lower price points. You're getting comparable lot size and home size for 15-20% less than coastal South Surrey.</li>
+        <li><strong>The View Premium:</strong> Homes on the northern bench with unobstructed mountain and river views command significant premiums over interior lots. These view corridors are protected by the slope grade, securing your long-term equity hold.</li>
+    </ul>
+
+    <h2 class="section-title">Why Fraser Heights Works for Commuters</h2>
+    <p>Fraser Heights is the "Commuter's Fortress." While South Surrey struggles with increasing congestion on the Highway 99 corridor, Fraser Heights bypasses it entirely. You're on Highway 1 before coastal residents reach the merge.</p>
+    <ul class="metric-list">
+        <li><strong>Highway Access:</strong> Immediate access to Highway 1 and the South Fraser Perimeter Road. Commutes to Burnaby, New West, or Richmond are typically 25-35 minutes.</li>
+        <li><strong>Time Saved:</strong> Saving 20-30 minutes each way compared to coastal neighborhoods equates to 200+ hours back in your life annually.</li>
+        <li><strong>Logistical Efficiency:</strong> Medical professionals (RCH/SMH) and tech executives prioritize this node for its high-utility luxury and logistical dominance.</li>
+    </ul>
 
     <figure class="data-exhibit">
       <img src="{{ '/assets/images/fraser-heights-view-premium.png' | relative_url }}" 
-           alt="Comparative bar chart illustrating the 22% valuation premium for ridge-fronting view lots in Fraser Heights.">
-      <figcaption class="caption">Asset Evaluation: The Topographical Moat (2026)</figcaption>
+           alt="Comparative bar chart illustrating the valuation premium for ridge-fronting view lots in Fraser Heights.">
+      <figcaption class="caption">Asset Evaluation: The Topographical Moat</figcaption>
     </figure>
 
     <h2 class="section-title">The Pacific Academy Anchor</h2>
-    <p>In Fraser Heights, the school isn't just a local feature; it is the <strong>Economic Floor</strong>. The presence of Pacific Academy creates a localized "Micro-Moat." Families are willing to pay a <strong>10% premium</strong> to be within a 5-minute radius of the campus, creating a highly liquid sub-market that operates independently of broader Fraser Valley trends.</p>
+    <p>In Fraser Heights, the school isn't just a local feature; it is the <strong>Economic Floor</strong>. The presence of Pacific Academy (K-12) creates a localized "Micro-Moat." Families prioritize proximity to campus, creating a highly liquid sub-market where homes sell faster and command a premium compared to the broader market.</p>
 
-    <h2 class="section-title">The Commuter Arbitrage</h2>
-    <p>The smartest money in Fraser Heights is playing the <strong>Value Gap</strong>. As of Q1 2026, you can acquire a 5,000 sq. ft. custom build in Fraser Heights for roughly <strong>15–18% less</strong> than a comparable build in Elgin Chantrell. For the executive who prioritizes "House over Hype," Fraser Heights offers the highest ratio of finish-quality-to-price in the city.</p>
+    <h2 class="section-title">The Value Proposition: Commuter Arbitrage</h2>
+    <p>The smartest money in Fraser Heights is playing the <strong>Value Gap</strong>. For the executive who prioritizes "House over Hype," you can acquire a 5,000 sq. ft. custom build here for roughly <strong>15-20% less</strong> than a comparable build in Elgin Chantrell. You are trading coastal proximity for mountain views, highway access, and significant equity savings.</p>
 
     <h3 class="metric-label">Core Intelligence Metrics</h3>
     <ul class="metric-list">
-        <li><strong>Asset Class:</strong> Large-lot executive homes (4,000–7,000 sq. ft.) and modern hillside builds.</li>
-        <li><strong>Primary Velocity:</strong> 38 Median Days on Market (Q1 2026).</li>
-        <li><strong>Moat Entity:</strong> Pacific Academy proximity and protected view corridors.</li>
-        <li><strong>Buyer Migration:</strong> Medical professionals (RCH/SMH) and Burnaby-based tech executives.</li>
+        <li><strong>Asset Class:</strong> Large-lot executive homes (4,000-7,000 sq. ft.) and modern hillside builds.</li>
+        <li><strong>Topographical Moat:</strong> Protected mountain and river view corridors secured by slope grade.</li>
+        <li><strong>Moat Entity:</strong> Pacific Academy proximity and immediate Highway 1 logistics.</li>
+        <li><strong>Buyer Migration:</strong> Medical professionals, tech executives, and Fraser Valley commuters.</li>
     </ul>
 
-    <h2 class="section-title">What Fraser Heights Is Not</h2>
+    <h2 class="section-title">Who Fraser Heights Is For</h2>
+    <p><strong>This area fits you if:</strong></p>
     <ul class="metric-list">
-        <li><strong>Not a "Walkable Village":</strong> This is a car-dependent fortress. For a village lifestyle, see Ocean Park.</li>
-        <li><strong>Not a redevelopment play:</strong> Most of the heights is established; you are buying the house, not a future sub-division lot.</li>
-        <li><strong>Not for the "Beach" buyer:</strong> You are trading the salt air for the silhouette of the Golden Ears.</li>
+        <li>You commute to Burnaby, New West, Richmond, or the Fraser Valley for work.</li>
+        <li>You want 5,000+ square feet without paying coastal South Surrey prices.</li>
+        <li>Your kids attend Pacific Academy and you value a 5-minute school run.</li>
+        <li>You value mountain and river views over ocean proximity.</li>
     </ul>
 
-    <p><strong>Strategic Positioning:</strong> Fraser Heights is the <strong>Strategic Commuter’s Stronghold</strong>. It is the optimal asset for the family that values time-efficiency and internal square footage over coastal proximity.</p>
+    <p><strong>This area does NOT fit if:</strong></p>
+    <ul class="metric-list">
+        <li>You prioritize walkable beach village living (see Ocean Park).</li>
+        <li>You want lock-and-go, strata-managed golf course living (see Morgan Creek).</li>
+        <li>You work downtown and require a rail or Highway 99 commute.</li>
+        <li>You're downsizing and don't need significant internal square footage.</li>
+    </ul>
+
+    <h2 class="section-title">The Resale Reality</h2>
+    <p>Fraser Heights sells to a specific buyer: commuters who prioritize highway access and value-for-space over coastal lifestyle. While the buyer pool is more selective than Morgan Creek, the value proposition is permanent. View-lot properties hold value exceptionally well because the corridors are protected by topography—they cannot be replicated. If you're buying here, you're buying practical luxury: more house, better commute, and significant time back in your day.</p>
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
     <h2 id="audit-heading" class="audit-title">Strategic Portfolio Review</h2>
     <div class="audit-action">
-      <a href="/contact" class="audit-btn">INITIATE INQUIRY</a>
+      <a href="/contact/" class="audit-btn">INQUIRE ABOUT FRASER HEIGHTS</a>
     </div>
     <div class="audit-body">
-      <p class="audit-text">If you are evaluating the liquidity of a Fraser Heights asset or assessing the value gap relative to South Surrey, initiate a Strategic Portfolio Review.</p>
+      <p class="audit-text">If you are evaluating the liquidity of a Fraser Heights asset or assessing the value gap relative to coastal South Surrey, initiate a Strategic Portfolio Review.</p>
     </div>
   </section>
 </article>
