@@ -1,55 +1,52 @@
 ---
 layout: default
-title: The Approach
-description: A deliberate, privacy-focused methodology for families relocating to Surrey and South Surrey.
+title: About
+description: Discipline, leverage, and negotiation strategy for executives making significant real estate decisions in Surrey and South Surrey.
 permalink: /about/
 ---
 
 <section class="section-pad">
   <div style="max-width: 800px; margin: 0 auto;">
-    
-    <h1 style="font-size: 2.5rem; font-weight: normal; color: #1a1a1a; line-height: 1.2; margin-bottom: 40px;">
-        A steady hand in a <br>high-stakes transition.
-    </h1>
+
+   <h1 style="font-size: 2.5rem; font-weight: normal; color: #1a1a1a; line-height: 1.2; margin-bottom: 40px;">
+  Discipline Over Drama.
+  </h1>
+
 
     <div style="color: #444; font-size: 1.1rem; line-height: 1.8;">
-        <p>Relocating a family is a significant life transition that demands more than a salesperson—it requires a strategic advisor. As someone deeply rooted in Surrey, I provide a deliberate, privacy-first methodology for professionals and families moving to our community.</p>
 
-        <h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 2px; color: #1a1a1a; margin-top: 40px;">Why a Deliberate Approach?</h3>
-        <p>In a market often defined by "loud sales energy," I prioritize quality over speed. My process is designed to filter out the noise, allowing you to focus exclusively on opportunities that align with your family's long-term goals and legacy.</p>
+      <p>I work with executives in Surrey, South Surrey, and White Rock who are making significant real estate decisions and don’t want to overpay or get stuck with something that won’t move when it’s time.</p>
+
+      <p>Most of my clients aren’t focused on finishes. They’re focused on flexibility. They’ve built wealth by making disciplined decisions, and they expect the same discipline from their real estate advisor.</p>
+
+      <p>Whether you're buying your next place or preparing to sell, the fundamentals matter. Liquidity. Pricing strategy. Absorption rates. Negotiation leverage.</p>
+
+      <p>I’m not in the business of dragging people through open houses or pretending there’s secret inventory no one else can see. Most properties are on the same platforms. Everyone sees the same inventory. The difference isn’t access. It’s analysis.</p>
+
+      <p>Occasionally something exclusive comes through my network, and when it does, my clients see it. But that’s not the strategy.</p>
+
+      <p><strong>The strategy is discipline.</strong></p>
+
+      <p>If you're buying, you send me what stands out. I’ll tell you directly whether it’s priced right, whether that property type is actually liquid in that area, how comparable homes are performing, and whether there are resale risks that matter long term.</p>
+
+      <p>If you're selling, we price based on data, not ego. I look at days on market by property type, sale-to-list ratios, and real absorption rates so we position your home to move without leaving money on the table.</p>
+
+      <p>And just as important, I don’t create noise. I don’t shop budgets around. I don’t pressure decisions. Leverage matters, and so does discretion.</p>
+
+      <p>My value isn’t in tours or theatrics. It’s in protecting your position and negotiating from strength.</p>
+
+      <br>
+
+      <p>We start with a quick 15 to 20 minute call to see if I can actually help. If it makes sense, we move forward. If not, no pressure.</p>
+
+      <p><strong>If you want straight answers and a negotiating advantage, let’s talk.</strong></p>
+
+      <p>
+        Tanvir Bhupal<br>
+        604-897-7826<br>
+        tanvir@tanvirbhupal.com
+      </p>
+
     </div>
-
-    <div style="display: flex; align-items: center; gap: 40px; margin: 60px 0; padding: 40px; background: #fdfcf9; border: 1px solid #eee; flex-wrap: wrap;">
-      <div style="flex: 1; min-width: 250px;">
-        <img src="/assets/images/family.png" alt="Tanvir Bhupal and Family" style="width: 100%; height: auto; border-radius: 2px; filter: grayscale(10%);">
-      </div>
-      <div style="flex: 1.5; min-width: 250px;">
-        <p style="font-style: italic; color: #1a1a1a; font-size: 1.1rem; line-height: 1.6;">
-          "I understand the weight of a family move because I’ve raised my own family right here. My goal is to ensure your transition into our neighborhood is as steady and successful as the life we've built here."
-        </p>
-      </div>
-    </div>
-
-    <h2 style="font-size: 1.5rem; font-weight: normal; text-transform: uppercase; letter-spacing: 2px; border-bottom: 1px solid #eee; padding-bottom: 15px; margin-top: 80px;">The Three Pillars of Execution</h2>
-    
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 30px; margin-top: 30px;">
-      <div>
-        <h4 style="margin-bottom: 10px;">Selective Partnership</h4>
-        <p style="font-size: 0.95rem; color: #666;">I limit my active client engagements to ensure you receive a high level of executive attention and your timeline remains the priority.</p>
-      </div>
-      <div>
-        <h4 style="margin-bottom: 10px;">Absolute Discretion</h4>
-        <p style="font-size: 0.95rem; color: #666;">I manage the process quietly, protecting your privacy from start to finish. Your intentions stay private until action is intentional.</p>
-      </div>
-      <div>
-        <h4 style="margin-bottom: 10px;">Native Local Intelligence</h4>
-        <p style="font-size: 0.95rem; color: #666;">As a long-term resident, I provide "ground-truth" on neighborhood micro-cultures that only a local can offer.</p>
-      </div>
-    </div>
-
-    <div style="text-align: center; margin-top: 80px;">
-      <a href="mailto:tanvir@realeasy.info" style="padding: 18px 40px; background: #1a1a1a; color: #fff; text-decoration: none; text-transform: uppercase; letter-spacing: 2px; font-size: 0.8rem;">Start a Private Inquiry</a>
-    </div>
-
   </div>
 </section>
