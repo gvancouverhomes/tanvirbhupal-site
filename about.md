@@ -50,6 +50,3 @@ permalink: /about/
 </section>
 
 
-    </div>
-  </div>
-</section>
