@@ -46,7 +46,6 @@ permalink: /about/
         tanvir@tanvirbhupal.com
       </p>
 
-    </div>
   </div>
 </section>
 
