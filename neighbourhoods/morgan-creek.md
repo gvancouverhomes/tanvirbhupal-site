@@ -103,7 +103,6 @@ permalink: /neighbourhoods/morgan-creek/
     <p>Morgan Creek properties hold value because the neighbourhood is fully mature. No more surprise developments. No infrastructure changes. The character is set.</p>
     <p>Fairway-backing properties have historically maintained their premium (10-15%) even during market corrections. Why? <strong>Fixed supply + consistent demand = price stability</strong>. Interior lots sell too, just not as fast. If your timeline is flexible, they're a solid choice.</p>
     
-    <p><em>To see how current market conditions are affecting valuations this month, visit my <a href="/blog/">Market Insights Blog</a>.</em></p>
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
