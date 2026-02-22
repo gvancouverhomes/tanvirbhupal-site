@@ -126,13 +126,13 @@ permalink: /neighbourhoods/panorama-ridge/
   </section>
 
 <section class="audit-card" aria-labelledby="audit-heading">
-    <h2 id="audit-heading" class="audit-title">Fraser Heights Portfolio Review</h2>
+    <h2 id="audit-heading" class="audit-title">Panorama Ridge Portfolio Review</h2>
     <div class="audit-action">
-      <a href="/contact" class="audit-btn">INQUIRE ABOUT FRASER HEIGHTS</a>
+      <a href="/contact" class="audit-btn">INQUIRE ABOUT PANORAMA RIDGE</a>
     </div>
     <div class="audit-body">
       <p class="audit-text">
-        Fraser Heights is North Surrey's premier school catchment community. Between the SFU-partnered Science Academy and a neighbourhood that has stayed quietly insulated from the speculation reshaping the rest of the region, property values here are built on stability. If you're thinking about buying, selling, or just want to understand what your property is worth, let's talk.
+        Panorama Ridge offers something increasingly rare in South Surrey: large lots, elevation, and zoning that has resisted the density push reshaping the rest of the region. Navigating the Ridge well means understanding the land-use bylaws that protect it. If you're looking to buy, sell, or benchmark your property's value, let's talk.
       </p>
       <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
         No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
