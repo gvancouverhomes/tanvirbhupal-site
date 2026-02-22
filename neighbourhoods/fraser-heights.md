@@ -102,13 +102,18 @@ permalink: /neighbourhoods/fraser-heights/
     <p>But the value proposition is strong. View-lot properties hold value exceptionally well because the mountain and river corridors are protected by topography. You can't build out those views. If you're buying here, you're buying practical luxury. More house, better commute, lower price.</p>
   </section>
 
-  <section class="audit-card" aria-labelledby="audit-heading">
-    <h2 id="audit-heading" class="audit-title">Questions About Fraser Heights?</h2>
+<section class="audit-card" aria-labelledby="audit-heading">
+    <h2 id="audit-heading" class="audit-title">Fraser Heights Portfolio Review</h2>
     <div class="audit-action">
-      <a href="/contact/" class="audit-btn">INQUIRE ABOUT FRASER HEIGHTS</a>
+      <a href="/contact" class="audit-btn">INQUIRE ABOUT FRASER HEIGHTS</a>
     </div>
     <div class="audit-body">
-      <p class="audit-text"><strong>No pitch, just straight answers.</strong> tanvir@tanvirbhupal.com | 604-897-7826<br><br>I track data most agents ignore. When you find a property you like, I negotiate hard in your favour.</p>
+      <p class="audit-text">
+        Fraser Heights is North Surrey's premier school catchment community. Between the SFU-partnered Science Academy and a neighbourhood that has stayed quietly insulated from the speculation reshaping the rest of the region, property values here are built on stability. If you're thinking about buying, selling, or just want to understand what your property is worth, let's talk.
+      </p>
+      <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
+        No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
+      </p>
     </div>
   </section>
 </article>
