@@ -106,12 +106,17 @@ permalink: /neighbourhoods/morgan-creek/
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
-    <h2 id="audit-heading" class="audit-title">Questions About Morgan Creek?</h2>
+    <h2 id="audit-heading" class="audit-title">Morgan Creek Portfolio Review</h2>
     <div class="audit-action">
-      <a href="/contact/" class="audit-btn">INQUIRE ABOUT MORGAN CREEK</a>
+      <a href="/contact" class="audit-btn">INQUIRE ABOUT MORGAN CREEK</a>
     </div>
     <div class="audit-body">
-      <p class="audit-text"><strong>No pitch, just straight answers.</strong> tanvir@tanvirbhupal.com | 604-897-7826<br><br>I track data most agents ignore. When you find a property you like, I negotiate hard in your favour.</p>
+      <p class="audit-text">
+        Morgan Creek's golf-course estates and luxury low-maintenance villas make it South Surrey's go-to market for buyers who want less upkeep without compromising on quality. If you're thinking about buying, selling, or just want to understand what your property is worth, let's talk.
+      </p>
+      <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
+        No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
+      </p>
     </div>
   </section>
 </article>
