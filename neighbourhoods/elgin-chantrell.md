@@ -94,13 +94,18 @@ permalink: /neighbourhoods/elgin-chantrell/
     <p>If you care about being able to sell when you need to, Elgin Chantrell gives you the best odds in South Surrey.</p>
   </section>
 
-  <section class="audit-card" aria-labelledby="audit-heading">
-    <h2 id="audit-heading" class="audit-title">Thinking About Elgin Chantrell?</h2>
+<section class="audit-card" aria-labelledby="audit-heading">
+    <h2 id="audit-heading" class="audit-title">Elgin Chantrell Portfolio Review</h2>
     <div class="audit-action">
-      <a href="/contact" class="audit-btn">GET IN TOUCH</a>
+      <a href="/contact" class="audit-btn">INQUIRE ABOUT ELGIN CHANTRELL</a>
     </div>
     <div class="audit-body">
-      <p class="audit-text">If you're considering buying or selling in Elgin Chantrell, let's talk. I'll tell you what's actually selling, what's overpriced, and whether the school premium makes sense for your situation.</p>
+      <p class="audit-text">
+        Elgin Chantrell's lot scarcity and school catchments make it one of South Surrey's most defensible long-term holds. If you're thinking about buying, selling, or just want to understand what your property is worth in today's market, let's talk.
+      </p>
+      <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
+        No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
+      </p>
     </div>
   </section>
 </article>
