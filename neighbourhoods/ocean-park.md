@@ -114,12 +114,17 @@ permalink: /neighbourhoods/ocean-park/
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
-    <h2 id="audit-heading" class="audit-title">Questions About Ocean Park?</h2>
+    <h2 id="audit-heading" class="audit-title">Ocean Park Portfolio Review</h2>
     <div class="audit-action">
-      <a href="/contact/" class="audit-btn">INQUIRE ABOUT OCEAN PARK</a>
+      <a href="/contact" class="audit-btn">INQUIRE ABOUT OCEAN PARK</a>
     </div>
     <div class="audit-body">
-      <p class="audit-text"><strong>No pitch, just straight answers.</strong> tanvir@tanvirbhupal.com | 604-897-7826<br><br>I track data most agents ignore. When you find a property you like, I negotiate hard in your favour.</p>
+      <p class="audit-text">
+        Ocean Park's low-density character and coastal village feel make it one of South Surrey's most stable and sought-after pockets. If you're looking to buy, sell, or benchmark your property's value, let's talk.
+      </p>
+      <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
+        No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
+      </p>
     </div>
   </section>
 </article>
