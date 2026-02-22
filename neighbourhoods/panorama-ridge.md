@@ -126,13 +126,17 @@ permalink: /neighbourhoods/panorama-ridge/
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
-    <h2 id="audit-heading" class="audit-title">Strategic Portfolio Review</h2>
+    <h2 id="audit-heading" class="audit-title">Panorama Ridge Portfolio Review</h2>
     <div class="audit-action">
-      <a href="/contact/" class="audit-btn">INQUIRE ABOUT PANORAMA RIDGE</a>
+      <a href="/contact" class="audit-btn">INQUIRE ABOUT PANORAMA RIDGE</a>
     </div>
     <div class="audit-body">
-      <p class="audit-text">For Legacy Holders: If you're evaluating whether your ridgeline estate still reflects optimal positioning, or if you're considering acquisition into this fixed-supply enclave, initiate a Strategic Portfolio Review.</p>
-      <p class="audit-text" style="margin-bottom: 0;">For a comparative analysis of ridgeline asset valuations versus Modern New-Build assets in Grandview Heights, or to audit your Privacy Premium positioning, please initiate an inquiry.</p>
+      <p class="audit-text">
+        Panorama Ridge offers something increasingly rare in South Surrey: large lots, elevation, and zoning that has resisted the density push reshaping the rest of the region. Navigating the Ridge well means understanding the land-use bylaws that protect it. If you're looking to buy, sell, or benchmark your property's value, let's talk.
+      </p>
+      <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
+        No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
+      </p>
     </div>
   </section>
 </article>
