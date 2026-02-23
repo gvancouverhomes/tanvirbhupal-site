@@ -92,6 +92,53 @@ permalink: /neighbourhoods/elgin-chantrell/
     <p>Homes here typically sell 30-40% faster than comparable luxury markets in South Surrey because the buyer pool is replenished every year by families entering the school system.</p>
     
     <p>If you care about being able to sell when you need to, Elgin Chantrell gives you the best odds in South Surrey.</p>
+
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do all Elgin Chantrell homes feed into the same schools?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "No. This is a common and costly assumption in South Surrey. School boundaries are granular and subject to change based on district capacity. Specific pockets of the neighbourhood may fall into different catchments without any obvious indication from the street address. We verify every address through the Surrey Schools Locator during due diligence to protect the primary driver of your investment: school access."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is there a quantifiable price premium for this specific catchment?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Because relocating families often filter their search by 'Elgin Park' before viewing a single home, these properties benefit from a recurrent buyer pool driven by school entry cycles. This creates a defensive price floor; homes inside the boundary typically command a 10–15% premium and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I register for Elgin Park Secondary before our move is complete?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Surrey School District requires proof that a student is 'ordinarily resident' in BC. Practically, this means you need a signed purchase agreement or long-term lease for an address within the boundary. You will also need photo ID, the student's birth certificate, and evidence of guardianship. Registration should be initiated as soon as subjects are removed to secure placement, especially for the competitive IB program."
+          }
+        }
+      ]
+    }
+    </script>
+
+    <h2 class="section-title">Elgin Chantrell: Frequently Asked Questions</h2>
+    
+    <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
+    <p>No. This is the most common and costly assumption buyers make in South Surrey. School boundaries are granular and subject to change based on district capacity. Specific pockets of the neighbourhood may fall into different catchments without any obvious indication from the street address. We verify every address through the **Surrey Schools Locator** during the due diligence phase to protect the primary driver of your investment: school access.</p>
+
+    <h3 class="metric-label">Is there a quantifiable price premium for this specific catchment?</h3>
+    <p>Yes. Because relocating families often filter their search by "Elgin Park" before viewing a single home, these properties benefit from a recurrent buyer pool driven by school entry cycles. This creates a defensive price floor; homes inside the boundary typically command a **10–15% premium** and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions.</p>
+
+    <h3 class="metric-label">How do I register for Elgin Park Secondary before our move?</h3>
+    <p>The Surrey School District requires proof that a student is "ordinarily resident" in BC. Practically, this means you need a **signed purchase agreement** or long-term lease for an address within the boundary. You will also need photo ID, the student's birth certificate, and evidence of guardianship. Because space is at a premium—especially for the **International Baccalaureate (IB) program**—registration should be initiated the moment your subjects are removed to ensure placement.</p>
+    </section>
+
+<section class="audit-card" aria-labelledby="audit-heading">
   </section>
 
 <section class="audit-card" aria-labelledby="audit-heading">
