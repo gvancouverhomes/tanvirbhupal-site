@@ -46,52 +46,23 @@ permalink: /neighbourhoods/elgin-chantrell/
   </header>
 
   <section>
-    <p>Elgin Chantrell is where executive families land when schools matter and they want space. These aren't lock-and-go properties. They're custom executive homes, typically 4,500 square feet or larger, on generous lots built for active family life.</p>
-    
-    <p>The main reason people pay a premium here is the school boundary. <strong>Elgin Park Secondary</strong> and <strong>Chantrell Creek Elementary</strong> create consistent demand. Even when the luxury market slows down, families still need to get their kids into Elgin Park.</p>
+    <p>Elgin Chantrell is where executive families land when schools matter and they want space. Custom builds, typically 4,500 square feet or larger, on lots built for active family life. The school boundary is why people pay a premium — and why they can sell when they need to.</p>
 
     <h2 class="section-title">What You're Actually Buying</h2>
     <p><strong>Location:</strong> South Surrey. 15 minutes to Highway 99, 20 minutes to the US border, under an hour to downtown Vancouver.</p>
-    <p><strong>Home Size:</strong> Custom executive builds, typically 4,500 to 6,500 square feet. These are established properties for professionals with families.</p>
-    <p><strong>Lot Size:</strong> 12,000 square feet up to one acre. Enough space for pools and play areas without the maintenance burden of a full rural estate.</p>
-    <p><strong>The School Premium:</strong> Homes within the Elgin Park Secondary catchment typically command a 10-15% premium over comparable properties outside the boundary. That premium has held through multiple market cycles.</p>
+    <p><strong>Home Size:</strong> Custom executive builds, 4,500 to 6,500 square feet.</p>
+    <p><strong>Lot Size:</strong> 12,000 square feet up to one acre.</p>
+    <p><strong>The School Premium:</strong> Homes within the Elgin Park Secondary catchment typically command a 10–15% premium over comparable properties outside the boundary. That premium has held through multiple market cycles.</p>
 
-    <h2 class="section-title">Why Elgin Chantrell Moves Faster</h2>
-    <p>While some high-end Surrey homes sit on the market for 90 days or more, Elgin Chantrell properties typically sell within 60 to 75 days, even in balanced markets.</p>
-
-    <h3 class="metric-label">The Strategic Advantages</h3>
-    <ul class="metric-list">
-        <li><strong>The School Magnet:</strong> Families relocating for work often narrow their search to this catchment before viewing a single home. They search here first, then look at other options. That creates a permanent floor for property values.</li>
-        <li><strong>Strategic Connectivity:</strong> 15 minutes from Highway 99 makes this the most connected luxury neighbourhood for commuting to Vancouver or traveling cross-border.</li>
-        <li><strong>Established Quality:</strong> The neighbourhood is known for custom builds where the original construction standard was high. You're less likely to walk into the renovation traps found in older luxury areas.</li>
-    </ul>
-
-    <h2 class="section-title">Who This Neighbourhood Is For</h2>
-    <p><strong>This area fits you if:</strong></p>
-    <ul class="metric-list">
-        <li>You're raising school-age kids and the catchment is non-negotiable.</li>
-        <li>You want a 4,500+ square foot home with real yard space for your family.</li>
-        <li>You're relocating and need a top-tier neighbourhood that's easy to exit if your role changes in the next 5 years.</li>
-    </ul>
-
-    <p><strong>This area does NOT fit if:</strong></p>
-    <ul class="metric-list">
-        <li>You want zero-maintenance lock-and-go living (see Morgan Creek)</li>
-        <li>You're seeking multi-acre seclusion and total privacy (see Panorama Ridge)</li>
-        <li>You're downsizing and no longer need significant square footage</li>
-    </ul>
+    <h2 class="section-title">Who This Is For</h2>
+    <p><strong>This fits you if:</strong> you're raising school-age kids and the catchment is non-negotiable, you want 4,500+ square feet with real yard space, or you're relocating and need a neighbourhood that's easy to exit if your role changes.</p>
+    
+    <p><strong>It doesn't fit if:</strong> you want zero-maintenance lock-and-go living (Morgan Creek), multi-acre seclusion (Panorama Ridge), or you're downsizing.</p>
 
     <h2 class="section-title">Elgin Chantrell vs The Competition</h2>
-    <p><strong>vs Morgan Creek:</strong> Morgan Creek offers golf course views and lower-maintenance strata options. Elgin Chantrell offers larger private lots and the school catchment advantage.</p>
-    <p><strong>vs Ocean Park:</strong> Ocean Park is defined by its coastal village vibe and beach proximity. Elgin Chantrell is defined by executive infrastructure and highway access.</p>
-    <p><strong>vs Panorama Ridge:</strong> Panorama Ridge provides deep privacy on legacy estates. Elgin Chantrell provides better resale speed and a more family-focused neighbourhood feel.</p>
-
-    <h2 class="section-title">The Resale Reality</h2>
-    <p>Value retention here is tied to something that doesn't fluctuate with trends: education. As long as Elgin Park Secondary maintains its reputation, families will pay a premium to get into the boundary.</p>
-    
-    <p>Homes here typically sell 30-40% faster than comparable luxury markets in South Surrey because the buyer pool is replenished every year by families entering the school system.</p>
-    
-    <p>If you care about being able to sell when you need to, Elgin Chantrell gives you the best odds in South Surrey.</p>
+    <p><strong>vs Morgan Creek:</strong> Golf course views and strata options vs larger private lots and the school catchment advantage.</p>
+    <p><strong>vs Ocean Park:</strong> Coastal village vibe vs executive infrastructure and highway access.</p>
+    <p><strong>vs Panorama Ridge:</strong> Deep privacy on legacy estates vs better resale speed and a family-focused neighbourhood.</p>
 
     <script type="application/ld+json">
     {
@@ -103,45 +74,43 @@ permalink: /neighbourhoods/elgin-chantrell/
           "name": "Do all Elgin Chantrell homes feed into the same schools?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "No. This is a common and costly assumption in South Surrey. School boundaries are granular and subject to change based on district capacity. Specific pockets of the neighbourhood may fall into different catchments without any obvious indication from the street address. We verify every address through the Surrey Schools Locator during due diligence to protect the primary driver of your investment: school access."
+            "text": "No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change. Specific pockets may fall into different catchments without any obvious indication from the street address. We verify every address through the Surrey Schools Locator during due diligence to protect the primary driver of your investment."
           }
         },
         {
           "@type": "Question",
-          "name": "Is there a quantifiable price premium for this specific catchment?",
+          "name": "Is there a quantifiable price premium for this catchment?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Yes. Because relocating families often filter their search by 'Elgin Park' before viewing a single home, these properties benefit from a recurrent buyer pool driven by school entry cycles. This creates a defensive price floor; homes inside the boundary typically command a 10–15% premium and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions."
+            "text": "Yes. Relocating families often filter by 'Elgin Park' before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a 10–15% premium and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions."
           }
         },
         {
           "@type": "Question",
-          "name": "How do I register for Elgin Park Secondary before our move is complete?",
+          "name": "How do I register for Elgin Park Secondary before our move?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The Surrey School District requires proof that a student is 'ordinarily resident' in BC. Practically, this means you need a signed purchase agreement or long-term lease for an address within the boundary. You will also need photo ID, the student's birth certificate, and evidence of guardianship. Registration should be initiated as soon as subjects are removed to secure placement, especially for the competitive IB program."
+            "text": "The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium — especially for the IB program — so registration should be initiated the moment your subjects are removed."
           }
         }
       ]
     }
     </script>
 
-    <h2 class="section-title">Elgin Chantrell: Frequently Asked Questions</h2>
-    
-    <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
-    <p>No. This is the most common and costly assumption buyers make in South Surrey. School boundaries are granular and subject to change based on district capacity. Specific pockets of the neighbourhood may fall into different catchments without any obvious indication from the street address. We verify every address through the **Surrey Schools Locator** during the due diligence phase to protect the primary driver of your investment: school access.</p>
+    <h2 class="section-title">Frequently Asked Questions</h2>
 
-    <h3 class="metric-label">Is there a quantifiable price premium for this specific catchment?</h3>
-    <p>Yes. Because relocating families often filter their search by "Elgin Park" before viewing a single home, these properties benefit from a recurrent buyer pool driven by school entry cycles. This creates a defensive price floor; homes inside the boundary typically command a **10–15% premium** and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions.</p>
+    <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
+    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change. Specific pockets may fall into different catchments without any obvious indication from the street address. We verify every address through the <strong>Surrey Schools Locator</strong> during due diligence to protect the primary driver of your investment.</p>
+
+    <h3 class="metric-label">Is there a quantifiable price premium for this catchment?</h3>
+    <p>Yes. Relocating families often filter by "Elgin Park" before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a <strong>10–15% premium</strong> and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions.</p>
 
     <h3 class="metric-label">How do I register for Elgin Park Secondary before our move?</h3>
-    <p>The Surrey School District requires proof that a student is "ordinarily resident" in BC. Practically, this means you need a **signed purchase agreement** or long-term lease for an address within the boundary. You will also need photo ID, the student's birth certificate, and evidence of guardianship. Because space is at a premium—especially for the **International Baccalaureate (IB) program**—registration should be initiated the moment your subjects are removed to ensure placement.</p>
-    </section>
+    <p>The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium — especially for the <strong>IB program</strong> — so registration should be initiated the moment your subjects are removed.</p>
 
-<section class="audit-card" aria-labelledby="audit-heading">
   </section>
 
-<section class="audit-card" aria-labelledby="audit-heading">
+  <section class="audit-card" aria-labelledby="audit-heading">
     <h2 id="audit-heading" class="audit-title">Elgin Chantrell Portfolio Review</h2>
     <div class="audit-action">
       <a href="/contact" class="audit-btn">INQUIRE ABOUT ELGIN CHANTRELL</a>
