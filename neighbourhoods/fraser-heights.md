@@ -1,8 +1,39 @@
 ---
 layout: default
-title: Fraser Heights Real Estate Strategy | South Surrey's Elevated Commuter Hub
-description: Strategic analysis of Fraser Heights’ mountain views, highway access, and executive value arbitrage.
+title: Fraser Heights Real Estate Strategy | The Elevated Gateway
+description: Strategic analysis of Fraser Heights’ geographic isolation, Highway 1 noise mitigation, and the high-yield stability of legal basement suites.
 permalink: /neighbourhoods/fraser-heights/
+faq_schema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "How does Highway 1 noise affect property values in Fraser Heights?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Noise levels vary significantly based on elevation and 'noise wall' proximity. Properties on the northern ridges benefit from a natural acoustic shadow, while homes closer to the 108th Ave corridor are more exposed. I use on-site decibel testing during due diligence to ensure your view doesn't come with an acoustic trade-off."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is Fraser Heights Secondary overcrowded?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. As of 2026, Fraser Heights Secondary is operating at nearly 135% capacity with over 1,630 students. While an $87M addition is requested in the 5-year capital plan, buyers should be prepared for portable use in the short-term. I track these district boundary shifts closely for my clients."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the rental potential for a legal suite in Fraser Heights?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Because of its proximity to the highway and local business hubs, legal 2-bedroom suites in Fraser Heights consistently command $2,400–$2,800 per month. This passive income significantly improves the 'debt-to-income' ratio for buyers and acts as a major stabilizer for resale value."
+        }
+      }
+    ]
+  }
 ---
 
 <style>
@@ -14,7 +45,14 @@ permalink: /neighbourhoods/fraser-heights/
   .metric-label { text-transform: uppercase; font-size: 0.85rem; letter-spacing: 2px; color: var(--dark); margin-top: 40px; margin-bottom: 15px; font-weight: bold; }
   .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
   .metric-list li { margin-bottom: 10px; }
-  
+  .audit-card { margin-top: 60px; padding: 40px; background: #fdfcf9; border: 1px solid var(--border); display: grid; grid-template-columns: 1fr auto; grid-template-areas: "header action" "body body"; gap: 20px 40px; align-items: center; }
+  .audit-title { grid-area: header; margin: 0; font-weight: bold; color: var(--dark); font-size: 1.1rem; }
+  .audit-action { grid-area: action; }
+  .audit-body { grid-area: body; }
+  .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 1.5rem; max-width: 650px; line-height: 1.6; }
+  .audit-btn { display: inline-block; padding: 14px 28px; background: var(--dark); color: #fff !important; text-decoration: none; font-size: 0.8rem; font-weight: bold; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); white-space: nowrap; }
+
+  /* Navigation Grid Styles */
   .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); margin-top: 80px; }
   .nav-section-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 3px; color: var(--meta); margin-bottom: 40px; text-align: center; }
   .nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1100px; margin: 0 auto; }
@@ -23,13 +61,6 @@ permalink: /neighbourhoods/fraser-heights/
   .nav-tag { display: block; font-size: 0.6rem; color: var(--meta); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; }
   .nav-name { display: block; font-size: 1rem; color: var(--dark); font-weight: bold; }
 
-  .audit-card { margin-top: 60px; padding: 40px; background: #fdfcf9; border: 1px solid var(--border); display: grid; grid-template-columns: 1fr auto; grid-template-areas: "header action" "body body"; gap: 20px 40px; align-items: center; }
-  .audit-title { grid-area: header; margin: 0; font-weight: bold; color: var(--dark); font-size: 1.1rem; }
-  .audit-action { grid-area: action; }
-  .audit-body { grid-area: body; }
-  .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 1.5rem; max-width: 650px; line-height: 1.6; }
-  .audit-btn { display: inline-block; padding: 14px 28px; background: var(--dark); color: #fff !important; text-decoration: none; font-size: 0.8rem; font-weight: bold; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); white-space: nowrap; }
-  
   @media (max-width: 768px) { 
     .intel-container { padding: 40px 15px; } 
     .intel-header { font-size: 1.85rem; } 
@@ -41,75 +72,51 @@ permalink: /neighbourhoods/fraser-heights/
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Fraser Heights: South Surrey's Elevated Commuter Hub</h1>
-    <p class="intel-sub">Mountain views, highway access, and more house for less money than coastal South Surrey.</p>
+    <h1 class="intel-header">Fraser Heights: South Surrey’s Elevated Gateway</h1>
+    <p class="intel-sub">Island living in North Surrey: What the Highway 1 expansion means for your sightline and air quality.</p>
   </header>
 
   <section>
-    <p>Fraser Heights sits on the northern bench of South Surrey, elevated above the valley floor. You get mountain and river views, direct access to Highway 1 and the South Fraser Perimeter Road, and significantly more house for your money compared to Morgan Creek or Elgin Chantrell.</p>
-    <p>This isn't a beach neighbourhood. You're not walking to cafes or the ocean. But if your priority is commute time to Burnaby, New West, or the Fraser Valley, and you want 5,000+ square feet without paying coastal premiums, Fraser Heights delivers.</p>
+    <p>Fraser Heights is often called an "island" because it is geographically cut off from the rest of Surrey by Highway 1 and the Fraser River. While this creates a unique sense of community security, the strategic risk is the <strong>Highway 1 Corridor</strong>. With ongoing widening projects through 2026, identifying homes shielded by elevation—rather than just distance—is the key to long-term value retention.</p>
+    
+    <p>This is where multi-generational families and commuters land when they want custom executive builds, mountain views, and the financial flexibility of legal secondary suites.</p>
 
     <h2 class="section-title">What You're Actually Buying</h2>
-    <ul class="metric-list">
-        <li><strong>Location:</strong> North Surrey/South Surrey border, elevated bench position. 5 minutes to Highway 1, 10 minutes to South Fraser Perimeter Road, 25-30 minutes to Burnaby, 20 minutes to the US border.</li>
-        <li><strong>Home Types:</strong> Large custom builds, typically 4,000-7,000 square feet. Modern hillside homes with walkout basements and view corridors. These are executive family homes built for space.</li>
-        <li><strong>Lot Sizes:</strong> Similar to Elgin Chantrell (10,000-15,000 square feet), but at lower price points. You're getting comparable lot size and home size for 15-20% less than coastal South Surrey.</li>
-        <li><strong>The View Premium:</strong> Homes on the northern bench with unobstructed mountain and river views command a 20-25% premium over interior lots. Those view corridors are protected by the slope grade, so they can't be built out.</li>
-    </ul>
+    <p><strong>The Elevation Shield:</strong> Not all lots here are created equal. I focus on properties in the <strong>Ermineskin</strong> and northern ridges that utilize natural topography to mitigate Highway 1 noise. Buying at the bottom of the "bowl" means inheriting the acoustic debt of 120,000+ daily vehicle trips.</p>
+    <p><strong>Income-Ready Infrastructure:</strong> Unlike South Surrey’s stricter luxury enclaves, Fraser Heights was built for basement suites. I frame this as a <strong>Strategic Mortgage Hedge</strong>—the ability to generate significant rental income from a legal suite provides a defensive floor that maintains liquidity even during rate hikes.</p>
+    <p><strong>The "Isolated" Premium:</strong> Because there is only one main entry point into the neighborhood, traffic is strictly local. This creates a quiet, suburban atmosphere that is increasingly rare in the fast-growing Fraser Valley.</p>
 
-    <h2 class="section-title">Why Fraser Heights Works for Commuters</h2>
-    <p><strong>Highway Access:</strong> You're 5 minutes from Highway 1 and 10 minutes from the South Fraser Perimeter Road. If you work in Burnaby, New Westminster, Richmond, or the Fraser Valley, your commute is 25-35 minutes instead of 45-60 from coastal South Surrey.</p>
-    <p><strong>Time Saved:</strong> Every morning and evening, you're saving 20-30 minutes compared to someone commuting from Morgan Creek or Ocean Park. Over a year, that's 200+ hours back in your life.</p>
-    <p><strong>No Highway 99 Congestion:</strong> While South Surrey fights traffic on Highway 99, Fraser Heights bypasses it entirely. You're on Highway 1 before the coastal neighbourhoods even reach the merge.</p>
-
-    <h2 class="section-title">The Pacific Academy Factor</h2>
-    <p>Pacific Academy (private Christian school, K-12) creates a localized demand pool. Families willing to pay private school tuition also prioritize proximity to campus.</p>
-    <p>Homes within 5 minutes of Pacific Academy command a 10-12% premium and sell faster (typically 30-35 days vs 40-45 for the broader Fraser Heights market).</p>
-    <p>If your kids attend Pacific Academy, living in Fraser Heights eliminates the daily 30-minute drive from White Rock or Ocean Park.</p>
-
-    <h2 class="section-title">The Value Proposition</h2>
-    <p>Fraser Heights offers the best price-to-space ratio in South Surrey. You're trading coastal proximity and beach village vibes for mountain views and highway access. For buyers who prioritize internal square footage and commute efficiency over lifestyle amenities, that's a smart trade.</p>
-
-    <h2 class="section-title">Who Fraser Heights Is For</h2>
-    <p><strong>This area fits you if:</strong></p>
-    <ul class="metric-list">
-        <li>You commute to Burnaby, New West, Richmond, or the Fraser Valley for work</li>
-        <li>You want 5,000+ square feet without paying coastal South Surrey prices</li>
-        <li>You value mountain and river views over ocean proximity</li>
-        <li>Your kids attend Pacific Academy</li>
-        <li>You're a medical professional working at Royal Columbian or Surrey Memorial</li>
-        <li>You don't care about walkability or village living</li>
-    </ul>
-
-    <p><strong>This area does NOT fit if:</strong></p>
-    <ul class="metric-list">
-        <li>You want beach proximity and ocean views (see Ocean Park)</li>
-        <li>You prioritize walkable village living (see Ocean Park)</li>
-        <li>You want golf course views and lock-and-go strata living (see Morgan Creek)</li>
-        <li>You're downsizing and don't need 4,000+ square feet</li>
-        <li>You work downtown and don't want a long commute</li>
-    </ul>
+    <h2 class="section-title">Who This Is For</h2>
+    <p><strong>This fits you if:</strong> you commute to Coquitlam or Vancouver via the Port Mann, you require a legal suite for family or income, or you want a custom 5,000+ sq ft home at a lower price point than South Surrey.</p>
+    
+    <p><strong>It doesn't fit if:</strong> you are sensitive to highway noise, you want to walk to major retail hubs, or you require a secondary school with immediate permanent capacity.</p>
 
     <h2 class="section-title">Fraser Heights vs The Competition</h2>
-    <ul class="metric-list">
-        <li><strong>vs Elgin Chantrell:</strong> Elgin Chantrell gives you top school catchment and established luxury prestige. Fraser Heights gives you 15-20% lower pricing for comparable home size and better highway access.</li>
-        <li><strong>vs Morgan Creek:</strong> Morgan Creek gives you golf course views and strata-managed convenience. Fraser Heights gives you mountain views and significantly more house for less money.</li>
-        <li><strong>vs Grandview Heights:</strong> Grandview Heights gives you new construction and Olympic-standard amenities. Fraser Heights gives you established character, mountain views, and better highway access.</li>
-    </ul>
+    <p><strong>vs Elgin Chantrell:</strong> Elgin = South Surrey prestige, larger acreage. Fraser Heights = North Surrey gateway, mountain views, suite-friendly zoning.</p>
+    <p><strong>vs Morgan Creek:</strong> Morgan Creek = golf-course strata. Fraser Heights = fee-simple estates, no strata fees, larger basement suite potential.</p>
+    <p><strong>vs Grandview Heights:</strong> Grandview = modern retail density. Fraser Heights = established "island" seclusion and highway-oriented logistics.</p>
 
-    <h2 class="section-title">The Resale Reality</h2>
-    <p>Fraser Heights sells to a specific buyer: commuters who prioritize highway access and value-for-space over coastal lifestyle. That buyer pool is smaller than Morgan Creek or Elgin Chantrell, so homes take slightly longer to sell (typically 35-45 days vs 25-35 in coastal South Surrey).</p>
-    <p>But the value proposition is strong. View-lot properties hold value exceptionally well because the mountain and river corridors are protected by topography. You can't build out those views. If you're buying here, you're buying practical luxury. More house, better commute, lower price.</p>
+    <h2 class="section-title">Frequently Asked Questions</h2>
+
+    <h3 class="metric-label">What should I know about the highway noise?</h3>
+    <p>It is the neighborhood’s defining trade-off. While the <strong>Fraser Valley Highway 1 Corridor Improvement Program</strong> includes noise mitigation, nothing beats natural elevation. I prioritize homes on the northern slopes where the terrain acts as a sound barrier. If you are buying for the long term, I recommend a site-specific noise audit before subject removal.</p>
+
+    <h3 class="metric-label">How bad is the school capacity issue?</h3>
+    <p>Fraser Heights Secondary is currently housing hundreds of students in portables. There is a <strong>major capital request</strong> of over $87M to add permanent seats, but construction hasn't broken ground. If your family requires a school with immediate permanent capacity, I may suggest a strategic pivot toward South Surrey's catchments instead.</p>
+
+    <h3 class="metric-label">Is a basement suite a good strategy for luxury homes?</h3>
+    <p>I believe it is. In the current economic climate, even luxury buyers value <strong>fiscal optionality</strong>. A legal suite in Fraser Heights is a high-demand asset for renters, making your property more liquid and defensible during market corrections than a home without an income component.</p>
+
   </section>
 
-<section class="audit-card" aria-labelledby="audit-heading">
+  <section class="audit-card" aria-labelledby="audit-heading">
     <h2 id="audit-heading" class="audit-title">Fraser Heights Portfolio Review</h2>
     <div class="audit-action">
       <a href="/contact" class="audit-btn">INQUIRE ABOUT FRASER HEIGHTS</a>
     </div>
     <div class="audit-body">
       <p class="audit-text">
-        Fraser Heights is North Surrey's premier school catchment community. Between the SFU-partnered Science Academy and a neighbourhood that has stayed quietly insulated from the speculation reshaping the rest of the region, property values here are built on stability. If you're thinking about buying, selling, or just want to understand what your property is worth, let's talk.
+        Fraser Heights’ custom mountain-view estates and legal suite infrastructure are for families who value community isolation and commuter logistics. If you're thinking about buying, selling, or need a noise-mitigation audit for a specific property, let's talk.
       </p>
       <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
         No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
@@ -117,31 +124,3 @@ permalink: /neighbourhoods/fraser-heights/
     </div>
   </section>
 </article>
-
-<aside class="nav-section">
-  <div style="max-width: 1100px; margin: 0 auto;">
-    <h2 class="nav-section-title">Compare Strategic Locations</h2>
-    <nav class="nav-grid" aria-label="Neighborhood navigation">
-      <a href="/neighbourhoods/ocean-park/" class="nav-card">
-        <span class="nav-tag">The Coastal Village</span>
-        <span class="nav-name">Ocean Park &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-        <span class="nav-tag">The Golf Course Enclave</span>
-        <span class="nav-name">Morgan Creek &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
-        <span class="nav-tag">The Prestige Nucleus</span>
-        <span class="nav-name">Elgin Chantrell &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-        <span class="nav-tag">The Heritage Summit</span>
-        <span class="nav-name">Panorama Ridge &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-        <span class="nav-tag">The Growth Frontier</span>
-        <span class="nav-name">Grandview Heights &rarr;</span>
-      </a>
-    </nav>
-  </div>
-</aside>
