@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Fraser Heights Real Estate Strategy | The Elevated Gateway
-description: Strategic analysis of Fraser Heights’ geographic isolation, Highway 1 noise mitigation, and the high-yield stability of legal basement suites.
+description: "Strategic analysis of Fraser Heights geographic isolation, Highway 1 noise mitigation, and the high-yield stability of legal basement suites."
 permalink: /neighbourhoods/fraser-heights/
 faq_schema: |
   {
@@ -29,7 +29,7 @@ faq_schema: |
         "name": "What is the rental potential for a legal suite in Fraser Heights?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Because of its proximity to the highway and local business hubs, legal 2-bedroom suites in Fraser Heights consistently command $2,400–$2,800 per month. This passive income significantly improves the 'debt-to-income' ratio for buyers and acts as a major stabilizer for resale value."
+          "text": "Because of its proximity to the highway and local business hubs, legal 2-bedroom suites in Fraser Heights consistently command $2,400 to $2,800 per month. This passive income significantly improves the 'debt-to-income' ratio for buyers and acts as a major stabilizer for resale value."
         }
       }
     ]
@@ -52,7 +52,6 @@ faq_schema: |
   .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 1.5rem; max-width: 650px; line-height: 1.6; }
   .audit-btn { display: inline-block; padding: 14px 28px; background: var(--dark); color: #fff !important; text-decoration: none; font-size: 0.8rem; font-weight: bold; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); white-space: nowrap; }
 
-  /* Navigation Grid Styles */
   .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); margin-top: 80px; }
   .nav-section-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 3px; color: var(--meta); margin-bottom: 40px; text-align: center; }
   .nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1100px; margin: 0 auto; }
@@ -77,13 +76,13 @@ faq_schema: |
   </header>
 
   <section>
-    <p>Fraser Heights is often called an "island" because it is geographically cut off from the rest of Surrey by Highway 1 and the Fraser River. While this creates a unique sense of community security, the strategic risk is the <strong>Highway 1 Corridor</strong>. With ongoing widening projects through 2026, identifying homes shielded by elevation—rather than just distance—is the key to long-term value retention.</p>
+    <p>Fraser Heights is often called an "island" because it is geographically cut off from the rest of Surrey by Highway 1 and the Fraser River. While this creates a unique sense of community security, the strategic risk is the <strong>Highway 1 Corridor</strong>. With ongoing widening projects through 2026, identifying homes shielded by elevation, rather than just distance, is the key to long-term value retention.</p>
     
     <p>This is where multi-generational families and commuters land when they want custom executive builds, mountain views, and the financial flexibility of legal secondary suites.</p>
 
     <h2 class="section-title">What You're Actually Buying</h2>
     <p><strong>The Elevation Shield:</strong> Not all lots here are created equal. I focus on properties in the <strong>Ermineskin</strong> and northern ridges that utilize natural topography to mitigate Highway 1 noise. Buying at the bottom of the "bowl" means inheriting the acoustic debt of 120,000+ daily vehicle trips.</p>
-    <p><strong>Income-Ready Infrastructure:</strong> Unlike South Surrey’s stricter luxury enclaves, Fraser Heights was built for basement suites. I frame this as a <strong>Strategic Mortgage Hedge</strong>—the ability to generate significant rental income from a legal suite provides a defensive floor that maintains liquidity even during rate hikes.</p>
+    <p><strong>Income-Ready Infrastructure:</strong> Unlike South Surrey’s stricter luxury enclaves, Fraser Heights was built for basement suites. I frame this as a <strong>Strategic Mortgage Hedge</strong>. The ability to generate significant rental income from a legal suite provides a defensive floor that maintains liquidity even during rate hikes.</p>
     <p><strong>The "Isolated" Premium:</strong> Because there is only one main entry point into the neighborhood, traffic is strictly local. This creates a quiet, suburban atmosphere that is increasingly rare in the fast-growing Fraser Valley.</p>
 
     <h2 class="section-title">Who This Is For</h2>
