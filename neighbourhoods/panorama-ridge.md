@@ -1,8 +1,39 @@
 ---
 layout: default
-title: Panorama Ridge Real Estate Strategy | The Legacy Hold
-description: Strategic analysis of Panorama Ridge’s acreage estates, seclusion premiums, and the logistical realities of high-end septic and well infrastructure.
+title: "Panorama Ridge Real Estate Strategy | The Legacy Hold"
+description: "Strategic analysis of Panorama Ridge acreage estates, seclusion premiums, and the logistical realities of high-end septic and well infrastructure."
 permalink: /neighbourhoods/panorama-ridge/
+faq_schema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Why do homes on Panorama Ridge take longer to sell?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Panorama Ridge is an aspirational market with a smaller pool of qualified buyers who can manage 1+ acre estates. Because these homes often feature custom layouts and complex infrastructure, the due diligence process is longer. This results in an average market time of 120 to 180 days."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Are all homes on the Ridge on municipal sewer and water?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. Many of the original legacy estates utilize septic systems and some still rely on private wells. These systems require specific maintenance and Health Authority filings. I make septic inspections and water quality testing a non-negotiable part of my due diligence process."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "What is the Golden Triangle in Panorama Ridge?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Golden Triangle refers to the original estate area bounded by 54th Ave, 124th St, and 128th St. Homes within this pocket maintain the highest historical value retention due to the consistent 1-acre minimum lot sizes and established gated character."
+        }
+      }
+    ]
+  }
 ---
 
 <style>
@@ -21,7 +52,6 @@ permalink: /neighbourhoods/panorama-ridge/
   .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 1.5rem; max-width: 650px; line-height: 1.6; }
   .audit-btn { display: inline-block; padding: 14px 28px; background: var(--dark); color: #fff !important; text-decoration: none; font-size: 0.8rem; font-weight: bold; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); white-space: nowrap; }
 
-  /* Navigation Grid Styles */
   .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); margin-top: 80px; }
   .nav-section-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 3px; color: var(--meta); margin-bottom: 40px; text-align: center; }
   .nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1100px; margin: 0 auto; }
@@ -46,68 +76,35 @@ permalink: /neighbourhoods/panorama-ridge/
   </header>
 
   <section>
-    <p>Panorama Ridge is the only neighborhood in South Surrey where you can find true 1–2 acre gated estates with deep-set privacy. However, this seclusion comes with a <strong>liquidity trade-off</strong>. These properties consistently take longer to sell than suburban luxury homes. <strong>In Panorama Ridge, you are buying a legacy hold, not a liquid asset.</strong></p>
+    <p>Panorama Ridge is the only neighbourhood in South Surrey where you can find true 1 to 2 acre gated estates with deep-set privacy. However, this seclusion comes with a <strong>liquidity trade-off</strong>. These properties consistently take longer to sell than suburban luxury homes. <strong>In Panorama Ridge, you are buying a legacy hold, not a liquid asset.</strong></p>
     
     <p>This is where private, established families land when they want to be invisible, value land mass over commute times, and have the capital to manage high-infrastructure estates.</p>
 
     <h2 class="section-title">What You're Actually Buying</h2>
-    <p><strong>Infrastructure Complexity:</strong> Unlike the turn-key systems of Morgan Creek, many ridge estates rely on <strong>septic systems and private wells</strong>. During due diligence, we prioritize Health Authority filings and potability tests. A failing septic on a 1.5-acre lot is a $60K+ liability that must be identified early.</p>
+    <p><strong>Infrastructure Complexity:</strong> Unlike the turn-key systems of Morgan Creek, many ridge estates rely on <strong>septic systems and private wells</strong>. During due diligence, I prioritize Health Authority filings and potability tests. A failing septic on a 1.5-acre lot is a $60K plus liability that must be identified early.</p>
     <p><strong>The Seclusion Premium:</strong> You are paying for the <strong>Sightline Monopoly</strong>. Once you own an acre on the ridge, your privacy is protected by the land itself. This creates a defensive moat against the density changes happening elsewhere in Surrey.</p>
-    <p><strong>Resale Velocity:</strong> In a balanced market, Panorama Ridge homes often sit for <strong>120–180 days</strong>. If you need a rapid exit, this neighborhood is a risk. If your horizon is 10+ years, it is the most stable land-play in the region.</p>
+    <p><strong>Resale Velocity:</strong> In a balanced market, Panorama Ridge homes often sit for <strong>120 to 180 days</strong>. If you need a rapid exit, this neighbourhood is a risk. If your horizon is 10 plus years, it is the most stable land-play in the region.</p>
 
     <h2 class="section-title">Who This Is For</h2>
-    <p><strong>This fits you if:</strong> you want total privacy behind gates, you need space for multi-generational living, or you want the prestige of the Ridge’s original "Golden Triangle" estates.</p>
+    <p><strong>This fits you if:</strong> you want total privacy behind gates, you need space for multi-generational living, or you want the prestige of the Ridge’s original Golden Triangle estates.</p>
     
-    <p><strong>It doesn't fit if:</strong> you need to be in Vancouver in under 45 minutes daily, you want a low-maintenance yard, or you require the immediate liquidity of a more suburban neighborhood.</p>
+    <p><strong>It does not fit if:</strong> you need to be in Vancouver in under 45 minutes daily, you want a low-maintenance yard, or you require the immediate liquidity of a more suburban neighbourhood.</p>
 
     <h2 class="section-title">Panorama Ridge vs The Competition</h2>
-    <p><strong>vs Elgin Chantrell:</strong> Elgin = executive families, school catchment focus, faster resale. Panorama Ridge = legacy wealth, absolute seclusion, acreage focus.</p>
-    <p><strong>vs Morgan Creek:</strong> Morgan Creek = manicured golf life, lock-and-go strata. Panorama Ridge = organic privacy, zero strata control, high owner-maintenance.</p>
-    <p><strong>vs Ocean Park:</strong> Ocean Park = coastal village culture, bluff views. Panorama Ridge = agricultural-adjacent luxury, valley/mountain views, estate-scale land.</p>
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Why do homes on Panorama Ridge take longer to sell?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Panorama Ridge is an 'aspirational' market with a smaller pool of qualified buyers who can manage 1+ acre estates. Because these homes often feature custom layouts and complex infrastructure (septic/wells), the due diligence process is longer, resulting in an average market time of 120-180 days."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Are all homes on the Ridge on municipal sewer and water?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. Many of the original legacy estates utilize septic systems and some still rely on private wells. These systems require specific maintenance and Health Authority filings. We make septic inspections and water quality testing a non-negotiable part of our due diligence process."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "What is the 'Golden Triangle' in Panorama Ridge?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The Golden Triangle refers to the original estate area bounded by 54th Ave, 124th St, and 128th St. Homes within this pocket maintain the highest historical value retention due to the consistent 1-acre minimum lot sizes and established gated character."
-          }
-        }
-      ]
-    }
-    </script>
+    <p><strong>vs Elgin Chantrell:</strong> Elgin offers executive families, school catchment focus, and faster resale. Panorama Ridge offers legacy wealth, absolute seclusion, and an acreage focus.</p>
+    <p><strong>vs Morgan Creek:</strong> Morgan Creek offers manicured golf life and lock-and-go strata. Panorama Ridge offers organic privacy, zero strata control, and high owner-maintenance.</p>
+    <p><strong>vs Ocean Park:</strong> Ocean Park offers coastal village culture and bluff views. Panorama Ridge offers agricultural-adjacent luxury, valley views, and estate-scale land.</p>
 
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Why is the resale time so much longer here?</h3>
-    <p>It’s a matter of <strong>buyer qualification</strong>. Most buyers in South Surrey are looking for 4,000 sq ft on a suburban lot. Panorama Ridge buyers are looking for a lifestyle that involves land management. Because this pool is smaller, we advise sellers to plan for a <strong>6-month marketing window</strong> to ensure we find the right match for the property’s unique character.</p>
+    <p>It is a matter of <strong>buyer qualification</strong>. Most buyers in South Surrey are looking for 4,000 square feet on a suburban lot. Panorama Ridge buyers are looking for a lifestyle that involves land management. Because this pool is smaller, I advise sellers to plan for a <strong>6-month marketing window</strong> to ensure I find the right match for the unique character of the property.</p>
 
     <h3 class="metric-label">Do I need to worry about septic and well water?</h3>
-    <p>Only if you don't have a plan. We treat <strong>septic and well infrastructure</strong> as a critical technical hurdle. A poorly maintained septic system on an estate can be a major expense. We ensure all systems are pumped, inspected, and documented before any subjects are removed.</p>
+    <p>Only if you do not have a plan. I treat <strong>septic and well infrastructure</strong> as a critical technical hurdle. A poorly maintained septic system on an estate can be a major expense. I ensure all systems are pumped, inspected, and documented before any subjects are removed.</p>
 
-    <h3 class="metric-label">Is the "Ridge Premium" worth it for a 5-year hold?</h3>
-    <p>Likely not. Panorama Ridge is a <strong>Legacy Asset</strong>. Because of the higher entry cost and slower liquidity, the "Ridge Premium" is best realized over a 10–15 year horizon. If you are relocating and may need to exit quickly, we typically recommend Elgin Chantrell instead.</p>
+    <h3 class="metric-label">Is the Ridge Premium worth it for a 5-year hold?</h3>
+    <p>Likely not. Panorama Ridge is a <strong>Legacy Asset</strong>. Because of the higher entry cost and slower liquidity, the premium is best realized over a 10 to 15 year horizon. If you are relocating and may need to exit quickly, I typically recommend Elgin Chantrell instead.</p>
 
   </section>
 
@@ -118,7 +115,7 @@ permalink: /neighbourhoods/panorama-ridge/
     </div>
     <div class="audit-body">
       <p class="audit-text">
-        Panorama Ridge’s legacy estates and gated acreage are for families who value privacy over proximity. If you're thinking about buying, selling, or need an audit of your estate's current infrastructure value, let's talk.
+        Panorama Ridge’s legacy estates and gated acreage are for families who value privacy over proximity. If you are thinking about buying, selling, or need an audit of your estate infrastructure value, let us talk.
       </p>
       <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
         No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
@@ -126,31 +123,3 @@ permalink: /neighbourhoods/panorama-ridge/
     </div>
   </section>
 </article>
-
-<aside class="nav-section">
-  <div style="max-width: 1100px; margin: 0 auto;">
-    <h2 class="nav-section-title">Compare Strategic Locations</h2>
-    <nav class="nav-grid" aria-label="Neighborhood navigation">
-      <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
-        <span class="nav-tag">Prestige with Velocity</span>
-        <span class="nav-name">Elgin Chantrell &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-        <span class="nav-tag">Golf Course Luxury</span>
-        <span class="nav-name">Morgan Creek &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/ocean-park/" class="nav-card">
-        <span class="nav-tag">Coastal Village Monopoly</span>
-        <span class="nav-name">Ocean Park &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-        <span class="nav-tag">The Growth Frontier</span>
-        <span class="nav-name">Grandview Heights &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-        <span class="nav-tag">The Elevated Gateway</span>
-        <span class="nav-name">Fraser Heights &rarr;</span>
-      </a>
-    </nav>
-  </div>
-</aside>
