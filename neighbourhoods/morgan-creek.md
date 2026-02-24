@@ -1,8 +1,39 @@
 ---
 layout: default
-title: Morgan Creek Real Estate Strategy | The Lock-and-Go Premium
-description: Strategic analysis of Morgan Creek’s golf course lifestyle, strata-detached nuances, and the impact of the 200-unit clubhouse density project.
+title: "Morgan Creek Real Estate Strategy | The Lock-and-Go Premium"
+description: "Strategic analysis of Morgan Creek’s golf course lifestyle, strata-detached nuances, and the impact of the 201-unit clubhouse density project."
 permalink: /neighbourhoods/morgan-creek/
+faq_schema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Are detached homes in Morgan Creek under strata?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Many detached executive homes in Morgan Creek are strata-titled. This provides professional landscaping and exterior consistency, but it also means owners must follow strict architectural bylaws, such as the mandate for cedar shake roofing. I verify the specific title for every property to ensure the maintenance structure aligns with your lifestyle."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does the new townhouse development impact property values?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The 2026 approval of a 201-unit project near the clubhouse has introduced a new density tier. While this increases local traffic at 32nd Ave, it also validates Morgan Creek as the premier hub for downsizers who want to stay in the community. Strategic buyers are prioritizing fairway-backing lots that are shielded from this new density."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is a fairway-backing lot a better investment than an interior lot?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Historically, fairway lots command a 10 to 15% price premium. While the entry cost is higher, they benefit from a 'fixed supply.' This creates a defensive price floor and results in faster resale velocity compared to interior lots during balanced or buyer-favoured markets."
+        }
+      }
+    ]
+  }
 ---
 
 <style>
@@ -46,18 +77,18 @@ permalink: /neighbourhoods/morgan-creek/
   </header>
 
   <section>
-    <p>Morgan Creek is often marketed as "fully built-out," but 2026 brings a major shift. With a 201-unit project (82 townhomes and 119 apartments) approved near the clubhouse, understanding the exact position of your lot matters more than ever. <strong>If you buy here, are you buying the view, or the insurance that you can sell it in 5 years?</strong></p>
+    <p>Morgan Creek is often marketed as fully built-out, but 2026 brings a major shift. With a 201-unit project (82 townhomes and 119 apartments) approved near the clubhouse, understanding the exact position of your lot matters more than ever. <strong>If you buy here, are you buying the view, or the insurance that you can sell it in 5 years?</strong></p>
     
-    <p>This is where executive families land when they want the security of a manicured community without the 1-acre maintenance burden of Elgin Chantrell.</p>
+    <p>This is where executive families and downsizers land when they want the security of a manicured community without the 1-acre maintenance burden of Elgin Chantrell.</p>
 
     <h2 class="section-title">What You're Actually Buying</h2>
-    <p><strong>The Strata Hybrid:</strong> Many detached executive homes here are "strata-detached." You own the structure, but professional management handles landscaping and snow removal. It is the ultimate lock-and-go for frequent travelers, but it means your modifications are subject to <strong>architectural bylaws</strong>.</p>
+    <p><strong>The Strata Hybrid:</strong> Many detached executive homes here are strata-detached. You own the structure, but professional management handles landscaping and snow removal. It is the ultimate lock-and-go for frequent travelers, but it means your modifications are subject to <strong>architectural bylaws</strong>.</p>
     <p><strong>The Cedar Mandate:</strong> Strict design guidelines famously mandate cedar shake roofing. While this preserves neighborhood character, it creates a unique maintenance cycle and holding cost that must be verified before subject removal.</p>
-    <p><strong>The Fairway Premium:</strong> Fairway-backing lots typically command a <strong>10–15% premium</strong>. In a softening market, this acts as "liquidity insurance"—these homes are consistently the first to sell when the buyer pool thins.</p>
+    <p><strong>The Fairway Premium:</strong> Fairway-backing lots typically command a <strong>10 to 15% premium</strong>. In a softening market, this acts as liquidity insurance. These homes are consistently the first to sell when the buyer pool thins.</p>
 
     <h2 class="section-title">Who This Is For</h2>
     <ul class="metric-list">
-      <li><strong>This fits you if:</strong> you travel frequently, you want a master-on-the-main layout without the "retirement home" aesthetic, or you're a professional who values a manicured streetscape over rustic privacy.</li>
+      <li><strong>This fits you if:</strong> you travel frequently, you want a master-on-the-main layout without the retirement home aesthetic, or you're a professional who values a manicured, predictable streetscape over rustic privacy.</li>
       <li><strong>It doesn't fit if:</strong> you need absolute seclusion, you want to customize your exterior without committee approval, or you're sensitive to the new density near the 32nd Ave and 160th St corridor.</li>
     </ul>
 
@@ -66,49 +97,16 @@ permalink: /neighbourhoods/morgan-creek/
     <p><strong>vs Ocean Park:</strong> Ocean Park = coastal village vibe, higher walkability. Morgan Creek = golf views, newer custom builds, superior highway access for commuters.</p>
     <p><strong>vs Panorama Ridge:</strong> Panorama = legacy acreage, deep privacy. Morgan Creek = community-focused, strata-managed convenience.</p>
 
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Are detached homes in Morgan Creek under strata?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Many detached executive homes in Morgan Creek are strata-titled. This provides professional landscaping and exterior consistency, but it also means owners must follow strict architectural bylaws, such as the mandate for cedar shake roofing. We verify the specific title for every property to ensure the maintenance structure aligns with your lifestyle."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does the new townhouse development impact property values?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The 2026 approval of a 201-unit project near the clubhouse has introduced a new density tier. While this increases local traffic at 32nd Ave, it also validates Morgan Creek as the premier hub for downsizers who want to stay in the community. Strategic buyers are prioritizing fairway-backing lots that are shielded from this new density."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is a fairway-backing lot a better investment than an interior lot?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Historically, fairway lots command a 10-15% price premium. While the entry cost is higher, they benefit from a 'fixed supply.' This creates a defensive price floor and results in faster resale velocity compared to interior lots during balanced or buyer-favoured markets."
-          }
-        }
-      ]
-    }
-    </script>
-
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Are detached homes in Morgan Creek under strata?</h3>
-    <p>Many are. This is a common point of confusion. Strata-titled detached homes offer the privacy of a house with the convenience of a townhome. However, it means you are subject to <strong>architectural bylaws</strong>. We conduct a full review of the strata minutes and bylaws during due diligence to protect your right to future modifications.</p>
+    <p>Many are. This is a common point of confusion for buyers. Strata-titled detached homes offer the best of both worlds: privacy of a house with the convenience of a townhome. However, it means you are subject to <strong>architectural bylaws</strong>. I conduct a full review of the strata minutes and bylaws during due diligence to protect your right to future modifications.</p>
 
     <h3 class="metric-label">How will the new 201-unit development change the neighborhood?</h3>
-    <p>The project near the clubhouse (3375 Morgan Creek Way) adds a mix of luxury townhomes and apartments. While it brings modern infrastructure, it will increase traffic at the <strong>32nd Ave and 160th St</strong> corridor. For buyers, positioning away from this new density is key to long-term value retention.</p>
+    <p>The approved project near the clubhouse adds a mix of luxury townhomes and apartments. While it brings modern infrastructure, it will increase traffic at the <strong>32nd Ave and 160th St</strong> corridor. For buyers, positioning away from this new density is key to long-term value retention.</p>
 
     <h3 class="metric-label">Is the fairway premium worth the investment?</h3>
-    <p>Yes, if you value <strong>exit speed</strong>. Fairway lots are a finite resource. Because families relocating to South Surrey often search specifically for "golf course views," these properties remain liquid even when the broader market slows down. It is a strategic play for buyers with a 5-year timeline.</p>
+    <p>Yes, if you value <strong>exit speed</strong>. Fairway lots are a finite resource. Because families relocating to South Surrey often search specifically for golf course views, these properties remain liquid even when the broader market slows down. It is a strategic play for buyers with a 5-year timeline.</p>
 
   </section>
 
