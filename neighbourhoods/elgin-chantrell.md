@@ -3,6 +3,37 @@ layout: default
 title: "Elgin Chantrell Real Estate | South Surrey's School Catchment Power Player"
 description: "Elgin Chantrell real estate analysis: resale speed, top-rated school boundaries, and executive home infrastructure in South Surrey."
 permalink: /neighbourhoods/elgin-chantrell/
+faq_schema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "Do all Elgin Chantrell homes feed into the same schools?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change. Specific pockets may fall into different catchments without any obvious indication from the street address. I verify every address through the Surrey Schools Locator during due diligence to protect the primary driver of your investment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is there a quantifiable price premium for this catchment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. Relocating families often filter by 'Elgin Park' before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a 10 to 15% premium and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How do I register for Elgin Park Secondary before our move?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium, especially for the IB program, so registration should be initiated the moment your subjects are removed."
+        }
+      }
+    ]
+  }
 ---
 
 <style>
@@ -46,13 +77,13 @@ permalink: /neighbourhoods/elgin-chantrell/
   </header>
 
   <section>
-    <p>Elgin Chantrell is where executive families land when schools matter and they want space. Custom builds, typically 4,500 square feet or larger, on lots built for active family life. The school boundary is why people pay a premium — and why they can sell when they need to.</p>
+    <p>Elgin Chantrell is where executive families land when schools matter and they want space. Custom builds, typically 4,500 square feet or larger, on lots built for active family life. The school boundary is why people pay a premium, and why they can sell when they need to.</p>
 
     <h2 class="section-title">What You're Actually Buying</h2>
     <p><strong>Location:</strong> South Surrey. 15 minutes to Highway 99, 20 minutes to the US border, under an hour to downtown Vancouver.</p>
     <p><strong>Home Size:</strong> Custom executive builds, 4,500 to 6,500 square feet.</p>
     <p><strong>Lot Size:</strong> 12,000 square feet up to one acre.</p>
-    <p><strong>The School Premium:</strong> Homes within the Elgin Park Secondary catchment typically command a 10–15% premium over comparable properties outside the boundary. That premium has held through multiple market cycles.</p>
+    <p><strong>The School Premium:</strong> Homes within the Elgin Park Secondary catchment typically command a 10 to 15% premium over comparable properties outside the boundary. That premium has held through multiple market cycles.</p>
 
     <h2 class="section-title">Who This Is For</h2>
     <p><strong>This fits you if:</strong> you're raising school-age kids and the catchment is non-negotiable, you want 4,500+ square feet with real yard space, or you're relocating and need a neighbourhood that's easy to exit if your role changes.</p>
@@ -64,49 +95,16 @@ permalink: /neighbourhoods/elgin-chantrell/
     <p><strong>vs Ocean Park:</strong> Coastal village vibe vs executive infrastructure and highway access.</p>
     <p><strong>vs Panorama Ridge:</strong> Deep privacy on legacy estates vs better resale speed and a family-focused neighbourhood.</p>
 
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "Do all Elgin Chantrell homes feed into the same schools?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change. Specific pockets may fall into different catchments without any obvious indication from the street address. We verify every address through the Surrey Schools Locator during due diligence to protect the primary driver of your investment."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is there a quantifiable price premium for this catchment?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Yes. Relocating families often filter by 'Elgin Park' before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a 10–15% premium and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How do I register for Elgin Park Secondary before our move?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium — especially for the IB program — so registration should be initiated the moment your subjects are removed."
-          }
-        }
-      ]
-    }
-    </script>
-
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
-    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change. Specific pockets may fall into different catchments without any obvious indication from the street address. We verify every address through the <strong>Surrey Schools Locator</strong> during due diligence to protect the primary driver of your investment.</p>
+    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change. Specific pockets may fall into different catchments without any obvious indication from the street address. I verify every address through the <strong>Surrey Schools Locator</strong> during due diligence to protect the primary driver of your investment.</p>
 
     <h3 class="metric-label">Is there a quantifiable price premium for this catchment?</h3>
-    <p>Yes. Relocating families often filter by "Elgin Park" before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a <strong>10–15% premium</strong> and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions.</p>
+    <p>Yes. Relocating families often filter by "Elgin Park" before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a <strong>10 to 15% premium</strong> and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions.</p>
 
     <h3 class="metric-label">How do I register for Elgin Park Secondary before our move?</h3>
-    <p>The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium — especially for the <strong>IB program</strong> — so registration should be initiated the moment your subjects are removed.</p>
+    <p>The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium, especially for the <strong>IB program</strong>, so registration should be initiated the moment your subjects are removed.</p>
 
   </section>
 
