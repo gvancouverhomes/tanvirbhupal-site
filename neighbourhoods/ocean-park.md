@@ -46,20 +46,19 @@ permalink: /neighbourhoods/ocean-park/
   </header>
 
   <section>
-    <p>Ocean Park is defined by two things: limited supply and the **Marine Drive Bluff**. While the "village vibe" draws people in, the strategic reality of this neighborhood is the management of long-term geotechnical debt. <strong>In Ocean Park, you aren't just buying a home; you are buying a position on a shifting coastline.</strong></p>
+    <p>Ocean Park is defined by two things: limited supply and the <strong>Marine Drive Bluff</strong>. While the "village vibe" draws people in, the strategic reality of this neighborhood is the management of long-term geotechnical debt. <strong>In Ocean Park, you aren't just buying a home; you are buying a position on a shifting coastline.</strong></p>
     
     <p>This is where affluent families land when they want the White Rock lifestyle with more privacy, larger lots, and a tighter, non-tourist community feel.</p>
 
     <h2 class="section-title">What You're Actually Buying</h2>
-    <p><strong>Geotechnical Stability:</strong> Many properties on the South side of Marine Drive carry **Subsidence Covenants** on title. If you plan to build or renovate, the City of Surrey mandates site-specific geotechnical reports and often specialized pile foundations to mitigate erosion risk.</p>
-    <p><strong>Infrastructure Transition:</strong> While most of the village is now on municipal sewer, pockmarked areas remain on septic. With the **2026 Ocean Park Sewer Upgrade** project nearing completion, identifying whether a property is "connected" or "ready-to-connect" is a $50K+ decision during due diligence.</p>
-    <p><strong>The View Premium:</strong> Bluff-side properties command a **15–20% premium** over interior village lots. This is a "Monopoly Play"—the coastline cannot be expanded. This scarcity ensures that Ocean Park remains one of the most resilient asset classes in Metro Vancouver.</p>
+    <p><strong>Geotechnical Stability:</strong> Many properties on the South side of Marine Drive carry <strong>Subsidence Covenants</strong> on title. If you plan to build or renovate, the City of Surrey mandates site-specific geotechnical reports and often specialized pile foundations to mitigate erosion risk.</p>
+    <p><strong>Infrastructure Transition:</strong> While most of the village is now on municipal sewer, specific "islands" remain on septic. With the <strong>2026 Ocean Park Sewer Upgrade</strong> project impacting local infrastructure budgets, identifying whether a property is "connected" or "ready-to-connect" is a $50K+ decision during due diligence.</p>
+    <p><strong>The View Premium:</strong> Bluff-side properties command a <strong>15–20% premium</strong> over interior village lots. This is a "Monopoly Play"—the coastline cannot be expanded. This scarcity ensures that Ocean Park remains one of the most resilient asset classes in Metro Vancouver.</p>
 
     <h2 class="section-title">Who This Is For</h2>
-    <ul class="metric-list">
-      <li><strong>This fits you if:</strong> you want a walkable "village" lifestyle, you prioritize ocean proximity over highway access, or you’re looking for a "legacy" hold for your family.</li>
-      <li><strong>It doesn't fit if:</strong> you are risk-averse regarding geotechnical stability, you need the rapid highway connectivity of Morgan Creek, or you’re sensitive to the ongoing infrastructure utility rate increases.</li>
-    </ul>
+    <p><strong>This fits you if:</strong> you want a walkable "village" lifestyle, you prioritize ocean proximity over highway access, or you’re looking for a "legacy" hold for your family.</p>
+    
+    <p><strong>It doesn't fit if:</strong> you are risk-averse regarding geotechnical stability, you need the rapid highway connectivity of Morgan Creek, or you’re sensitive to the ongoing infrastructure utility rate increases.</p>
 
     <h2 class="section-title">Ocean Park vs The Competition</h2>
     <p><strong>vs Elgin Chantrell:</strong> Elgin = executive school power, larger acreage. Ocean Park = coastal village culture, high walkability, finite bluff scarcity.</p>
@@ -102,13 +101,13 @@ permalink: /neighbourhoods/ocean-park/
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">What should I know about the geotechnical risks?</h3>
-    <p>If the home is on the bluff, you must check for a **Subsidence Covenant**. These legal documents confirm that a professional engineer has assessed the slope. If you plan to build, expect to invest in pile foundations or specialized drainage to meet City of Surrey standards. We treat this as a "mandatory" check for any coastal property.</p>
+    <p>If the home is on the bluff, you must check for a <strong>Subsidence Covenant</strong>. These legal documents confirm that a professional engineer has assessed the slope. If you plan to build, expect to invest in pile foundations or specialized drainage to meet City of Surrey standards. We treat this as a mandatory check for any coastal property.</p>
 
     <h3 class="metric-label">Is the neighborhood fully on municipal sewer?</h3>
-    <p>Not 100%. Some legacy estates and specific pockets are still on septic. The **2026 Ocean Park Sewer Upgrade** is improving overall reliability, but individual connection costs can be significant. We verify the "Sewer Utility" status through the City of Surrey to ensure there are no hidden infrastructure costs.</p>
+    <p>Not 100%. Some legacy estates and specific pockets are still on septic. The <strong>2026 Ocean Park Sewer Upgrade</strong> is improving overall reliability, but individual connection costs can be significant. We verify the "Sewer Utility" status through the City of Surrey to ensure there are no hidden infrastructure costs.</p>
 
     <h3 class="metric-label">Is the "Bluff Premium" still a sound strategy?</h3>
-    <p>Yes. In the 2026 market, "Ghost Listings" (mispriced luxury properties) are common, but true Ocean Park bluff properties remain in high demand. Because you are buying **finite supply**, these homes act as an excellent long-term hedge against inflation and market volatility.</p>
+    <p>Yes. While some mispriced luxury properties can linger on the market, true Ocean Park bluff properties remain in high demand. Because you are buying <strong>finite supply</strong>, these homes act as an excellent long-term hedge against inflation and market volatility.</p>
 
   </section>
 
