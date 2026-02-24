@@ -1,8 +1,39 @@
 ---
 layout: default
-title: Ocean Park Real Estate Strategy | The Coastal Monopoly
-description: Strategic analysis of Ocean Park’s bluff-side risks, geotechnical requirements, and the long-term defensibility of South Surrey’s coastal village.
+title: "Ocean Park Real Estate Strategy | The Coastal Monopoly"
+description: "Strategic analysis of Ocean Park bluff risks, geotechnical requirements, and the long term defensibility of South Surrey coastal village."
 permalink: /neighbourhoods/ocean-park/
+faq_schema: |
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What are the geotechnical risks of buying on the Ocean Park bluff?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Properties on the bluff are subject to natural erosion and subsidence. The City of Surrey requires a site-specific geotechnical report from a qualified engineer to certify that the land can be safely used for the intended construction. I verify all existing subsidence covenants and engineering history to protect your investment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is Ocean Park fully connected to municipal sewer?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "While the majority of Ocean Park is serviced, specific pockets still utilize septic systems. With the 2026 Sewer Upgrade project underway, the status of a property connection can significantly impact its value and future development potential. I confirm utility status as a primary step in due diligence."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "How does the bluff premium hold up in a buyer market?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "The bluff side monopoly ensures that properties with ocean views maintain a high defensive price floor. While inventory in South Surrey rose in 2025, the supply of coastal properties remained structurally low, allowing them to retain a 15 to 20% premium and sell faster than inland luxury estates."
+        }
+      }
+    ]
+  }
 ---
 
 <style>
@@ -21,7 +52,6 @@ permalink: /neighbourhoods/ocean-park/
   .audit-text { font-size: 0.95rem; color: #444; margin-bottom: 1.5rem; max-width: 650px; line-height: 1.6; }
   .audit-btn { display: inline-block; padding: 14px 28px; background: var(--dark); color: #fff !important; text-decoration: none; font-size: 0.8rem; font-weight: bold; letter-spacing: 1px; transition: background 0.2s ease; border: 1px solid var(--dark); white-space: nowrap; }
 
-  /* Navigation Grid Styles */
   .nav-section { padding: 80px 20px; border-top: 1px solid var(--border); background: var(--bg-alt); margin-top: 80px; }
   .nav-section-title { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 3px; color: var(--meta); margin-bottom: 40px; text-align: center; }
   .nav-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; max-width: 1100px; margin: 0 auto; }
@@ -42,72 +72,39 @@ permalink: /neighbourhoods/ocean-park/
 <article class="intel-container">
   <header>
     <h1 class="intel-header">Ocean Park: South Surrey’s Coastal Village Monopoly</h1>
-    <p class="intel-sub">When buying the view means managing the "Bluff." Are you prepared for the geotechnical requirements?</p>
+    <p class="intel-sub">When buying the view means managing the bluff. Are you prepared for the geotechnical requirements?</p>
   </header>
 
   <section>
-    <p>Ocean Park is defined by two things: limited supply and the <strong>Marine Drive Bluff</strong>. While the "village vibe" draws people in, the strategic reality of this neighborhood is the management of long-term geotechnical debt. <strong>In Ocean Park, you aren't just buying a home; you are buying a position on a shifting coastline.</strong></p>
+    <p>Ocean Park is defined by two things: limited supply and the <strong>Marine Drive Bluff</strong>. While the village vibe draws people in, the strategic reality of this neighbourhood is the management of long term geotechnical debt. <strong>In Ocean Park, you are not just buying a home: you are buying a position on a shifting coastline.</strong></p>
     
-    <p>This is where affluent families land when they want the White Rock lifestyle with more privacy, larger lots, and a tighter, non-tourist community feel.</p>
+    <p>This is where affluent families land when they want the White Rock lifestyle with more privacy, larger lots, and a tighter community feel.</p>
 
     <h2 class="section-title">What You're Actually Buying</h2>
-    <p><strong>Geotechnical Stability:</strong> Many properties on the South side of Marine Drive carry <strong>Subsidence Covenants</strong> on title. If you plan to build or renovate, the City of Surrey mandates site-specific geotechnical reports and often specialized pile foundations to mitigate erosion risk.</p>
-    <p><strong>Infrastructure Transition:</strong> While most of the village is now on municipal sewer, specific "islands" remain on septic. With the <strong>2026 Ocean Park Sewer Upgrade</strong> project impacting local infrastructure budgets, identifying whether a property is "connected" or "ready-to-connect" is a $50K+ decision during due diligence.</p>
-    <p><strong>The View Premium:</strong> Bluff-side properties command a <strong>15–20% premium</strong> over interior village lots. This is a "Monopoly Play"—the coastline cannot be expanded. This scarcity ensures that Ocean Park remains one of the most resilient asset classes in Metro Vancouver.</p>
+    <p><strong>Geotechnical Stability:</strong> Many properties on the south side of Marine Drive carry <strong>Subsidence Covenants</strong> on title. If you plan to build or renovate, the City of Surrey mandates site-specific geotechnical reports and specialized pile foundations to mitigate erosion risk.</p>
+    <p><strong>Infrastructure Transition:</strong> While most of the village is now on municipal sewer, specific islands remain on septic. With the <strong>2026 Ocean Park Sewer Upgrade</strong> project impacting local infrastructure budgets, identifying whether a property is connected is a $50K plus decision during due diligence.</p>
+    <p><strong>The View Premium:</strong> Bluff side properties command a <strong>15 to 20% premium</strong> over interior village lots. This is a monopoly play: the coastline cannot be expanded. This scarcity ensures that Ocean Park remains one of the most resilient asset classes in Metro Vancouver.</p>
 
     <h2 class="section-title">Who This Is For</h2>
-    <p><strong>This fits you if:</strong> you want a walkable "village" lifestyle, you prioritize ocean proximity over highway access, or you’re looking for a "legacy" hold for your family.</p>
+    <p><strong>This fits you if:</strong> you want a walkable village lifestyle, you prioritize ocean proximity over highway access, or you are looking for a legacy hold for your family.</p>
     
-    <p><strong>It doesn't fit if:</strong> you are risk-averse regarding geotechnical stability, you need the rapid highway connectivity of Morgan Creek, or you’re sensitive to the ongoing infrastructure utility rate increases.</p>
+    <p><strong>It does not fit if:</strong> you are risk averse regarding geotechnical stability, you need the rapid highway connectivity of Morgan Creek, or you are sensitive to ongoing infrastructure utility rate increases.</p>
 
     <h2 class="section-title">Ocean Park vs The Competition</h2>
-    <p><strong>vs Elgin Chantrell:</strong> Elgin = executive school power, larger acreage. Ocean Park = coastal village culture, high walkability, finite bluff scarcity.</p>
-    <p><strong>vs Morgan Creek:</strong> Morgan Creek = manicured golf estates, lower maintenance. Ocean Park = organic coastal character, beach access via 1001 Steps or Sandy Trail.</p>
-    <p><strong>vs Panorama Ridge:</strong> Panorama = absolute gated seclusion. Ocean Park = community-integrated wealth, "village" social life.</p>
-
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "What are the geotechnical risks of buying on the Ocean Park bluff?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "Properties on the bluff are subject to natural erosion and subsidence. The City of Surrey requires a site-specific geotechnical report from a qualified engineer to certify that the land can be safely used for the intended construction. We verify all existing subsidence covenants and engineering history to protect your investment."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "Is Ocean Park fully connected to municipal sewer?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "While the majority of Ocean Park is serviced, specific pockets still utilize septic systems. With the 2026 Sewer Upgrade project underway, the status of a property's connection can significantly impact its value and future development potential. We confirm utility status as a primary step in due diligence."
-          }
-        },
-        {
-          "@type": "Question",
-          "name": "How does the 'Bluff Premium' hold up in a buyer's market?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The bluff-side 'Monopoly' ensures that properties with ocean views maintain a high defensive price floor. While inventory in South Surrey rose in 2025, the supply of coastal properties remained structurally low, allowing them to retain a 15-20% premium and sell faster than inland luxury estates."
-          }
-        }
-      ]
-    }
-    </script>
+    <p><strong>vs Elgin Chantrell:</strong> Elgin offers executive school power and larger acreage. Ocean Park offers coastal village culture, high walkability, and finite bluff scarcity.</p>
+    <p><strong>vs Morgan Creek:</strong> Morgan Creek offers manicured golf estates and lower maintenance. Ocean Park offers organic coastal character and beach access via 1001 Steps or Sandy Trail.</p>
+    <p><strong>vs Panorama Ridge:</strong> Panorama offers absolute gated seclusion. Ocean Park offers community integrated wealth and village social life.</p>
 
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">What should I know about the geotechnical risks?</h3>
-    <p>If the home is on the bluff, you must check for a <strong>Subsidence Covenant</strong>. These legal documents confirm that a professional engineer has assessed the slope. If you plan to build, expect to invest in pile foundations or specialized drainage to meet City of Surrey standards. We treat this as a mandatory check for any coastal property.</p>
+    <p>If the home is on the bluff, I check for a <strong>Subsidence Covenant</strong>. These legal documents confirm that a professional engineer has assessed the slope. If you plan to build, expect to invest in pile foundations or specialized drainage to meet City of Surrey standards. I treat this as a mandatory check for any coastal property.</p>
 
-    <h3 class="metric-label">Is the neighborhood fully on municipal sewer?</h3>
-    <p>Not 100%. Some legacy estates and specific pockets are still on septic. The <strong>2026 Ocean Park Sewer Upgrade</strong> is improving overall reliability, but individual connection costs can be significant. We verify the "Sewer Utility" status through the City of Surrey to ensure there are no hidden infrastructure costs.</p>
+    <h3 class="metric-label">Is the neighbourhood fully on municipal sewer?</h3>
+    <p>Not 100%. Some legacy estates and specific pockets are still on septic. The <strong>2026 Ocean Park Sewer Upgrade</strong> is improving overall reliability, but individual connection costs can be significant. I verify the sewer utility status through the City of Surrey to ensure there are no hidden infrastructure costs.</p>
 
-    <h3 class="metric-label">Is the "Bluff Premium" still a sound strategy?</h3>
-    <p>Yes. While some mispriced luxury properties can linger on the market, true Ocean Park bluff properties remain in high demand. Because you are buying <strong>finite supply</strong>, these homes act as an excellent long-term hedge against inflation and market volatility.</p>
+    <h3 class="metric-label">Is the bluff premium still a sound strategy?</h3>
+    <p>Yes. While some mispriced luxury properties can linger on the market, true Ocean Park bluff properties remain in high demand. Because you are buying <strong>finite supply</strong>, these homes act as an excellent long term hedge against inflation and market volatility.</p>
 
   </section>
 
@@ -118,7 +115,7 @@ permalink: /neighbourhoods/ocean-park/
     </div>
     <div class="audit-body">
       <p class="audit-text">
-        Ocean Park’s coastal village monopoly and legacy bluff estates are for buyers who value village life without the tourism of White Rock. If you're thinking about buying, selling, or just want to understand the geotechnical reality of your property, let's talk.
+        Ocean Park coastal village monopoly and legacy bluff estates are for buyers who value village life without the tourism of White Rock. If you are thinking about buying, selling, or just want to understand the geotechnical reality of your property, let us talk.
       </p>
       <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
         No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
@@ -126,31 +123,3 @@ permalink: /neighbourhoods/ocean-park/
     </div>
   </section>
 </article>
-
-<aside class="nav-section">
-  <div style="max-width: 1100px; margin: 0 auto;">
-    <h2 class="nav-section-title">Compare Strategic Locations</h2>
-    <nav class="nav-grid" aria-label="Neighborhood navigation">
-      <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
-        <span class="nav-tag">Prestige with Velocity</span>
-        <span class="nav-name">Elgin Chantrell &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-        <span class="nav-tag">Golf Course Luxury</span>
-        <span class="nav-name">Morgan Creek &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-        <span class="nav-tag">The Legacy Hold</span>
-        <span class="nav-name">Panorama Ridge &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-        <span class="nav-tag">The Growth Frontier</span>
-        <span class="nav-name">Grandview Heights &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-        <span class="nav-tag">The Elevated Gateway</span>
-        <span class="nav-name">Fraser Heights &rarr;</span>
-      </a>
-    </nav>
-  </div>
-</aside>
