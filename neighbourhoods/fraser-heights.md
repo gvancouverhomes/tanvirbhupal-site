@@ -123,3 +123,28 @@ faq_schema: |
     </div>
   </section>
 </article>
+<section class="nav-section">
+  <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
+  <div class="nav-grid">
+    <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
+      <span class="nav-tag">Prestige with Velocity</span>
+      <span class="nav-name">Elgin Chantrell &rarr;</span>
+    </a>
+    <a href="/neighbourhoods/ocean-park/" class="nav-card">
+      <span class="nav-tag">The Coastal Monopoly</span>
+      <span class="nav-name">Ocean Park &rarr;</span>
+    </a>
+    <a href="/neighbourhoods/morgan-creek/" class="nav-card">
+      <span class="nav-tag">The Lock-and-Go Premium</span>
+      <span class="nav-name">Morgan Creek &rarr;</span>
+    </a>
+    <a href="/neighbourhoods/grandview-heights/" class="nav-card">
+      <span class="nav-tag">The Modern Hub</span>
+      <span class="nav-name">Grandview Heights &rarr;</span>
+    </a>
+    <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
+      <span class="nav-tag">The Legacy Hold</span>
+      <span class="nav-name">Panorama Ridge &rarr;</span>
+    </a>
+  </div>
+</section>
