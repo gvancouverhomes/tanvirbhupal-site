@@ -34,10 +34,11 @@ title: Strategic Advisory
     <p style="text-align: center; color: #666; margin-bottom: 50px;">Strategic enclaves analyzed for lifestyle fit and long-term value.</p>
     
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; width: 100%;">
-      <a href="/neighbourhoods/morgan-creek/" class="enclave-card">MORGAN CREEK</a>
+    
       <a href="/neighbourhoods/elgin-chantrell/" class="enclave-card">ELGIN CHANTRELL</a>
-      <a href="/neighbourhoods/grandview-heights/" class="enclave-card">GRANDVIEW HEIGHTS</a>
       <a href="/neighbourhoods/ocean-park/" class="enclave-card">OCEAN PARK</a>
+      <a href="/neighbourhoods/morgan-creek/" class="enclave-card">MORGAN CREEK</a>
+      <a href="/neighbourhoods/grandview-heights/" class="enclave-card">GRANDVIEW HEIGHTS</a>
       <a href="/neighbourhoods/panorama-ridge/" class="enclave-card">PANORAMA RIDGE</a>
       <a href="/neighbourhoods/fraser-heights/" class="enclave-card">FRASER HEIGHTS</a>
     </div>
