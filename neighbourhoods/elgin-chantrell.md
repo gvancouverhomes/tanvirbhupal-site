@@ -78,7 +78,7 @@ faq_schema: |
 
   <section>
     <p>Elgin Chantrell is where executive families land when schools matter and they want space. Custom builds, typically 4,500 square feet or larger, on lots built for active family life. The school boundary is why people pay a premium, and why they can sell when they need to.</p>
-
+<p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Elgin Chantrell? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
     <h2 class="section-title">What You're Actually Buying</h2>
     <p><strong>Location:</strong> South Surrey. 15 minutes to Highway 99, 20 minutes to the US border, under an hour to downtown Vancouver.</p>
     <p><strong>Home Size:</strong> Custom executive builds, 4,500 to 6,500 square feet.</p>
@@ -106,6 +106,32 @@ faq_schema: |
     <h3 class="metric-label">How do I register for Elgin Park Secondary before our move?</h3>
     <p>The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium, especially for the <strong>IB program</strong>, so registration should be initiated the moment your subjects are removed.</p>
 
+ </section>
+
+  <section class="nav-section" style="margin-top: 60px; padding: 40px 0; border-top: 1px solid var(--border); background: transparent;">
+    <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
+    <div class="nav-grid">
+      <a href="/neighbourhoods/ocean-park/" class="nav-card">
+        <span class="nav-tag">The Coastal Monopoly</span>
+        <span class="nav-name">Ocean Park</span>
+      </a>
+      <a href="/neighbourhoods/morgan-creek/" class="nav-card">
+        <span class="nav-tag">The Lock-and-Go Premium</span>
+        <span class="nav-name">Morgan Creek</span>
+      </a>
+      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
+        <span class="nav-tag">The Modern Hub</span>
+        <span class="nav-name">Grandview Heights</span>
+      </a>
+      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
+        <span class="nav-tag">The Legacy Hold</span>
+        <span class="nav-name">Panorama Ridge</span>
+      </a>
+      <a href="/neighbourhoods/fraser-heights/" class="nav-card">
+        <span class="nav-tag">The Overlooked Summit</span>
+        <span class="nav-name">Fraser Heights</span>
+      </a>
+    </div>
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
@@ -123,29 +149,3 @@ faq_schema: |
     </div>
   </section>
 </article>
-
-<section class="nav-section">
-  <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
-  <div class="nav-grid">
-    <a href="/neighbourhoods/ocean-park/" class="nav-card">
-      <span class="nav-tag">The Coastal Monopoly</span>
-      <span class="nav-name">Ocean Park</span>
-    </a>
-    <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-      <span class="nav-tag">The Lock-and-Go Premium</span>
-      <span class="nav-name">Morgan Creek</span>
-    </a>
-    <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-      <span class="nav-tag">The Modern Hub</span>
-      <span class="nav-name">Grandview Heights</span>
-    </a>
-    <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-      <span class="nav-tag">The Legacy Hold</span>
-      <span class="nav-name">Panorama Ridge</span>
-    </a>
-    <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-      <span class="nav-tag">The Overlooked Summit</span>
-      <span class="nav-name">Fraser Heights</span>
-    </a>
-  </div>
-</section>
