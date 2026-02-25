@@ -126,29 +126,31 @@ faq_schema: |
   </section>
 </article>
 
-<aside class="nav-section">
-  <div style="max-width: 1100px; margin: 0 auto;">
-    <h2 class="nav-section-title">Compare Strategic Locations</h2>
-    <nav class="nav-grid" aria-label="Neighborhood navigation">
-      <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
-        <span class="nav-tag">Prestige with Velocity</span>
-        <span class="nav-name">Elgin Chantrell &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/ocean-park/" class="nav-card">
-        <span class="nav-tag">Coastal Village Monopoly</span>
-        <span class="nav-name">Ocean Park &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-        <span class="nav-tag">The Legacy Hold</span>
-        <span class="nav-name">Panorama Ridge &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-        <span class="nav-tag">The Growth Frontier</span>
-        <span class="nav-name">Grandview Heights &rarr;</span>
-      </a>
-      <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-        <span class="nav-tag">The Elevated Gateway</span>
-        <span class="nav-name">Fraser Heights &rarr;</span>
+<section class="nav-section">
+  <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
+  <div class="nav-grid">
+    <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
+      <span class="nav-tag">Prestige with Velocity</span>
+      <span class="nav-name">Elgin Chantrell &rarr;</span>
+    </a>
+    <a href="/neighbourhoods/ocean-park/" class="nav-card">
+      <span class="nav-tag">The Coastal Monopoly</span>
+      <span class="nav-name">Ocean Park &rarr;</span>
+    </a>
+    <a href="/neighbourhoods/grandview-heights/" class="nav-card">
+      <span class="nav-tag">The Modern Hub</span>
+      <span class="nav-name">Grandview Heights &rarr;</span>
+    </a>
+    <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
+      <span class="nav-tag">The Legacy Hold</span>
+      <span class="nav-name">Panorama Ridge &rarr;</span>
+    </a>
+    <a href="/neighbourhoods/fraser-heights/" class="nav-card">
+      <span class="nav-tag">The Yield Play</span>
+      <span class="nav-name">Fraser Heights &rarr;</span>
+    </a>
+  </div>
+</section>
       </a>
     </nav>
   </div>
