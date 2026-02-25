@@ -6,12 +6,34 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Tanvir Bhupal</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=99">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=99">
     {% if page.faq_schema %}<script type="application/ld+json">{{ page.faq_schema }}</script>{% endif %}
+    
+    <style>
+        /* Essential CSS for the Smart Header functionality */
+        #site-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+            box-sizing: border-box; /* Ensures padding doesn't mess with width */
+        }
+        
+        .header-hidden {
+            transform: translateY(-100%);
+        }
+
+        /* Adjust Main to prevent content from hiding under fixed header */
+        main {
+            padding-top: 80px; /* Aligns with your header height */
+        }
+    </style>
 </head>
 <body style="margin:0; padding:0; font-family: sans-serif; background-color: #fdfcf9;">
 
-    <header style="display: flex; justify-content: space-between; align-items: center; padding: 30px 10%; border-bottom: 1px solid rgba(0,0,0,0.05); background: #fdfcf9;">
+    <header id="site-header" style="display: flex; justify-content: space-between; align-items: center; padding: 30px 10%; border-bottom: 1px solid rgba(0,0,0,0.05); background: #fdfcf9;">
         <a href="/" style="font-size: 1.1rem; letter-spacing: 3px; text-transform: uppercase; font-weight: bold; color: #1a1a1a; text-decoration: none;">TANVIR BHUPAL</a>
         <nav>
             <a href="/about" style="text-decoration: none; color: #666; margin-left: 30px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px;">Approach</a>
@@ -46,6 +68,28 @@
 
       </div>
     </footer>
+
+    <script>
+      (function() {
+        let lastScrollY = window.scrollY;
+        const header = document.getElementById('site-header');
+        const threshold = 10; 
+
+        window.addEventListener('scroll', () => {
+          const currentScrollY = window.scrollY;
+          
+          if (Math.abs(currentScrollY - lastScrollY) <= threshold) return;
+
+          if (currentScrollY > lastScrollY && currentScrollY > 100) {
+            header.classList.add('header-hidden');
+          } else {
+            header.classList.remove('header-hidden');
+          }
+          
+          lastScrollY = currentScrollY;
+        });
+      })();
+    </script>
 
 </body>
 </html>
