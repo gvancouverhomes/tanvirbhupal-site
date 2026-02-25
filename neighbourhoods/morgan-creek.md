@@ -151,7 +151,4 @@ faq_schema: |
     </a>
   </div>
 </section>
-      </a>
-    </nav>
-  </div>
-</aside>
+
