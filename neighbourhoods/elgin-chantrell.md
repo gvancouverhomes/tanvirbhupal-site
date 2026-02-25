@@ -98,7 +98,7 @@ faq_schema: |
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
-    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change. Specific pockets may fall into different catchments without any obvious indication from the street address. I verify every address through the <strong>Surrey Schools Locator</strong> during due diligence to protect the primary driver of your investment.</p>
+    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change based on district capacity — a property one street outside the catchment can cost you the premium you paid to be inside it. I verify every address through the <strong>Surrey Schools Locator<strong> before subjects are removed so you're not finding out after the fact.</p>
 
     <h3 class="metric-label">Is there a quantifiable price premium for this catchment?</h3>
     <p>Yes. Relocating families often filter by "Elgin Park" before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a <strong>10 to 15% premium</strong> and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions.</p>
