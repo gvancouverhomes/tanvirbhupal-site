@@ -131,7 +131,7 @@ faq_schema: |
       <span class="nav-name">Panorama Ridge &rarr;</span>
     </a>
     <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-      <span class="nav-tag">The Yield Play</span>
+      <span class="nav-tag">The Overlooked Summit</span>
       <span class="nav-name">Fraser Heights &rarr;</span>
     </a>
   </div>
