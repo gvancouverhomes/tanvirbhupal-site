@@ -91,9 +91,9 @@ faq_schema: |
     <p><strong>It doesn't fit if:</strong> you want zero-maintenance lock-and-go living (Morgan Creek), multi-acre seclusion (Panorama Ridge), or you're downsizing.</p>
 
     <h2 class="section-title">Elgin Chantrell vs The Competition</h2>
-    <p><strong>vs Morgan Creek:</strong> Golf course views and strata options vs larger private lots and the school catchment advantage.</p>
-    <p><strong>vs Ocean Park:</strong> Coastal village vibe vs executive infrastructure and highway access.</p>
-    <p><strong>vs Panorama Ridge:</strong> Deep privacy on legacy estates vs better resale speed and a family-focused neighbourhood.</p>
+    <p><strong>vs Morgan Creek:</strong>Larger private lots and school catchment access vs Morgan Creek's golf course lifestyle and strata convenience.</p>
+    <p><strong>vs Ocean Park:</strong> Executive infrastructure and highway connectivity vs Ocean Park's coastal village character and beach proximity.</p>
+    <p><strong>vs Panorama Ridge:</strong> Faster resale velocity and family-focused neighbourhood vs Panorama Ridge's total seclusion and legacy estate scale.</p>
 
     <h2 class="section-title">Frequently Asked Questions</h2>
 
