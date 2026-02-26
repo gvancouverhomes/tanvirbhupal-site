@@ -79,7 +79,7 @@ faq_schema: |
     <p>Ocean Park is defined by two things: limited supply and the <strong>Marine Drive Bluff</strong>. While the village vibe draws people in, the strategic reality of this neighbourhood is the management of long term geotechnical debt. <strong>In Ocean Park, you are not just buying a home: you are buying a position on a shifting coastline.</strong></p>
     
     <p>This is where affluent families land when they want the White Rock lifestyle with more privacy, larger lots, and a tighter community feel.</p>
-
+<p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Ocean Park? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
     <h2 class="section-title">What You're Actually Buying</h2>
     <p><strong>Geotechnical Stability:</strong> Many properties on the south side of Marine Drive carry <strong>Subsidence Covenants</strong> on title. If you plan to build or renovate, the City of Surrey mandates site-specific geotechnical reports and specialized pile foundations to mitigate erosion risk.</p>
     <p><strong>Infrastructure Transition:</strong> While most of the village is now on municipal sewer, specific islands remain on septic. With the <strong>2026 Ocean Park Sewer Upgrade</strong> project impacting local infrastructure budgets, identifying whether a property is connected is a $50K plus decision during due diligence.</p>
@@ -97,54 +97,58 @@ faq_schema: |
 
     <h2 class="section-title">Frequently Asked Questions</h2>
 
-    <h3 class="metric-label">What should I know about the geotechnical risks?</h3>
-    <p>If the home is on the bluff, I check for a <strong>Subsidence Covenant</strong>. These legal documents confirm that a professional engineer has assessed the slope. If you plan to build, expect to invest in pile foundations or specialized drainage to meet City of Surrey standards. I treat this as a mandatory check for any coastal property.</p>
+    <h3 class="metric-label">Is Ocean Park considered part of White Rock?</h3>
+    <p>No. While it shares the same coastline and atmosphere, Ocean Park is a distinct neighbourhood within the City of Surrey. This distinction is important for property taxes and municipal services, though the community identity is often tied to the broader South Surrey peninsula.</p>
 
-    <h3 class="metric-label">Is the neighbourhood fully on municipal sewer?</h3>
-    <p>Not 100%. Some legacy estates and specific pockets are still on septic. The <strong>2026 Ocean Park Sewer Upgrade</strong> is improving overall reliability, but individual connection costs can be significant. I verify the sewer utility status through the City of Surrey to ensure there are no hidden infrastructure costs.</p>
+    <h3 class="metric-label">What is the "1001 Steps" I keep hearing about?</h3>
+    <p>It is a local landmark providing pedestrian access to the shoreline. For homeowners, it represents the neighbourhood's commitment to preserving nature over high-density development—a key reason why the area maintains its quiet village feel.</p>
 
-    <h3 class="metric-label">Is the bluff premium still a sound strategy?</h3>
-    <p>Yes. While some mispriced luxury properties can linger on the market, true Ocean Park bluff properties remain in high demand. Because you are buying <strong>finite supply</strong>, these homes act as an excellent long term hedge against inflation and market volatility.</p>
-
+    <h3 class="metric-label">Are there many new developments in Ocean Park?</h3>
+    <p>Inventory is largely restricted to detached single-family homes and boutique low-rise options. The community's "Big Trees, Not Big Houses" ethos makes large-scale redevelopment rare, which helps protect property values and ensures the neighbourhood's character remains stable.</p>
   </section>
+</article>
 
-  <section class="audit-card" aria-labelledby="audit-heading">
+<aside class="nav-section">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <h2 class="nav-section-title">Compare Strategic Locations</h2>
+    <nav class="nav-grid" aria-label="Neighbourhood navigation">
+      <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
+        <span class="nav-tag">The Coastal Monopoly</span>
+        <span class="nav-name">Elgin Chantrell &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/morgan-creek/" class="nav-card">
+        <span class="nav-tag">The Lock-and-Go Premium</span>
+        <span class="nav-name">Morgan Creek &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
+        <span class="nav-tag">The Legacy Hold</span>
+        <span class="nav-name">Panorama Ridge &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
+        <span class="nav-tag">The Modern Hub</span>
+        <span class="nav-name">Grandview Heights &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/fraser-heights/" class="nav-card">
+        <span class="nav-tag">The Overlooked Summit</span>
+        <span class="nav-name">Fraser Heights &rarr;</span>
+      </a>
+    </nav>
+  </div>
+</aside>
+
+<div class="intel-container" style="padding-top: 0;">
+  <section class="audit-card" aria-labelledby="audit-heading" style="margin-top: 0;">
     <h2 id="audit-heading" class="audit-title">Ocean Park Portfolio Review</h2>
     <div class="audit-action">
       <a href="/contact" class="audit-btn">INQUIRE ABOUT OCEAN PARK</a>
     </div>
     <div class="audit-body">
       <p class="audit-text">
-        Ocean Park coastal village monopoly and legacy bluff estates are for buyers who value village life without the tourism of White Rock. If you are thinking about buying, selling, or just want to understand the geotechnical reality of your property, let us talk.
+        Ocean Park’s stability comes from its lack of density and its permanent coastal appeal. If you are looking to acquire or divest in this specific enclave, the strategy must be as quiet and deliberate as the neighbourhood itself.
       </p>
       <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
         No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
       </p>
     </div>
   </section>
-</article>
-<section class="nav-section">
-  <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
-  <div class="nav-grid">
-    <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
-      <span class="nav-tag">Prestige with Velocity</span>
-      <span class="nav-name">Elgin Chantrell &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-      <span class="nav-tag">The Lock-and-Go Premium</span>
-      <span class="nav-name">Morgan Creek &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-      <span class="nav-tag">The Modern Hub</span>
-      <span class="nav-name">Grandview Heights &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-      <span class="nav-tag">The Legacy Hold</span>
-      <span class="nav-name">Panorama Ridge &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-      <span class="nav-tag">The Yield Play</span>
-      <span class="nav-name">Fraser Heights &rarr;</span>
-    </a>
-  </div>
-</section>
+</div>
