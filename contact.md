@@ -1,20 +1,22 @@
 ---
 layout: default
-title: Let's Talk About Your Move | Tanvir Bhupal
+title: Start With a Straight Conversation | Tanvir Bhupal
 description: Straight answers about Surrey real estate. Reach out for a discreet conversation about your relocation or property strategy.
 permalink: /contact/
 ---
 <section style="padding: 100px 10%; background: #fdfcf9; min-height: 70vh;">
   <div style="max-width: 850px; margin: 0 auto; text-align: left;">
     
-    <h1 style="font-size: 2.8rem; font-weight: normal; color: #1a1a1a; margin-bottom: 30px; letter-spacing: -1px;">Let's Talk About Your Move</h1>
+    <h1 style="font-size: 2.8rem; font-weight: normal; color: #1a1a1a; margin-bottom: 30px; letter-spacing: -1px;">Start With a Straight Conversation</h1>
     
-    <p style="font-size: 1.2rem; line-height: 1.7; color: #444; margin-bottom: 40px;">
-      I work with executives and professionals buying or selling in <strong>Surrey, South Surrey, and White Rock</strong>. If you're downsizing, relocating, or trying to figure out if a neighbourhood makes sense for your situation, I can help.
+    <p style="font-size: 1.2rem; line-height: 1.7; color: #444; margin-bottom: 20px;">
+      Buying in South Surrey? I will tell you which neighbourhood fits your situation and what to watch for before you remove subjects.
     </p>
-
+    <p style="font-size: 1.2rem; line-height: 1.7; color: #444; margin-bottom: 40px;">
+      Selling? I will tell you what your property is actually worth right now, how long it should realistically take to sell, and what the right positioning strategy is before it hits the market.
+    </p>
     <p style="font-size: 1.1rem; line-height: 1.7; color: #666; margin-bottom: 50px;">
-      We'll have a quick conversation about what you're looking for and whether I can actually add value. If it's not a good fit, I'll tell you.
+      If it is not a good fit, I will tell you that too.
     </p>
 
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; margin-bottom: 60px;">
@@ -24,7 +26,7 @@ permalink: /contact/
       </div>
       <div>
         <h4 style="font-size: 0.85rem; font-weight: 600; color: #1a1a1a; margin-bottom: 15px;">What Happens Next</h4>
-        <p style="font-size: 0.95rem; color: #666; line-height: 1.6;">We'll have a quick call (usually 15-20 minutes) to talk about what you're looking for. If I can help, we'll go from there. If not, I'll point you in the right direction.</p>
+        <p style="font-size: 0.95rem; color: #666; line-height: 1.6;">We will have a quick call, usually 15 to 20 minutes, to talk about what you are looking for. If I can help, we will go from there. If not, I will point you in the right direction.</p>
       </div>
     </div>
 
@@ -43,21 +45,10 @@ permalink: /contact/
       </div>
     </div>
 
-    <div style="margin-top: 50px; padding: 30px; background: #f9f9f9; border-left: 3px solid #1a1a1a;">
-      <h4 style="font-size: 1rem; font-weight: 600; color: #1a1a1a; margin-bottom: 15px;">Not Ready to Talk Yet?</h4>
-      <p style="font-size: 0.95rem; color: #666; line-height: 1.6; margin-bottom: 15px;">
-        Email me specific questions about a property or neighbourhood. I'll give you a straight answer.
-      </p>
-      <p style="font-size: 0.95rem; color: #666; line-height: 1.6; margin: 0;">
-        I'm not going to add you to an automated email list or call you five times. You'll hear from me once. If you want to continue the conversation, you can. If not, that's fine too.
-      </p>
-    </div>
+   <div style="margin-top: 50px; padding: 30px; background: #f9f9f9; border-left: 3px solid #1a1a1a;">
+  <p style="font-size: 1rem; color: #1a1a1a; line-height: 1.6; margin: 0;">Real estate decisions are hard to undo. Make sure you have the full picture before you commit.</p>
+</div>
 
     <div style="margin-top: 60px; padding-top: 30px; border-top: 1px solid #eee;">
-      <p style="color: #999; font-size: 0.85rem; line-height: 1.6;">
-        Tanvir Bhupal | Real Estate Advisor<br>
-        eXp Realty | 701 W Georgia St #1500, Vancouver, BC V7Y 1G5
-      </p>
-    </div>
-  </div>
-</section>
+  <p style="font-size: 0.95rem; color: #666;">Not sure?<a href="/neighbourhoods/" style="color: #1a1a1a; text-decoration: underline;"> Explore other neighbourhoods →</a></p>
+</div>
