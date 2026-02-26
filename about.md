@@ -34,7 +34,9 @@ permalink: /about/
 
       <p>We start with a quick 15 to 20 minute call to see if I can actually help. If it makes sense, we move forward. If not, no pressure.</p>
 
-      <p><strong>If you want straight answers and a negotiating advantage, let's talk.</strong></p>
+    <p><strong>If you want straight answers and a negotiating advantage, <a href="/contact/" style="color: #1a1a1a;">let's talk</a>.</strong></p>
+
+    <p>Not ready yet? <a href="/neighbourhoods/">Explore the neighbourhoods →</a></p>
 
       <p>
         Tanvir Bhupal<br>
