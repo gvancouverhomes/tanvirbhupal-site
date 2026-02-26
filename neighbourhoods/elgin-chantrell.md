@@ -99,7 +99,7 @@ faq_schema: |
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
-    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change based on district capacity. A property one street outside the catchment can cost you the premium you paid to be inside it. I verify every address through the <strong>Surrey Schools Locator</strong> before subjects are removed so you're not finding out after the fact.</p>
+    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change based on district capacity. A property one street outside the catchment can cost you the premium you paid to be inside it. I verify every address through the <strong>Surrey Schools Locator</strong> before subjects are removed so you're not finding out after the fact. Most buyers don't know to ask this question until after they've fallen in love with a house. I ask it first.</p>
 
     <h3 class="metric-label">Is there a quantifiable price premium for this catchment?</h3>
     <p>Yes. Relocating families often filter by "Elgin Park" before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a <strong>10 to 15% premium</strong> and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions.</p>
@@ -114,23 +114,23 @@ faq_schema: |
     <h2 class="nav-section-title">Compare Other Neighbourhoods</h2>
     <nav class="nav-grid" aria-label="Neighbourhood navigation">
       <a href="/neighbourhoods/ocean-park/" class="nav-card">
-        <span class="nav-tag">Beach Village Living</span>
+        <span class="nav-tag">The Coastal Monopoly</span>
         <span class="nav-name">Ocean Park &rarr;</span>
       </a>
       <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-        <span class="nav-tag">Golf Course + Low Maintenance</span>
+        <span class="nav-tag">The Lock-and-Go Premium</span>
         <span class="nav-name">Morgan Creek &rarr;</span>
       </a>
       <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-        <span class="nav-tag">Privacy on Acreage</span>
+        <span class="nav-tag">The Legacy Hold</span>
         <span class="nav-name">Panorama Ridge &rarr;</span>
       </a>
       <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-        <span class="nav-tag">Family-Friendly Value</span>
+        <span class="nav-tag">The Modern Hub</span>
         <span class="nav-name">Grandview Heights &rarr;</span>
       </a>
       <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-        <span class="nav-tag">Elevated + Affordable</span>
+        <span class="nav-tag">The Overlooked Summit</span>
         <span class="nav-name">Fraser Heights &rarr;</span>
       </a>
     </nav>
