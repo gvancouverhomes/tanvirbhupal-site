@@ -50,5 +50,5 @@ permalink: /contact/
 </div>
 
     <div style="margin-top: 60px; padding-top: 30px; border-top: 1px solid #eee;">
-  <p style="font-size: 0.95rem; color: #666;">Not sure?<a href="/neighbourhoods/" style="color: #1a1a1a; text-decoration: underline;"> Explore other neighbourhoods →</a></p>
+  <p style="font-size: 0.95rem; color: #666;">Not ready yet? <a href="/neighbourhoods/" style="color: #1a1a1a; text-decoration: underline;"> Explore other neighbourhoods →</a></p>
 </div>
