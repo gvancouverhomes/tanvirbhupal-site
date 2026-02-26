@@ -94,53 +94,59 @@ faq_schema: |
     <p><strong>vs Morgan Creek:</strong>Larger private lots and school catchment access vs Morgan Creek's golf course lifestyle and strata convenience.</p>
     <p><strong>vs Ocean Park:</strong> Executive infrastructure and highway connectivity vs Ocean Park's coastal village character and beach proximity.</p>
     <p><strong>vs Panorama Ridge:</strong> Faster resale velocity and family-focused neighbourhood vs Panorama Ridge's total seclusion and legacy estate scale.</p>
-
-    <h2 class="section-title">Frequently Asked Questions</h2>
+<h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
-    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change based on district capacity, a property one street outside the catchment can cost you the premium you paid to be inside it. I verify every address through the <strong>Surrey Schools Locator</strong> before subjects are removed so you're not finding out after the fact.
+    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change based on district capacity. A property one street outside the catchment can cost you the premium you paid to be inside it. I verify every address through the <strong>Surrey Schools Locator</strong> before subjects are removed so you're not finding out after the fact.</p>
 
     <h3 class="metric-label">Is there a quantifiable price premium for this catchment?</h3>
     <p>Yes. Relocating families often filter by "Elgin Park" before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a <strong>10 to 15% premium</strong> and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions.</p>
 
     <h3 class="metric-label">How do I register for Elgin Park Secondary before our move?</h3>
-    <p>The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium, especially for the <strong>IB program</strong>, so registration should be initiated the moment your subjects are removed.</p>
-
+    <p>The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium, especially for the <strong>IB program</strong>, so registration should be initiated the moment your subjects are removed to ensure placement.</p>
   </section>
-<section class="nav-section" style="border-top: 1px solid #eee; margin-top: 40px; padding-top: 40px;">
-  <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
-  <div class="nav-grid">
-    <a href="/neighbourhoods/ocean-park/" class="nav-card">
-      <span class="nav-tag">The Coastal Monopoly</span>
-      <span class="nav-name">Ocean Park &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-      <span class="nav-tag">The Lock-and-Go Premium</span>
-      <span class="nav-name">Morgan Creek &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-      <span class="nav-tag">The Modern Hub</span>
-      <span class="nav-name">Grandview Heights &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-      <span class="nav-tag">The Legacy Hold</span>
-      <span class="nav-name">Panorama Ridge &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-      <span class="nav-tag">The Overlooked Summit</span>
-      <span class="nav-name">Fraser Heights &rarr;</span>
-    </a>
-  </div>
-</section>
 
-<section class="audit-card" aria-labelledby="audit-heading">
-  <h2 id="audit-heading" class="audit-title">Elgin Chantrell Portfolio Review</h2>
-  <div class="audit-action">
-    <a href="/contact" class="audit-btn">INQUIRE ABOUT ELGIN CHANTRELL</a>
+  <section class="audit-card" aria-labelledby="audit-heading">
+    <h2 id="audit-heading" class="audit-title">Elgin Chantrell Portfolio Review</h2>
+    <div class="audit-action">
+      <a href="/contact" class="audit-btn">INQUIRE ABOUT ELGIN CHANTRELL</a>
+    </div>
+    <div class="audit-body">
+      <p class="audit-text">
+        Elgin Chantrell's lot scarcity and school catchments make it one of South Surrey's most defensible long-term holds. If you're thinking about buying, selling, or just want to understand what your property is worth in today's market, let's talk.
+      </p>
+      <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
+        No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
+      </p>
+    </div>
+  </section>
+</article>
+
+<aside class="nav-section">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <h2 class="nav-section-title">Compare Other Neighbourhoods</h2>
+    <nav class="nav-grid" aria-label="Neighbourhood navigation">
+      <a href="/neighbourhoods/ocean-park/" class="nav-card">
+        <span class="nav-tag">Beach Village Living</span>
+        <span class="nav-name">Ocean Park &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/morgan-creek/" class="nav-card">
+        <span class="nav-tag">Golf Course + Low Maintenance</span>
+        <span class="nav-name">Morgan Creek &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
+        <span class="nav-tag">Privacy on Acreage</span>
+        <span class="nav-name">Panorama Ridge &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
+        <span class="nav-tag">Family-Friendly Value</span>
+        <span class="nav-name">Grandview Heights &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/fraser-heights/" class="nav-card">
+        <span class="nav-tag">Elevated + Affordable</span>
+        <span class="nav-name">Fraser Heights &rarr;</span>
+      </a>
+    </nav>
   </div>
-  <div class="audit-body">
-    <p class="audit-text">
-      Elgin Chantrell's lot scarcity and school catchments make it one of South Surrey's most defensible long-term holds. Let's talk.
-    </p>
-  </div>
-</section>
+</aside>
+ 
