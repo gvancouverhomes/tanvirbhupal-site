@@ -20,7 +20,7 @@ permalink: /contact/
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; margin-bottom: 60px;">
       <div>
         <h4 style="font-size: 0.85rem; font-weight: 600; color: #1a1a1a; margin-bottom: 15px;">How I Work</h4>
-        <p style="font-size: 0.95rem; color: #666; line-height: 1.6;">I track the details that most agents ignore. I'll give you a straight look at a property's actual value and whether it truly fits your long-term plans. My job is to protect your equity, not close deals quickly.</p>
+        <p style="font-size: 0.95rem; color: #666; line-height: 1.6;">I focus on the details that change the decision: catchment boundaries, strata bylaws, septic status, covenant history. You will get a straight look at what a property is actually worth and whether it fits your plans before we go any further.</p>
       </div>
       <div>
         <h4 style="font-size: 0.85rem; font-weight: 600; color: #1a1a1a; margin-bottom: 15px;">What Happens Next</h4>
