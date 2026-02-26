@@ -78,7 +78,8 @@ faq_schema: |
 
   <section>
     <p>Elgin Chantrell is where executive families land when schools matter and they want space. Custom builds, typically 4,500 square feet or larger, on lots built for active family life. The school boundary is why people pay a premium, and why they can sell when they need to.</p>
-<p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Elgin Chantrell? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
+    <p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Elgin Chantrell? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
+    
     <h2 class="section-title">What You're Actually Buying</h2>
     <p><strong>Location:</strong> South Surrey. 15 minutes to Highway 99, 20 minutes to the US border, under an hour to downtown Vancouver.</p>
     <p><strong>Home Size:</strong> Custom executive builds, 4,500 to 6,500 square feet.</p>
@@ -91,10 +92,11 @@ faq_schema: |
     <p><strong>It doesn't fit if:</strong> you want zero-maintenance lock-and-go living (Morgan Creek), multi-acre seclusion (Panorama Ridge), or you're downsizing.</p>
 
     <h2 class="section-title">Elgin Chantrell vs The Competition</h2>
-    <p><strong>vs Morgan Creek:</strong>Larger private lots and school catchment access vs Morgan Creek's golf course lifestyle and strata convenience.</p>
+    <p><strong>vs Morgan Creek:</strong> Larger private lots and school catchment access vs Morgan Creek's golf course lifestyle and strata convenience.</p>
     <p><strong>vs Ocean Park:</strong> Executive infrastructure and highway connectivity vs Ocean Park's coastal village character and beach proximity.</p>
     <p><strong>vs Panorama Ridge:</strong> Faster resale velocity and family-focused neighbourhood vs Panorama Ridge's total seclusion and legacy estate scale.</p>
-<h2 class="section-title">Frequently Asked Questions</h2>
+
+    <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
     <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change based on district capacity. A property one street outside the catchment can cost you the premium you paid to be inside it. I verify every address through the <strong>Surrey Schools Locator</strong> before subjects are removed so you're not finding out after the fact.</p>
@@ -104,21 +106,6 @@ faq_schema: |
 
     <h3 class="metric-label">How do I register for Elgin Park Secondary before our move?</h3>
     <p>The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium, especially for the <strong>IB program</strong>, so registration should be initiated the moment your subjects are removed to ensure placement.</p>
-  </section>
-
-  <section class="audit-card" aria-labelledby="audit-heading">
-    <h2 id="audit-heading" class="audit-title">Elgin Chantrell Portfolio Review</h2>
-    <div class="audit-action">
-      <a href="/contact" class="audit-btn">INQUIRE ABOUT ELGIN CHANTRELL</a>
-    </div>
-    <div class="audit-body">
-      <p class="audit-text">
-        Elgin Chantrell's lot scarcity and school catchments make it one of South Surrey's most defensible long-term holds. If you're thinking about buying, selling, or just want to understand what your property is worth in today's market, let's talk.
-      </p>
-      <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
-        No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
-      </p>
-    </div>
   </section>
 </article>
 
@@ -149,4 +136,20 @@ faq_schema: |
     </nav>
   </div>
 </aside>
- 
+
+<div class="intel-container" style="padding-top: 0;">
+  <section class="audit-card" aria-labelledby="audit-heading" style="margin-top: 0;">
+    <h2 id="audit-heading" class="audit-title">Elgin Chantrell Portfolio Review</h2>
+    <div class="audit-action">
+      <a href="/contact" class="audit-btn">INQUIRE ABOUT ELGIN CHANTRELL</a>
+    </div>
+    <div class="audit-body">
+      <p class="audit-text">
+        Elgin Chantrell's lot scarcity and school catchments make it one of South Surrey's most defensible long-term holds. If you're thinking about buying, selling, or just want to understand what your property is worth in today's market, let's talk.
+      </p>
+      <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
+        No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
+      </p>
+    </div>
+  </section>
+</div>
