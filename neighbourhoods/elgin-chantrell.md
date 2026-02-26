@@ -98,7 +98,7 @@ faq_schema: |
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
-    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change based on district capacity — a property one street outside the catchment can cost you the premium you paid to be inside it. I verify every address through the <strong>Surrey Schools Locator<strong> before subjects are removed so you're not finding out after the fact.</p>
+    <p>No. This is the most common and costly assumption buyers make in South Surrey. Boundaries are granular and subject to change based on district capacity, a property one street outside the catchment can cost you the premium you paid to be inside it. I verify every address through the <strong>Surrey Schools Locator</strong> before subjects are removed so you're not finding out after the fact.
 
     <h3 class="metric-label">Is there a quantifiable price premium for this catchment?</h3>
     <p>Yes. Relocating families often filter by "Elgin Park" before viewing a single home, creating a defensive price floor. Homes inside the boundary typically command a <strong>10 to 15% premium</strong> and maintain higher resale velocity than out-of-catchment luxury estates across most market conditions.</p>
@@ -106,32 +106,6 @@ faq_schema: |
     <h3 class="metric-label">How do I register for Elgin Park Secondary before our move?</h3>
     <p>The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium, especially for the <strong>IB program</strong>, so registration should be initiated the moment your subjects are removed.</p>
 
- </section>
-
-  <section class="nav-section" style="margin-top: 60px; padding: 40px 0; border-top: 1px solid var(--border); background: transparent;">
-    <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
-    <div class="nav-grid">
-      <a href="/neighbourhoods/ocean-park/" class="nav-card">
-        <span class="nav-tag">The Coastal Monopoly</span>
-        <span class="nav-name">Ocean Park</span>
-      </a>
-      <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-        <span class="nav-tag">The Lock-and-Go Premium</span>
-        <span class="nav-name">Morgan Creek</span>
-      </a>
-      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-        <span class="nav-tag">The Modern Hub</span>
-        <span class="nav-name">Grandview Heights</span>
-      </a>
-      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-        <span class="nav-tag">The Legacy Hold</span>
-        <span class="nav-name">Panorama Ridge</span>
-      </a>
-      <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-        <span class="nav-tag">The Overlooked Summit</span>
-        <span class="nav-name">Fraser Heights</span>
-      </a>
-    </div>
   </section>
 
   <section class="audit-card" aria-labelledby="audit-heading">
@@ -149,3 +123,29 @@ faq_schema: |
     </div>
   </section>
 </article>
+
+<section class="nav-section">
+  <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
+  <div class="nav-grid">
+    <a href="/neighbourhoods/ocean-park/" class="nav-card">
+      <span class="nav-tag">The Coastal Monopoly</span>
+      <span class="nav-name">Ocean Park</span>
+    </a>
+    <a href="/neighbourhoods/morgan-creek/" class="nav-card">
+      <span class="nav-tag">The Lock-and-Go Premium</span>
+      <span class="nav-name">Morgan Creek</span>
+    </a>
+    <a href="/neighbourhoods/grandview-heights/" class="nav-card">
+      <span class="nav-tag">The Modern Hub</span>
+      <span class="nav-name">Grandview Heights</span>
+    </a>
+    <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
+      <span class="nav-tag">The Legacy Hold</span>
+      <span class="nav-name">Panorama Ridge</span>
+    </a>
+    <a href="/neighbourhoods/fraser-heights/" class="nav-card">
+      <span class="nav-tag">The Overlooked Summit</span>
+      <span class="nav-name">Fraser Heights</span>
+    </a>
+  </div>
+</section>
