@@ -80,7 +80,7 @@ faq_schema: |
     <p>Morgan Creek is often marketed as fully built-out, but 2026 brings a major shift. With a 201-unit project (82 townhomes and 119 apartments) approved near the clubhouse, understanding the exact position of your lot matters more than ever. <strong>If you buy here, are you buying the view, or the insurance that you can sell it in 5 years?</strong></p>
     
     <p>This is where executive families and downsizers land when they want the security of a manicured community without the 1-acre maintenance burden of Elgin Chantrell.</p>
-
+<p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Morgan Creek? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
     <h2 class="section-title">What You're Actually Buying</h2>
     <p><strong>The Strata Hybrid:</strong> Many detached executive homes here are strata-detached. You own the structure, but professional management handles landscaping and snow removal. It is the ultimate lock-and-go for frequent travelers, but it means your modifications are subject to <strong>architectural bylaws</strong>.</p>
     <p><strong>The Cedar Mandate:</strong> Strict design guidelines famously mandate cedar shake roofing. While this preserves neighborhood character, it creates a unique maintenance cycle and holding cost that must be verified before subject removal.</p>
@@ -107,10 +107,39 @@ faq_schema: |
 
     <h3 class="metric-label">Is the fairway premium worth the investment?</h3>
     <p>Yes, if you value <strong>exit speed</strong>. Fairway lots are a finite resource. Because families relocating to South Surrey often search specifically for golf course views, these properties remain liquid even when the broader market slows down. It is a strategic play for buyers with a 5-year timeline.</p>
-
   </section>
+</article>
 
-  <section class="audit-card" aria-labelledby="audit-heading">
+<aside class="nav-section">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
+    <nav class="nav-grid">
+      <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
+        <span class="nav-tag">Prestige with Velocity</span>
+        <span class="nav-name">Elgin Chantrell &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/ocean-park/" class="nav-card">
+        <span class="nav-tag">The Coastal Monopoly</span>
+        <span class="nav-name">Ocean Park &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
+        <span class="nav-tag">The Modern Hub</span>
+        <span class="nav-name">Grandview Heights &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
+        <span class="nav-tag">The Legacy Hold</span>
+        <span class="nav-name">Panorama Ridge &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/fraser-heights/" class="nav-card">
+        <span class="nav-tag">The Overlooked Summit</span>
+        <span class="nav-name">Fraser Heights &rarr;</span>
+      </a>
+    </nav>
+  </div>
+</aside>
+
+<div class="intel-container" style="padding-top: 0;">
+  <section class="audit-card" aria-labelledby="audit-heading" style="margin-top: 0;">
     <h2 id="audit-heading" class="audit-title">Morgan Creek Portfolio Review</h2>
     <div class="audit-action">
       <a href="/contact" class="audit-btn">INQUIRE ABOUT MORGAN CREEK</a>
@@ -124,31 +153,4 @@ faq_schema: |
       </p>
     </div>
   </section>
-</article>
-
-<section class="nav-section">
-  <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
-  <div class="nav-grid">
-    <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
-      <span class="nav-tag">Prestige with Velocity</span>
-      <span class="nav-name">Elgin Chantrell &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/ocean-park/" class="nav-card">
-      <span class="nav-tag">The Coastal Monopoly</span>
-      <span class="nav-name">Ocean Park &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-      <span class="nav-tag">The Modern Hub</span>
-      <span class="nav-name">Grandview Heights &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-      <span class="nav-tag">The Legacy Hold</span>
-      <span class="nav-name">Panorama Ridge &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/fraser-heights/" class="nav-card">
-      <span class="nav-tag">The Yield Play</span>
-      <span class="nav-name">Fraser Heights &rarr;</span>
-    </a>
-  </div>
-</section>
-
+</div>
