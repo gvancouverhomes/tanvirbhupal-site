@@ -113,7 +113,7 @@ faq_schema: |
     <h2 class="nav-section-title">Compare Strategic Locations</h2>
     <nav class="nav-grid" aria-label="Neighbourhood navigation">
       <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
-        <span class="nav-tag">The Coastal Monopoly</span>
+        <span class="nav-tag">Prestige with Velocity</span>
         <span class="nav-name">Elgin Chantrell &rarr;</span>
       </a>
       <a href="/neighbourhoods/morgan-creek/" class="nav-card">
