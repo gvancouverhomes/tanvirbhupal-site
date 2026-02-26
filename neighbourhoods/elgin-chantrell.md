@@ -107,7 +107,7 @@ faq_schema: |
     <p>The Surrey School District requires a signed purchase agreement or long-term lease for an address within the boundary, plus photo ID, the student's birth certificate, and evidence of guardianship. Space is at a premium, especially for the <strong>IB program</strong>, so registration should be initiated the moment your subjects are removed.</p>
 
   </section>
-<section class="nav-section">
+<section class="nav-section" style="border-top: 1px solid #eee; margin-top: 40px; padding-top: 40px;">
   <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
   <div class="nav-grid">
     <a href="/neighbourhoods/ocean-park/" class="nav-card">
@@ -144,4 +144,3 @@ faq_schema: |
     </p>
   </div>
 </section>
- 
