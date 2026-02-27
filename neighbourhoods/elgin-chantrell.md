@@ -124,7 +124,7 @@ faq_schema: |
         <span class="nav-name">Panorama Ridge &rarr;</span>
       </a>
       <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-        <span class="nav-tag">Modern Builds, Growing Pains</span>
+        <span class="nav-tag">The Modern Hub</span>
         <span class="nav-name">Grandview Heights &rarr;</span>
       </a>
       <a href="/neighbourhoods/fraser-heights/" class="nav-card">
