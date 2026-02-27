@@ -10,26 +10,26 @@ faq_schema: |
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "What are the geotechnical risks of buying on the Ocean Park bluff?",
+        "name": "What should I know about the geotechnical risks?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Properties on the bluff are subject to natural erosion and subsidence. The City of Surrey requires a site-specific geotechnical report from a qualified engineer to certify that the land can be safely used for the intended construction. I verify all existing subsidence covenants and engineering history to protect your investment."
+          "text": "If the home is on the bluff, the first thing I look for is a Subsidence Covenant on title. These are documents that reference slope stability assessments by a professional engineer. If you plan to build or renovate, the City of Surrey will require site-specific reports before issuing permits. I flag what I notice during due diligence so you know what to bring to your lawyer before subjects are removed."
         }
       },
       {
         "@type": "Question",
-        "name": "Is Ocean Park fully connected to municipal sewer?",
+        "name": "Is the neighbourhood fully on municipal sewer?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "While the majority of Ocean Park is serviced, specific pockets still utilize septic systems. With the 2026 Sewer Upgrade project underway, the status of a property connection can significantly impact its value and future development potential. I confirm utility status as a primary step in due diligence."
+          "text": "Not everywhere. Some properties in Ocean Park are still on septic, and connection status is not always obvious from the listing. Individual connection costs can be significant. I flag what I notice on utility status during due diligence so there are no surprises after the fact."
         }
       },
       {
         "@type": "Question",
-        "name": "How does the bluff premium hold up in a buyer market?",
+        "name": "Is the bluff premium still a sound strategy?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "The bluff side monopoly ensures that properties with ocean views maintain a high defensive price floor. While inventory in South Surrey rose in 2025, the supply of coastal properties remained structurally low, allowing them to retain a 15 to 20% premium and sell faster than inland luxury estates."
+          "text": "Bluff side properties in Ocean Park benefit from something that does not change: the coastline cannot be expanded. That structural scarcity has historically supported demand and value retention in this pocket regardless of broader market conditions. Whether it makes sense for your specific situation depends on your timeline and what comparables are doing right now, which is where the conversation starts."
         }
       }
     ]
@@ -71,7 +71,7 @@ faq_schema: |
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Ocean Park: South Surrey’s Coastal Village Monopoly</h1>
+    <h1 class="intel-header">Ocean Park: South Surrey's Coastal Village Monopoly</h1>
     <p class="intel-sub">When buying the view means managing the bluff. Are you prepared for the geotechnical requirements?</p>
   </header>
 
@@ -79,11 +79,12 @@ faq_schema: |
     <p>Ocean Park is defined by two things: limited supply and the <strong>Marine Drive Bluff</strong>. While the village vibe draws people in, the strategic reality of this neighbourhood is the management of long term geotechnical debt. <strong>In Ocean Park, you are not just buying a home: you are buying a position on a shifting coastline.</strong></p>
     
     <p>This is where affluent families land when they want the White Rock lifestyle with more privacy, larger lots, and a tighter community feel.</p>
-<p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Ocean Park? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
+    <p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Ocean Park? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
+
     <h2 class="section-title">What You're Actually Buying</h2>
     <p><strong>Geotechnical Stability:</strong> Many properties on the south side of Marine Drive carry <strong>Subsidence Covenants</strong> on title. If you plan to build or renovate, the City of Surrey mandates site-specific geotechnical reports and specialized pile foundations to mitigate erosion risk.</p>
-    <p><strong>Infrastructure Transition:</strong> While most of the village is now on municipal sewer, specific islands remain on septic. With the <strong>2026 Ocean Park Sewer Upgrade</strong> project impacting local infrastructure budgets, identifying whether a property is connected is a $50K plus decision during due diligence.</p>
-    <p><strong>The View Premium:</strong> Bluff side properties command a <strong>15 to 20% premium</strong> over interior village lots. This is a monopoly play: the coastline cannot be expanded. This scarcity ensures that Ocean Park remains one of the most resilient asset classes in Metro Vancouver.</p>
+    <p><strong>Infrastructure Transition:</strong> While most of the village is now on municipal sewer, specific islands remain on septic. With the <strong>2026 Ocean Park Sewer Upgrade</strong> project impacting local infrastructure budgets, identifying whether a property is connected is a significant decision during due diligence.</p>
+    <p><strong>The View Premium:</strong> Bluff side properties have historically commanded a premium over interior village lots in most market conditions. The coastline cannot be expanded, and that structural scarcity has supported Ocean Park's position as one of the more resilient asset classes in Metro Vancouver across multiple market cycles.</p>
 
     <h2 class="section-title">Who This Is For</h2>
     <p><strong>This fits you if:</strong> you want a walkable village lifestyle, you prioritize ocean proximity over highway access, or you are looking for a legacy hold for your family.</p>
@@ -97,14 +98,14 @@ faq_schema: |
 
     <h2 class="section-title">Frequently Asked Questions</h2>
 
-    <h3 class="metric-label">Is Ocean Park considered part of White Rock?</h3>
-    <p>No. While it shares the same coastline and atmosphere, Ocean Park is a distinct neighbourhood within the City of Surrey. This distinction is important for property taxes and municipal services, though the community identity is often tied to the broader South Surrey peninsula.</p>
+    <h3 class="metric-label">What should I know about the geotechnical risks?</h3>
+    <p>If the home is on the bluff, the first thing I look for is a <strong>Subsidence Covenant</strong> on title. These are documents that reference slope stability assessments by a professional engineer. If you plan to build or renovate, the City of Surrey will require site-specific reports before issuing permits. I flag what I notice during due diligence so you know what to bring to your lawyer before subjects are removed.</p>
 
-    <h3 class="metric-label">What is the "1001 Steps" I keep hearing about?</h3>
-    <p>It is a local landmark providing pedestrian access to the shoreline. For homeowners, it represents the neighbourhood's commitment to preserving nature over high-density development—a key reason why the area maintains its quiet village feel.</p>
+    <h3 class="metric-label">Is the neighbourhood fully on municipal sewer?</h3>
+    <p>Not everywhere. Some properties in Ocean Park are still on septic, and connection status is not always obvious from the listing. Individual connection costs can be significant. I flag what I notice on utility status during due diligence so there are no surprises after the fact.</p>
 
-    <h3 class="metric-label">Are there many new developments in Ocean Park?</h3>
-    <p>Inventory is largely restricted to detached single-family homes and boutique low-rise options. The community's "Big Trees, Not Big Houses" ethos makes large-scale redevelopment rare, which helps protect property values and ensures the neighbourhood's character remains stable.</p>
+    <h3 class="metric-label">Is the bluff premium still a sound strategy?</h3>
+    <p>Bluff side properties in Ocean Park benefit from something that does not change: the coastline cannot be expanded. That structural scarcity has historically supported demand and value retention in this pocket regardless of broader market conditions. Whether it makes sense for your specific situation depends on your timeline and what comparables are doing right now, which is where the conversation starts.</p>
   </section>
 </article>
 
@@ -144,7 +145,7 @@ faq_schema: |
     </div>
     <div class="audit-body">
       <p class="audit-text">
-        Ocean Park’s stability comes from its lack of density and its permanent coastal appeal. If you are looking to acquire or divest in this specific enclave, the strategy must be as quiet and deliberate as the neighbourhood itself.
+        Ocean Park's stability comes from its lack of density and its permanent coastal appeal. If you are looking to acquire or divest in this specific enclave, the strategy must be as quiet and deliberate as the neighbourhood itself.
       </p>
       <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
         No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
