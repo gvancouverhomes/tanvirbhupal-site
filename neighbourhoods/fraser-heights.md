@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Fraser Heights Real Estate Strategy | The Elevated Gateway
-description: "Strategic analysis of Fraser Heights geographic isolation, Highway 1 noise mitigation, and the high-yield stability of legal basement suites."
+title: "Fraser Heights Real Estate Strategy | The Overlooked Summit"
+description: "Strategic analysis of Fraser Heights elevation advantage, Highway 1 noise mitigation, and the high-yield stability of legal basement suites in North Surrey."
 permalink: /neighbourhoods/fraser-heights/
 faq_schema: |
   {
@@ -10,26 +10,26 @@ faq_schema: |
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "How does Highway 1 noise affect property values in Fraser Heights?",
+        "name": "What should I know about the highway noise in Fraser Heights?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Noise levels vary significantly based on elevation and 'noise wall' proximity. Properties on the northern ridges benefit from a natural acoustic shadow, while homes closer to the 108th Ave corridor are more exposed. I use on-site decibel testing during due diligence to ensure your view doesn't come with an acoustic trade-off."
+          "text": "It is the neighbourhood's defining trade-off. Nothing beats natural elevation for long-term noise mitigation. I focus on homes on the northern slopes where the terrain acts as a natural sound barrier. I flag what I notice about a property's acoustic exposure during due diligence so you have the full picture before subjects are removed."
         }
       },
       {
         "@type": "Question",
-        "name": "Is Fraser Heights Secondary overcrowded?",
+        "name": "How significant is the school capacity issue in Fraser Heights?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. As of 2026, Fraser Heights Secondary is operating at nearly 135% capacity with over 1,630 students. While an $87M addition is requested in the 5-year capital plan, buyers should be prepared for portable use in the short-term. I track these district boundary shifts closely for my clients."
+          "text": "Fraser Heights Secondary is under capacity pressure, with a significant capital request in the district's plan to add permanent seats. Construction has not broken ground. If your family requires a school with immediate permanent capacity, I may suggest a strategic pivot toward South Surrey's catchments instead."
         }
       },
       {
         "@type": "Question",
-        "name": "What is the rental potential for a legal suite in Fraser Heights?",
+        "name": "Is a basement suite a sound strategy for a luxury home in Fraser Heights?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Because of its proximity to the highway and local business hubs, legal 2-bedroom suites in Fraser Heights consistently command $2,400 to $2,800 per month. This passive income significantly improves the 'debt-to-income' ratio for buyers and acts as a major stabilizer for resale value."
+          "text": "Yes. Even at the executive price point, a legal suite provides fiscal optionality that most luxury buyers undervalue. A legal suite in Fraser Heights has historically been a high-demand rental asset, making your property more liquid and defensible during market corrections than a comparable home without an income component."
         }
       }
     ]
@@ -71,80 +71,85 @@ faq_schema: |
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Fraser Heights: South Surrey’s Elevated Gateway</h1>
-    <p class="intel-sub">Island living in North Surrey: What the Highway 1 expansion means for your sightline and air quality.</p>
+    <h1 class="intel-header">Fraser Heights: North Surrey's Overlooked Summit</h1>
+    <p class="intel-sub">Island living in North Surrey: The elevation advantage, the suite potential, and what the Highway 1 corridor means for your long-term value.</p>
   </header>
 
   <section>
-    <p>Fraser Heights is often called an "island" because it is geographically cut off from the rest of Surrey by Highway 1 and the Fraser River. While this creates a unique sense of community security, the strategic risk is the <strong>Highway 1 Corridor</strong>. With ongoing widening projects through 2026, identifying homes shielded by elevation, rather than just distance, is the key to long-term value retention.</p>
-    
+    <p>Fraser Heights is often called an "island" because it is geographically cut off from the rest of Surrey by Highway 1 and the Fraser River. While this creates a unique sense of community security, the strategic risk is the <strong>Highway 1 Corridor</strong>. With ongoing widening projects, identifying homes shielded by elevation rather than just distance is the key to long-term value retention.</p>
+
     <p>This is where multi-generational families and commuters land when they want custom executive builds, mountain views, and the financial flexibility of legal secondary suites.</p>
 
+    <p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Fraser Heights? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
+
     <h2 class="section-title">What You're Actually Buying</h2>
-    <p><strong>The Elevation Shield:</strong> Not all lots here are created equal. I focus on properties in the <strong>Ermineskin</strong> and northern ridges that utilize natural topography to mitigate Highway 1 noise. Buying at the bottom of the "bowl" means inheriting the acoustic debt of 120,000+ daily vehicle trips.</p>
-    <p><strong>Income-Ready Infrastructure:</strong> Unlike South Surrey’s stricter luxury enclaves, Fraser Heights was built for basement suites. I frame this as a <strong>Strategic Mortgage Hedge</strong>. The ability to generate significant rental income from a legal suite provides a defensive floor that maintains liquidity even during rate hikes.</p>
-    <p><strong>The "Isolated" Premium:</strong> Because there is only one main entry point into the neighborhood, traffic is strictly local. This creates a quiet, suburban atmosphere that is increasingly rare in the fast-growing Fraser Valley.</p>
+    <p><strong>The Elevation Shield:</strong> Not all lots here are created equal. I focus on properties in the <strong>Ermineskin</strong> and northern ridges that utilize natural topography to mitigate Highway 1 noise. Buying at the bottom of the bowl means inheriting the acoustic debt of significant daily vehicle traffic.</p>
+    <p><strong>Income-Ready Infrastructure:</strong> Unlike South Surrey's stricter luxury enclaves, Fraser Heights was built for basement suites. The ability to generate rental income from a legal suite provides a defensive floor that maintains liquidity even during rate hikes.</p>
+    <p><strong>The Isolated Premium:</strong> Because there is only one main entry point into the neighbourhood, traffic is strictly local. This creates a quiet, suburban atmosphere that is increasingly rare in the fast-growing Fraser Valley.</p>
 
     <h2 class="section-title">Who This Is For</h2>
-    <p><strong>This fits you if:</strong> you commute to Coquitlam or Vancouver via the Port Mann, you require a legal suite for family or income, or you want a custom 5,000+ sq ft home at a lower price point than South Surrey.</p>
-    
-    <p><strong>It doesn't fit if:</strong> you are sensitive to highway noise, you want to walk to major retail hubs, or you require a secondary school with immediate permanent capacity.</p>
+    <p><strong>This fits you if:</strong> you commute to Coquitlam or Vancouver via the Port Mann, you require a legal suite for family or income, or you want a custom 5,000 square foot plus home at a lower price point than South Surrey.</p>
+    <p><strong>It does not fit if:</strong> you are sensitive to highway noise, you want to walk to major retail hubs, or you require a secondary school with immediate permanent capacity.</p>
 
     <h2 class="section-title">Fraser Heights vs The Competition</h2>
-    <p><strong>vs Elgin Chantrell:</strong> Elgin = South Surrey prestige, larger acreage. Fraser Heights = North Surrey gateway, mountain views, suite-friendly zoning.</p>
-    <p><strong>vs Morgan Creek:</strong> Morgan Creek = golf-course strata. Fraser Heights = fee-simple estates, no strata fees, larger basement suite potential.</p>
-    <p><strong>vs Grandview Heights:</strong> Grandview = modern retail density. Fraser Heights = established "island" seclusion and highway-oriented logistics.</p>
+    <p><strong>vs Elgin Chantrell:</strong> Elgin offers South Surrey prestige and larger acreage. Fraser Heights offers North Surrey value, mountain views, and suite-friendly zoning at a lower entry point.</p>
+    <p><strong>vs Morgan Creek:</strong> Morgan Creek offers golf-course strata and managed maintenance. Fraser Heights offers fee-simple estates, no strata fees, and larger basement suite potential.</p>
+    <p><strong>vs Grandview Heights:</strong> Grandview offers modern retail density and contemporary builds. Fraser Heights offers established island seclusion and highway-oriented commuter logistics.</p>
 
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">What should I know about the highway noise?</h3>
-    <p>It is the neighborhood’s defining trade-off. While the <strong>Fraser Valley Highway 1 Corridor Improvement Program</strong> includes noise mitigation, nothing beats natural elevation. I prioritize homes on the northern slopes where the terrain acts as a sound barrier. If you are buying for the long term, I recommend a site-specific noise audit before subject removal.</p>
+    <p>It is the neighbourhood's defining trade-off. Nothing beats natural elevation for long-term noise mitigation. I focus on homes on the northern slopes where the terrain acts as a natural sound barrier. I flag what I notice about a property's acoustic exposure during due diligence so you have the full picture before subjects are removed.</p>
 
-    <h3 class="metric-label">How bad is the school capacity issue?</h3>
-    <p>Fraser Heights Secondary is currently housing hundreds of students in portables. There is a <strong>major capital request</strong> of over $87M to add permanent seats, but construction hasn't broken ground. If your family requires a school with immediate permanent capacity, I may suggest a strategic pivot toward South Surrey's catchments instead.</p>
+    <h3 class="metric-label">How significant is the school capacity issue?</h3>
+    <p>Fraser Heights Secondary is under capacity pressure, with a significant capital request in the district's plan to add permanent seats. Construction has not broken ground. If your family requires a school with immediate permanent capacity, I may suggest a strategic pivot toward <strong>South Surrey's catchments</strong> instead.</p>
 
-    <h3 class="metric-label">Is a basement suite a good strategy for luxury homes?</h3>
-    <p>I believe it is. In the current economic climate, even luxury buyers value <strong>fiscal optionality</strong>. A legal suite in Fraser Heights is a high-demand asset for renters, making your property more liquid and defensible during market corrections than a home without an income component.</p>
-
+    <h3 class="metric-label">Is a basement suite a sound strategy for a luxury home?</h3>
+    <p>Yes. Even at the executive price point, a legal suite provides <strong>fiscal optionality</strong> that most luxury buyers undervalue. A legal suite in Fraser Heights has historically been a high-demand rental asset, making your property more liquid and defensible during market corrections than a comparable home without an income component.</p>
   </section>
+</article>
 
-  <section class="audit-card" aria-labelledby="audit-heading">
+<aside class="nav-section">
+  <div style="max-width: 1100px; margin: 0 auto;">
+    <h2 class="nav-section-title">Compare Strategic Locations</h2>
+    <nav class="nav-grid" aria-label="Neighbourhood navigation">
+      <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
+        <span class="nav-tag">Prestige with Velocity</span>
+        <span class="nav-name">Elgin Chantrell &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/ocean-park/" class="nav-card">
+        <span class="nav-tag">The Coastal Monopoly</span>
+        <span class="nav-name">Ocean Park &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/morgan-creek/" class="nav-card">
+        <span class="nav-tag">The Lock-and-Go Premium</span>
+        <span class="nav-name">Morgan Creek &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
+        <span class="nav-tag">The Legacy Hold</span>
+        <span class="nav-name">Panorama Ridge &rarr;</span>
+      </a>
+      <a href="/neighbourhoods/grandview-heights/" class="nav-card">
+        <span class="nav-tag">The Modern Hub</span>
+        <span class="nav-name">Grandview Heights &rarr;</span>
+      </a>
+    </nav>
+  </div>
+</aside>
+
+<div class="intel-container" style="padding-top: 0;">
+  <section class="audit-card" aria-labelledby="audit-heading" style="margin-top: 0;">
     <h2 id="audit-heading" class="audit-title">Fraser Heights Portfolio Review</h2>
     <div class="audit-action">
       <a href="/contact" class="audit-btn">INQUIRE ABOUT FRASER HEIGHTS</a>
     </div>
     <div class="audit-body">
       <p class="audit-text">
-        Fraser Heights’ custom mountain-view estates and legal suite infrastructure are for families who value community isolation and commuter logistics. If you're thinking about buying, selling, or need a noise-mitigation audit for a specific property, let's talk.
+        Fraser Heights' custom mountain-view estates and legal suite infrastructure are for families who value community isolation and commuter logistics. If you are thinking about buying, selling, or want to understand the elevation and noise trade-offs of a specific property, let's talk.
       </p>
       <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
         No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
       </p>
     </div>
   </section>
-</article>
-<section class="nav-section">
-  <p class="nav-section-title">Explore More Neighbourhood Intelligence</p>
-  <div class="nav-grid">
-    <a href="/neighbourhoods/elgin-chantrell/" class="nav-card">
-      <span class="nav-tag">Prestige with Velocity</span>
-      <span class="nav-name">Elgin Chantrell &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/ocean-park/" class="nav-card">
-      <span class="nav-tag">The Coastal Monopoly</span>
-      <span class="nav-name">Ocean Park &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/morgan-creek/" class="nav-card">
-      <span class="nav-tag">The Lock-and-Go Premium</span>
-      <span class="nav-name">Morgan Creek &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/grandview-heights/" class="nav-card">
-      <span class="nav-tag">The Modern Hub</span>
-      <span class="nav-name">Grandview Heights &rarr;</span>
-    </a>
-    <a href="/neighbourhoods/panorama-ridge/" class="nav-card">
-      <span class="nav-tag">The Legacy Hold</span>
-      <span class="nav-name">Panorama Ridge &rarr;</span>
-    </a>
-  </div>
-</section>
+</div>
