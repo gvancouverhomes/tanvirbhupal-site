@@ -10,7 +10,7 @@ permalink: /contact/
     <h1 style="font-size: 2.8rem; font-weight: normal; color: #1a1a1a; margin-bottom: 30px; letter-spacing: -1px;">Start With a Straight Conversation</h1>
     
     <p style="font-size: 1.2rem; line-height: 1.7; color: #444; margin-bottom: 20px;">
-      Buying in South Surrey? I will tell you which neighbourhood fits your situation and what to watch for before you remove subjects.
+      Buying in Surrey/South Surrey/White Rock? I will tell you which neighbourhood fits your situation and what to watch for before you remove subjects.
     </p>
     <p style="font-size: 1.2rem; line-height: 1.7; color: #444; margin-bottom: 40px;">
       Selling? I will tell you what your property is actually worth right now, how long it should realistically take to sell, and what the right positioning strategy is before it hits the market.
@@ -22,7 +22,7 @@ permalink: /contact/
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; margin-bottom: 60px;">
       <div>
         <h4 style="font-size: 0.85rem; font-weight: 600; color: #1a1a1a; margin-bottom: 15px;">How I Work</h4>
-        <p style="font-size: 0.95rem; color: #666; line-height: 1.6;">I focus on the details that change the decision: catchment boundaries, strata bylaws, septic status, covenant history. You will get a straight look at what a property is actually worth and whether it fits your plans before we go any further.</p>
+        <p style="font-size: 0.95rem; color: #666; line-height: 1.6;">I focus on the details that drive your decision: school catchments, strata bylaws, and septic status. You will get a clear look at a property's true value and fit before we move forward.</p>
       </div>
       <div>
         <h4 style="font-size: 0.85rem; font-weight: 600; color: #1a1a1a; margin-bottom: 15px;">What Happens Next</h4>
