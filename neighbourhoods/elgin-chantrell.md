@@ -89,11 +89,15 @@ faq_schema: |
     <p><strong>This fits you if:</strong> you are raising school-age kids and the catchment is non-negotiable, you want 4,500 square feet or more with real yard space, or you are relocating and need a neighbourhood with consistent buyer demand and a clear exit path.</p>
     <p><strong>It does not fit if:</strong> you want zero-maintenance lock-and-go living (Morgan Creek), multi-acre seclusion (Panorama Ridge), or you are downsizing.</p>
 
-    <h2 class="section-title">Elgin Chantrell vs The Competition</h2>
-    <p><strong>vs Morgan Creek:</strong> Larger private lots and school catchment access vs Morgan Creek's golf course lifestyle and strata convenience.</p>
-    <p><strong>vs Ocean Park:</strong> Executive infrastructure and highway connectivity vs Ocean Park's coastal village character and beach proximity.</p>
-    <p><strong>vs Panorama Ridge:</strong> Faster resale velocity and family-focused neighbourhood vs Panorama Ridge's total seclusion and legacy estate scale.</p>
+    <h2 class="section-title">Elgin Chantrell vs. The Competition</h2>
 
+<p>I focus on the details that drive your decision: school catchments, strata bylaws, and septic status. You will get a clear look at a property's true value and fit before we move forward.</p>
+
+<p><strong>vs <a href="/morgan-creek">Morgan Creek</a>:</strong> Larger private lots and school catchment access vs. Morgan Creek's golf course lifestyle and strata convenience.</p>
+
+<p><strong>vs <a href="/ocean-park">Ocean Park</a>:</strong> Executive infrastructure and highway connectivity vs. Ocean Park's coastal village character and beach proximity.</p>
+
+<p><strong>vs <a href="/panorama-ridge">Panorama Ridge</a>:</strong> Faster resale velocity and family-focused neighbourhood vs. Panorama Ridge's total seclusion and legacy estate scale.</p>
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
