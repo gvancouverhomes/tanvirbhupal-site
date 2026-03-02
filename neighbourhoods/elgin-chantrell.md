@@ -91,13 +91,14 @@ faq_schema: |
 
     <h2 class="section-title">Elgin Chantrell vs. The Competition</h2>
 
-<p>I focus on the details that drive your decision: school catchments, strata bylaws, and septic status. You will get a clear look at a property's true value and fit before we move forward.</p>
+<p>I focus on the details that drive your decision: school catchments, strata bylaws, and septic status. You will get a clear look at a property's true value and fit before we move forward.<br><br>
 
-<p><strong>vs <a href="/morgan-creek">Morgan Creek</a>:</strong> Larger private lots and school catchment access vs. Morgan Creek's golf course lifestyle and strata convenience.</p>
+<strong>vs <a href="/morgan-creek" style="color: inherit; text-decoration: underline;">Morgan Creek</a>:</strong> Larger private lots and school catchment access vs. Morgan Creek's golf course lifestyle and strata convenience.<br>
 
-<p><strong>vs <a href="/ocean-park">Ocean Park</a>:</strong> Executive infrastructure and highway connectivity vs. Ocean Park's coastal village character and beach proximity.</p>
+<strong>vs <a href="/ocean-park" style="color: inherit; text-decoration: underline;">Ocean Park</a>:</strong> Executive infrastructure and highway connectivity vs. Ocean Park's coastal village character and beach proximity.<br>
 
-<p><strong>vs <a href="/panorama-ridge">Panorama Ridge</a>:</strong> Faster resale velocity and family-focused neighbourhood vs. Panorama Ridge's total seclusion and legacy estate scale.</p>
+<strong>vs <a href="/panorama-ridge" style="color: inherit; text-decoration: underline;">Panorama Ridge</a>:</strong> Higher market demand and a family-focused neighbourhood vs. Panorama Ridge's total seclusion and legacy estate scale.</p>
+
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">Do all Elgin Chantrell homes feed into the same schools?</h3>
