@@ -16,7 +16,7 @@ title: Strategic Advisory
   <div class="grid-3">
     <div class="pillar">
       <h3>Clarity</h3>
-      <p>Locations, properties, and numbers are filtered until only the most viable fiduciary paths remain. You don’t see everything; you see what matters.</p>
+      <p>You will not see every listing. You will see the ones that make sense for your situation. That filter is the work.</p>
     </div>
     <div class="pillar">
       <h3>Privacy</h3>
