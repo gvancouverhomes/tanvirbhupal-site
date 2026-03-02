@@ -89,15 +89,15 @@ faq_schema: |
     <p><strong>This fits you if:</strong> you are raising school-age kids and the catchment is non-negotiable, you want 4,500 square feet or more with real yard space, or you are relocating and need a neighbourhood with consistent buyer demand and a clear exit path.</p>
     <p><strong>It does not fit if:</strong> you want zero-maintenance lock-and-go living (Morgan Creek), multi-acre seclusion (Panorama Ridge), or you are downsizing.</p>
 
-    <h2 class="section-title">Elgin Chantrell vs. The Competition</h2>
+ <h2 class="section-title">Elgin Chantrell vs. The Competition</h2>
 
 <p>I focus on the details that drive your decision: school catchments, strata bylaws, and septic status. You will get a clear look at a property's true value and fit before we move forward.<br><br>
 
-<strong>vs <a href="/morgan-creek" style="color: inherit; text-decoration: underline;">Morgan Creek</a>:</strong> Larger private lots and school catchment access vs. Morgan Creek's golf course lifestyle and strata convenience.<br>
+<strong>vs <a href="/neighbourhoods/morgan-creek/" style="color: inherit; text-decoration: underline;">Morgan Creek</a>:</strong> Larger private lots and school catchment access vs. Morgan Creek's golf course lifestyle and strata convenience.<br>
 
-<strong>vs <a href="/ocean-park" style="color: inherit; text-decoration: underline;">Ocean Park</a>:</strong> Executive infrastructure and highway connectivity vs. Ocean Park's coastal village character and beach proximity.<br>
+<strong>vs <a href="/neighbourhoods/ocean-park/" style="color: inherit; text-decoration: underline;">Ocean Park</a>:</strong> Executive infrastructure and highway connectivity vs. Ocean Park's coastal village character and beach proximity.<br>
 
-<strong>vs <a href="/panorama-ridge" style="color: inherit; text-decoration: underline;">Panorama Ridge</a>:</strong> Higher market demand and a family-focused neighbourhood vs. Panorama Ridge's total seclusion and legacy estate scale.</p>
+<strong>vs <a href="/neighbourhoods/panorama-ridge/" style="color: inherit; text-decoration: underline;">Panorama Ridge</a>:</strong> Higher market demand and a family-focused neighbourhood vs. Panorama Ridge's total seclusion and legacy estate scale.</p>
 
     <h2 class="section-title">Frequently Asked Questions</h2>
 
