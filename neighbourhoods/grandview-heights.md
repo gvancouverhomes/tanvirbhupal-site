@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Grandview Heights Real Estate Strategy | The Growth Frontier"
+title: "Grandview Heights Real Estate Strategy | The Modern Power Center"
 description: "Strategic analysis of Grandview Heights modern executive infrastructure, school capacity risks, and the long-term impact of Surrey NCP density shifts."
 permalink: /neighbourhoods/grandview-heights/
 faq_schema: |
@@ -13,7 +13,7 @@ faq_schema: |
         "name": "What is the reality of school capacity in Grandview Heights?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "It is the primary friction point. Even with the new Grandview Heights Secondary, the district is chasing growth. If a permanent seat is non-negotiable, I may suggest a strategic pivot toward Elgin Chantrell instead. In Grandview, I verify current portable counts and boundary shift projections during my due diligence."
+          "text": "It is a primary friction point. Even with the new Grandview Heights Secondary, the district is chasing growth. If a permanent seat is non-negotiable, I may suggest a strategic pivot toward Elgin Chantrell instead. In Grandview, I identify these indicators during due diligence so you can engage the right specialists to assess boundary shifts or enrollment projections."
         }
       },
       {
@@ -71,12 +71,12 @@ faq_schema: |
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Grandview Heights: South Surrey's Modern Growth Frontier</h1>
-    <p class="intel-sub">Modern builds, growing pains: What the portables reality means for your investment.</p>
+    <h1 class="intel-header">Grandview Heights: South Surrey's Modern Power Center</h1>
+    <p class="intel-sub">High-end modernity meets rapid expansion. Do you have the right map?</p>
   </header>
 
   <section>
-    <p>Grandview Heights offers the newest executive housing stock in South Surrey, but the infrastructure is in a chase phase. I focus on the <strong>School Overcrowding</strong> risk. If you have school-age children, I audit the portable counts and catchment overflow potential before you commit.</p>
+    <p>Grandview Heights is the strategic choice for those who value <strong>architectural currency</strong> and lifestyle efficiency. While the newest executive housing stock in South Surrey is a major draw, the reality of this neighborhood is governed by the <strong>Neighbourhood Concept Plan (NCP)</strong>. In Grandview, you aren't just buying a floor plan; you are buying a 10-year infrastructure trajectory.</p>
 
     <p>This is where active families and professionals land when they want contemporary floor plans, 10-foot ceilings, and proximity to shopping without the renovation surprises of older neighbourhoods.</p>
 
@@ -84,12 +84,12 @@ faq_schema: |
 
     <h2 class="section-title">What You're Actually Buying</h2>
     <p><strong>The Maintenance Hedge:</strong> The Modernity Premium is a sound strategy for buyers with a 7 to 10 year horizon. Most homes were built after 2012, meaning you bypass the renovation debt found in older neighbourhoods. Major mechanical systems still have significant life remaining, making it a lower-friction asset for the next buyer.</p>
-    <p><strong>NCP Clarity:</strong> I review the <strong>Neighbourhood Concept Plans</strong> to ensure your backyard privacy is not scheduled for a 3-story townhome block in the next 24 months. Knowing what is planned for the lot next door is my priority for you.</p>
-    <p><strong>Strategic Proximity:</strong> 5 minutes to Morgan Crossing shopping, the Aquatic Centre, and the 16th Ave corridor. It is the most connected neighbourhood for daily family logistics.</p>
+    <p><strong>NCP Density Transitions:</strong> I review the <strong>Neighbourhood Concept Plans</strong> to ensure your investment is protected from future rezoning surprises. Knowing if your backyard privacy is scheduled for a 3-story townhome block or a future commercial buffer is my priority for you.</p>
+    <p><strong>Amenity Core Access:</strong> 5 minutes to Morgan Crossing shopping, the Grandview Heights Aquatic Centre, and the 16th Ave corridor. It represents the "15-minute city" version of South Surrey, optimized for daily family logistics.</p>
 
     <h2 class="section-title">Who This Is For</h2>
-    <p><strong>This fits you if:</strong> you want a modern, move-in-ready home, you value proximity to recreation and shopping, or you are a professional family wanting a contemporary community aesthetic.</p>
-    <p><strong>It does not fit if:</strong> you require a portables-free school environment, you want the silence of acreage living, or you are sensitive to ongoing construction noise as the remaining NCPs are built out.</p>
+    <p><strong>This fits you if:</strong> you want a modern, move-in-ready home with visual equity, you value proximity to recreation and shopping, or you are a time-poor professional wanting contemporary community finishes.</p>
+    <p><strong>It does not fit if:</strong> you require an immediate, portables-free school environment, you want the silence of acreage living, or you are sensitive to ongoing construction noise as the remaining NCPs are built out.</p>
 
     <h2 class="section-title">Grandview Heights vs The Competition</h2>
     <p><strong>vs Elgin Chantrell:</strong> Elgin offers an established school catchment and larger private lots. Grandview offers newer builds, modern floor plans, and amenity-dense living without the legacy price point.</p>
@@ -99,7 +99,7 @@ faq_schema: |
     <h2 class="section-title">Frequently Asked Questions</h2>
 
     <h3 class="metric-label">What is the reality of school capacity?</h3>
-    <p>It is the primary friction point. Even with the new <strong>Grandview Heights Secondary</strong>, the district is chasing growth. If a permanent seat is non-negotiable, I may suggest a strategic pivot toward <strong>Elgin Chantrell</strong> instead. In Grandview, I verify current portable counts and boundary shift projections during my due diligence.</p>
+    <p>It is a primary friction point. Even with the new <strong>Grandview Heights Secondary</strong>, the district is chasing growth. If a permanent seat is non-negotiable, I may suggest a strategic pivot toward <strong>Elgin Chantrell</strong> instead. In Grandview, I identify these indicators during due diligence so you can engage the right specialists to assess boundary shifts or enrollment projections.</p>
 
     <h3 class="metric-label">Why does the NCP matter to me?</h3>
     <p>The <strong>Neighbourhood Concept Plan</strong> determines what can be built next door. Many executive homes are adjacent to future townhome or commercial sites. I review the Surrey OCP and specific NCP maps to ensure your backyard privacy is not scheduled for a townhome block in the near future.</p>
