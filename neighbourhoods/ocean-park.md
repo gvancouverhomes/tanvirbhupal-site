@@ -10,10 +10,10 @@ faq_schema: |
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "What should I know about the geotechnical risks?",
+        "name": "What should I know about the risks of building on the bluff?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "If the home is on the bluff, the first thing I look for is a Subsidence Covenant on title. These are documents that reference slope stability assessments by a professional engineer. If you plan to build or renovate, the City of Surrey will require site-specific reports before issuing permits. I flag what I notice during due diligence so you know what to bring to your lawyer before subjects are removed."
+          "text": "If the home is on the water side, the first thing I look for is a Subsidence Covenant on title. These are documents that reference soil integrity assessments by a professional engineer. If you plan to build or renovate, the City of Surrey will require site-specific terrain reports before issuing permits. I flag what I notice during due diligence so you know what to bring to your lawyer before subjects are removed."
         }
       },
       {
@@ -72,24 +72,24 @@ faq_schema: |
 <article class="intel-container">
   <header>
     <h1 class="intel-header">Ocean Park: South Surrey's Coastal Village Monopoly</h1>
-    <p class="intel-sub">When buying the view means managing the bluff. Are you prepared for the geotechnical requirements?</p>
+    <p class="intel-sub">When buying the view means managing the bluff. Are you prepared for the specialized engineering requirements?</p>
   </header>
 
   <section>
-    <p>Ocean Park is defined by two things: limited supply and the <strong>Marine Drive Bluff</strong>. While the village vibe draws people in, the strategic reality of this neighbourhood is the management of long term geotechnical debt. <strong>In Ocean Park, you are not just buying a home: you are buying a position on a shifting coastline.</strong></p>
+    <p>Ocean Park is defined by two things: limited supply and the <strong>Marine Drive Bluff</strong>. While the village vibe draws people in, the strategic reality of this neighbourhood is the management of long term <strong>land stability costs</strong>. <strong>In Ocean Park, you are not just buying a home: you are buying a position on a shifting coastline.</strong></p>
     
     <p>This is where affluent families land when they want the White Rock lifestyle with more privacy, larger lots, and a tighter community feel.</p>
     <p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Ocean Park? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
 
     <h2 class="section-title">What You're Actually Buying</h2>
-    <p><strong>Geotechnical Stability:</strong> Many properties on the south side of Marine Drive carry <strong>Subsidence Covenants</strong> on title. If you plan to build or renovate, the City of Surrey mandates site-specific geotechnical reports and specialized pile foundations to mitigate erosion risk.</p>
-    <p><strong>Infrastructure Transition:</strong> While most of the village is now on municipal sewer, specific islands remain on septic. With the <strong>2026 Ocean Park Sewer Upgrade</strong> project impacting local infrastructure budgets, identifying whether a property is connected is a significant decision during due diligence.</p>
+    <p><strong>Ground Firmness:</strong> Many properties on the south side of Marine Drive carry <strong>Subsidence Covenants</strong> on title. If you plan to build or renovate, the City of Surrey mandates site-specific <strong>slope stability assessments</strong> and specialized pile foundations to mitigate erosion risk.</p>
+   <p><strong>Infrastructure Transition:</strong> While most of the village is now on municipal sewer, <strong>certain pockets</strong> remain on septic. With the <strong>2026 Ocean Park Sewer Upgrade</strong> project impacting local infrastructure budgets, identifying whether a property is connected is a significant decision during due diligence.</p>
     <p><strong>The View Premium:</strong> Bluff side properties have historically commanded a premium over interior village lots in most market conditions. The coastline cannot be expanded, and that structural scarcity has supported Ocean Park's position as one of the more resilient asset classes in Metro Vancouver across multiple market cycles.</p>
 
     <h2 class="section-title">Who This Is For</h2>
     <p><strong>This fits you if:</strong> you want a walkable village lifestyle, you prioritize ocean proximity over highway access, or you are looking for a legacy hold for your family.</p>
     
-    <p><strong>It does not fit if:</strong> you are risk averse regarding geotechnical stability, you need the rapid highway connectivity of Morgan Creek, or you are sensitive to ongoing infrastructure utility rate increases.</p>
+    <p><strong>It does not fit if:</strong> you are risk averse regarding <strong>coastal erosion or slope movement</strong>, you need the rapid highway connectivity of Morgan Creek, or you are sensitive to ongoing infrastructure utility rate increases.</p>
 
     <h2 class="section-title">Ocean Park vs The Competition</h2>
     <p><strong>vs Elgin Chantrell:</strong> Elgin offers executive school power and larger acreage. Ocean Park offers coastal village culture, high walkability, and finite bluff scarcity.</p>
@@ -98,8 +98,8 @@ faq_schema: |
 
     <h2 class="section-title">Frequently Asked Questions</h2>
 
-    <h3 class="metric-label">What should I know about the geotechnical risks?</h3>
-    <p>If the home is on the bluff, the first thing I look for is a <strong>Subsidence Covenant</strong> on title. These are documents that reference slope stability assessments by a professional engineer. If you plan to build or renovate, the City of Surrey will require site-specific reports before issuing permits. I flag what I notice during due diligence so you know what to bring to your lawyer before subjects are removed.</p>
+    <h3 class="metric-label">What should I know about the risks of building on the bluff?</h3>
+    <p>If the home is on the water side, the first thing I look for is a <strong>Subsidence Covenant</strong> on title. These are documents that reference <strong>soil integrity</strong> assessments by a professional engineer. If you plan to build or renovate, the City of Surrey will require site-specific <strong>terrain reports</strong> before issuing permits. I identify these indicators during due diligence so you can engage the necessary specialists to review them before subjects are removed.</p>
 
     <h3 class="metric-label">Is the neighbourhood fully on municipal sewer?</h3>
     <p>Not everywhere. Some properties in Ocean Park are still on septic, and connection status is not always obvious from the listing. Individual connection costs can be significant. I flag what I notice on utility status during due diligence so there are no surprises after the fact.</p>
