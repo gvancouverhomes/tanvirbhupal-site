@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Fraser Heights Real Estate Strategy | The Overlooked Summit"
-description: "Strategic analysis of Fraser Heights elevation advantage, Highway 1 noise mitigation, and the high-yield stability of legal basement suites in North Surrey."
+title: "Fraser Heights Real Estate Strategy | The Custom Summit"
+description: "Strategic analysis of Fraser Heights custom builds, elevation-based noise mitigation, and the long-term value of legal secondary suites."
 permalink: /neighbourhoods/fraser-heights/
 faq_schema: |
   {
@@ -10,26 +10,26 @@ faq_schema: |
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "What should I know about the highway noise in Fraser Heights?",
+        "name": "How do you handle the highway noise?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "It is the neighbourhood's defining trade-off. Nothing beats natural elevation for long-term noise mitigation. I focus on homes on the northern slopes where the terrain acts as a natural sound barrier. I flag what I notice about a property's acoustic exposure during due diligence so you have the full picture before subjects are removed."
+          "text": "It is the neighbourhood's defining trade-off. I prioritize identifying homes with natural elevation on the northern slopes, where the terrain acts as a sound barrier. I flag a property's noise exposure during the due diligence phase so you can decide if the acoustic levels meet your personal standards before the deal is final."
         }
       },
       {
         "@type": "Question",
-        "name": "How significant is the school capacity issue in Fraser Heights?",
+        "name": "What is the reality of the school capacity?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Fraser Heights Secondary is under capacity pressure, with a significant capital request in the district's plan to add permanent seats. Construction has not broken ground. If your family requires a school with immediate permanent capacity, I may suggest a strategic pivot toward South Surrey's catchments instead."
+          "text": "Fraser Heights Secondary is currently at its limit and uses an extended day schedule to manage the population. If a traditional school schedule is a priority for your family, I recommend we audit the current enrollment waitlists or look at South Surrey catchments as an alternative before you commit to a specific address."
         }
       },
       {
         "@type": "Question",
-        "name": "Is a basement suite a sound strategy for a luxury home in Fraser Heights?",
+        "name": "Is a basement suite a good strategy for a luxury home?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Yes. Even at the executive price point, a legal suite provides fiscal optionality that most luxury buyers undervalue. A legal suite in Fraser Heights has historically been a high-demand rental asset, making your property more liquid and defensible during market corrections than a comparable home without an income component."
+          "text": "In Fraser Heights, a legal suite is a common feature that provides financial options. While many luxury buyers don't plan to rent them out, having the suite adds a layer of resale flexibility that homes in South Surrey often lack. It is a defensive feature that makes the property more attractive to a wider range of future buyers."
         }
       }
     ]
@@ -43,8 +43,6 @@ faq_schema: |
   .intel-sub { font-size: 1.2rem; color: var(--mid); margin-bottom: 40px; font-style: italic; }
   .section-title { font-size: 1.4rem; color: var(--dark); margin-top: 40px; border-left: 3px solid var(--dark); padding-left: 20px; margin-bottom: 20px; }
   .metric-label { text-transform: uppercase; font-size: 0.85rem; letter-spacing: 2px; color: var(--dark); margin-top: 40px; margin-bottom: 15px; font-weight: bold; }
-  .metric-list { padding-left: 20px; list-style-type: square; color: var(--light); margin-bottom: 30px; }
-  .metric-list li { margin-bottom: 10px; }
   .audit-card { margin-top: 60px; padding: 40px; background: #fdfcf9; border: 1px solid var(--border); display: grid; grid-template-columns: 1fr auto; grid-template-areas: "header action" "body body"; gap: 20px 40px; align-items: center; }
   .audit-title { grid-area: header; margin: 0; font-weight: bold; color: var(--dark); font-size: 1.1rem; }
   .audit-action { grid-area: action; }
@@ -71,41 +69,41 @@ faq_schema: |
 
 <article class="intel-container">
   <header>
-    <h1 class="intel-header">Fraser Heights: North Surrey's Overlooked Summit</h1>
-    <p class="intel-sub">Island living in North Surrey: The elevation advantage, the suite potential, and what the Highway 1 corridor means for your long-term value.</p>
+    <h1 class="intel-header">Fraser Heights: North Surrey's Custom Summit</h1>
+    <p class="intel-sub">Custom executive builds, mountain views, and the Highway 1 commuter advantage.</p>
   </header>
 
   <section>
-    <p>Fraser Heights is often called an "island" because it is geographically cut off from the rest of Surrey by Highway 1 and the Fraser River. While this creates a unique sense of community security, the strategic risk is the <strong>Highway 1 Corridor</strong>. With ongoing widening projects, identifying homes shielded by elevation rather than just distance is the key to long-term value retention.</p>
-
-    <p>This is where multi-generational families and commuters land when they want custom executive builds, mountain views, and the financial flexibility of legal secondary suites.</p>
-
+    <p>Fraser Heights is the strategic choice for custom-built homes and mountain views at a better value than South Surrey. While it feels quiet and suburban, the key to buying here is understanding the <strong>Highway 1 Corridor</strong>. Finding homes protected by the natural hills rather than just distance is the secret to long-term value.</p>
+    
+    <p>This is where families and commuters land when they want a 5,000 plus square foot home with mountain views and the financial flexibility of a <strong>legal secondary suite</strong>.</p>
     <p style="font-size: 0.95rem; color: var(--mid); margin-bottom: 40px;">Thinking about Fraser Heights? <a href="/contact" style="color: var(--dark); text-decoration: underline;">Start with a conversation →</a></p>
 
-    <h2 class="section-title">What You're Actually Buying</h2>
-    <p><strong>The Elevation Shield:</strong> Not all lots here are created equal. I focus on properties in the <strong>Ermineskin</strong> and northern ridges that utilize natural topography to mitigate Highway 1 noise. Buying at the bottom of the bowl means inheriting the acoustic debt of significant daily vehicle traffic.</p>
-    <p><strong>Income-Ready Infrastructure:</strong> Unlike South Surrey's stricter luxury enclaves, Fraser Heights was built for basement suites. The ability to generate rental income from a legal suite provides a defensive floor that maintains liquidity even during rate hikes.</p>
-    <p><strong>The Isolated Premium:</strong> Because there is only one main entry point into the neighbourhood, traffic is strictly local. This creates a quiet, suburban atmosphere that is increasingly rare in the fast-growing Fraser Valley.</p>
+    <h2 class="section-title">The Realities of the Heights</h2>
+    <p><strong>The Elevation Shield:</strong> Not all lots here are the same. I focus on properties in the northern ridges that use the natural hills to block highway noise. Buying at the bottom of the "bowl" means dealing with significantly more daily traffic sound.</p>
+    <p><strong>Income-Ready Homes:</strong> Unlike South Surrey's luxury areas, Fraser Heights was built for basement suites. Having a legal suite provides a financial safety net and makes the home much easier to sell if the market shifts.</p>
+    <p><strong>Commuter Logistics:</strong> With immediate access to the Port Mann Bridge and Highway 1, this is the most efficient luxury pocket for those working in Coquitlam, Burnaby, or Vancouver.</p>
 
     <h2 class="section-title">Who This Is For</h2>
-    <p><strong>This fits you if:</strong> you commute to Coquitlam or Vancouver via the Port Mann, you require a legal suite for family or income, or you want a custom 5,000 square foot plus home at a lower price point than South Surrey.</p>
-    <p><strong>It does not fit if:</strong> you are sensitive to highway noise, you want to walk to major retail hubs, or you require a secondary school with immediate permanent capacity.</p>
+    <p><strong>This fits you if:</strong> you commute via Highway 1, you want a legal suite for family or income, or you want a custom estate at a lower price point than South Surrey.</p>
+    
+    <p><strong>It does not fit if:</strong> you want to walk to major shopping malls or you require a high school with a traditional (non-staggered) schedule.</p>
 
-    <h2 class="section-title">Fraser Heights vs The Competition</h2>
-    <p><strong>vs Elgin Chantrell:</strong> Elgin offers South Surrey prestige and larger acreage. Fraser Heights offers North Surrey value, mountain views, and suite-friendly zoning at a lower entry point.</p>
-    <p><strong>vs Morgan Creek:</strong> Morgan Creek offers golf-course strata and managed maintenance. Fraser Heights offers fee-simple estates, no strata fees, and larger basement suite potential.</p>
-    <p><strong>vs Grandview Heights:</strong> Grandview offers modern retail density and contemporary builds. Fraser Heights offers established island seclusion and highway-oriented commuter logistics.</p>
+    <h2 class="section-title">The Comparison</h2>
+    <p><strong>vs Elgin Chantrell:</strong> Elgin offers South Surrey prestige and larger land. Fraser Heights offers custom mountain-view homes and suite-friendly zoning at a more accessible entry point.</p>
+    <p><strong>vs Morgan Creek:</strong> Morgan Creek offers golf course living and strata rules. Fraser Heights offers private estates with no strata fees and much better basement suite potential.</p>
+    <p><strong>vs Grandview Heights:</strong> Grandview offers new retail hubs and modern density. Fraser Heights offers established quiet, larger custom builds, and a faster highway exit.</p>
 
     <h2 class="section-title">Frequently Asked Questions</h2>
 
-    <h3 class="metric-label">What should I know about the highway noise?</h3>
-    <p>It is the neighbourhood's defining trade-off. Nothing beats natural elevation for long-term noise mitigation. I focus on homes on the northern slopes where the terrain acts as a natural sound barrier. I flag what I notice about a property's acoustic exposure during due diligence so you have the full picture before subjects are removed.</p>
+    <h3 class="metric-label">How do you handle the highway noise?</h3>
+    <p>It is the neighbourhood's defining trade-off. I prioritize identifying homes with natural elevation on the northern slopes, where the terrain acts as a sound barrier. I flag a property's noise exposure during the due diligence phase so you can decide if the acoustic levels meet your personal standards before the deal is final.</p>
 
-    <h3 class="metric-label">How significant is the school capacity issue?</h3>
-    <p>Fraser Heights Secondary is under capacity pressure, with a significant capital request in the district's plan to add permanent seats. Construction has not broken ground. If your family requires a school with immediate permanent capacity, I may suggest a strategic pivot toward <strong>South Surrey's catchments</strong> instead.</p>
+    <h3 class="metric-label">What is the reality of the school capacity?</h3>
+    <p><strong>Fraser Heights Secondary</strong> is currently at its limit and uses an <strong>extended day schedule</strong> (staggered start/end times) to manage the population. If a traditional school schedule is a priority for your family, I recommend we audit the current enrollment waitlists or look at South Surrey catchments as an alternative before you commit to a specific address.</p>
 
-    <h3 class="metric-label">Is a basement suite a sound strategy for a luxury home?</h3>
-    <p>Yes. Even at the executive price point, a legal suite provides <strong>fiscal optionality</strong> that most luxury buyers undervalue. A legal suite in Fraser Heights has historically been a high-demand rental asset, making your property more liquid and defensible during market corrections than a comparable home without an income component.</p>
+    <h3 class="metric-label">Is a basement suite a good strategy for a luxury home?</h3>
+    <p>In Fraser Heights, a legal suite is a common feature that provides financial options. While many luxury buyers don't plan to rent them out, having the suite adds a layer of resale flexibility that homes in South Surrey often lack. It is a defensive feature that makes the property more attractive to a wider range of future buyers.</p>
   </section>
 </article>
 
@@ -145,7 +143,7 @@ faq_schema: |
     </div>
     <div class="audit-body">
       <p class="audit-text">
-        Fraser Heights' custom mountain-view estates and legal suite infrastructure are for families who value community isolation and commuter logistics. If you are thinking about buying, selling, or want to understand the elevation and noise trade-offs of a specific property, let's talk.
+        Fraser Heights offers a rare combination of custom estates and income flexibility. If you are looking to acquire or sell in this North Surrey summit, the strategy must be built on elevation and location.
       </p>
       <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
         No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
