@@ -143,7 +143,7 @@ faq_schema: |
     </div>
     <div class="audit-body">
       <p class="audit-text">
-        Fraser Heights offers a rare combination of custom estates and income flexibility. If you are looking to acquire or sell in this North Surrey summit, the strategy must be built on elevation and location.
+        Fraser Heights offers a rare combination of custom estates and income flexibility. If you are looking to acquire or sell in this pocket, the strategy must be built on site positioning and revenue potential.
       </p>
       <p class="audit-text" style="font-size: 0.85rem; color: var(--mid);">
         No pitch. Just straight answers. tanvir@tanvirbhupal.com | 604-897-7826
