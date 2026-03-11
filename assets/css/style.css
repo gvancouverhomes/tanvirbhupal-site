@@ -53,46 +53,41 @@ body {
     .hero-text, .hero-image { width: 100%; height: auto; padding: 60px 20px; } 
     .grid-3, .portfolio-grid { grid-template-columns: 1fr !important; } 
 }
-/* --- SITE-WIDE MOBILE OVERRIDE --- */
+/* --- THE TANVIRBHUPAL.COM MOBILE MASTER --- */
 @media screen and (max-width: 768px) {
-  /* 1. Reset everything to fit the phone screen */
-  *, *:before, *:after {
-    box-sizing: border-box !important;
+  /* 1. Kill the 3-column grid specifically */
+  .portfolio-grid, .grid-3 {
+    display: flex !important;
+    flex-direction: column !important;
+    grid-template-columns: 1fr !important;
+    width: 100% !important;
+    padding: 0 20px !important;
   }
-  
+
+  /* 2. Fix the Hero Image (was set to height: auto/0) */
+  .hero-image {
+    width: 100% !important;
+    height: 400px !important; /* Forces the photo to actually show up */
+    min-height: 400px !important;
+    background-size: cover !important;
+  }
+
+  /* 3. Clean up the Hero Text spacing */
+  .hero-text {
+    width: 100% !important;
+    padding: 60px 20px !important;
+    text-align: center;
+  }
+
+  /* 4. Editorial Typography scaling */
+  .hero-text h1 {
+    font-size: 2.2rem !important;
+    line-height: 1.2 !important;
+  }
+
+  /* 5. Prevent the horizontal scroll */
   html, body {
     overflow-x: hidden !important;
-    width: 100vw !important;
-    position: relative;
-    margin: 0 !important;
-    padding: 0 !important;
-  }
-
-  /* 2. Force every container to stack and stay 100% wide */
-  .container, .wrapper, section, div, main, article, header, footer {
     width: 100% !important;
-    max-width: 100% !important;
-    padding-left: 20px !important;
-    padding-right: 20px !important;
-    display: block !important;
-    float: none !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
   }
-
-  /* 3. Responsive Images for the whole site */
-  img {
-    max-width: 100% !important;
-    height: auto !important;
-    display: block;
-    margin: 0 auto 20px;
-  }
-
-  /* 4. Strategic Advisor Typography (Editorial Scale) */
-  h1 { font-size: 1.8rem !important; line-height: 1.2 !important; }
-  h2 { font-size: 1.5rem !important; }
-  p, li, span { font-size: 1rem !important; line-height: 1.6 !important; }
-
-  /* 5. Navigation/Header alignment */
-  nav, header { text-align: center !important; }
 }
