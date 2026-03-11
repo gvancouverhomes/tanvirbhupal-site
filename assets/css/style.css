@@ -94,3 +94,22 @@ body {
     margin-bottom: 20px !important;
   }
 }
+/* --- THE ABSOLUTE FINAL MOBILE FIX --- */
+@media screen and (max-width: 768px) {
+    .portfolio-grid {
+        display: block !important;
+        grid-template-columns: none !important;
+        width: 100% !important;
+    }
+
+    .enclave-card {
+        display: block !important;
+        width: 100% !important;
+        margin-bottom: 20px !important;
+        min-height: 120px !important;
+    }
+    
+    .hero-split {
+        flex-direction: column !important;
+    }
+}
