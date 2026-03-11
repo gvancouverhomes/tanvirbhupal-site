@@ -10,7 +10,7 @@
     {% if page.faq_schema %}<script type="application/ld+json">{{ page.faq_schema }}</script>{% endif %}
     
 <style>
-    /* Essential CSS for the Smart Header functionality */
+    /* 1. Desktop / Essential Logic */
     #site-header {
         position: fixed;
         top: 0;
@@ -25,14 +25,14 @@
         transform: translateY(-100%);
     }
 
-    /* Adjust Main to prevent content from hiding under fixed header */
     main {
         padding-top: 80px; 
     }
 
-    /* --- MOBILE OVERRIDES --- */
+    /* 2. Mobile Fixes (Only happens on phones) */
     @media (max-width: 768px) {
-        /* 1. Fix the Header links from overlapping */
+        
+        /* Fix the Header */
         #site-header {
             flex-direction: column !important;
             padding: 15px !important;
@@ -49,7 +49,25 @@
             font-size: 0.65rem !important;
         }
 
-        /* 2. Fix the Footer from scrolling right */
+        /* Fix the Portfolio Grid (The 1-by-1 Stack) */
+        .portfolio-grid, .grid-3 {
+            display: flex !important;
+            flex-direction: column !important;
+            width: 100% !important;
+            padding: 0 20px !important;
+            gap: 20px !important;
+            box-sizing: border-box !important;
+        }
+
+        .enclave-card {
+            width: 100% !important;
+            min-width: 100% !important;
+            display: block !important;
+            margin-bottom: 15px !important;
+            box-sizing: border-box !important;
+        }
+
+        /* Fix the Footer */
         footer div {
             flex-direction: column !important;
             text-align: center !important;
@@ -60,25 +78,12 @@
             margin-bottom: 30px;
         }
 
-        /* 3. Kill the side scroll */
+        /* Kill the Scroll */
         body, html {
             overflow-x: hidden !important;
             width: 100vw !important;
         }
     }
-    /* 4. Force Portfolio Grid to show ALL items in one column */
-.portfolio-grid, .grid-3 {
-    display: flex !important;
-    flex-direction: column !important;
-    grid-template-columns: 1fr !important; /* Kills the 3-column desktop rule */
-    width: 100% !important;
-    gap: 20px !important;
-}
-
-.enclave-card {
-    width: 100% !important;
-    display: block !important;
-}
 </style>
 </head>
 <body style="margin:0; padding:0; font-family: sans-serif; background-color: #fdfcf9;">
