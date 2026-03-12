@@ -4,73 +4,74 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>{{ page.title }} | Tanvir Bhupal</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=102">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=106">
+    
     {% if page.faq_schema %}<script type="application/ld+json">{{ page.faq_schema }}</script>{% endif %}
     
     <style>
-        /* Logic for Header Scroll */
+        /* 1. DESKTOP HEADER & GLOBAL LOGIC */
         #site-header {
             position: fixed;
             top: 0;
             left: 0;
             width: 100%;
             z-index: 1000;
-            transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+            transition: transform 0.4s ease;
             box-sizing: border-box; 
             background: #f2f0eb;
         }
-        
-        .header-hidden {
-            transform: translateY(-100%);
-        }
+        .header-hidden { transform: translateY(-100%); }
+        main { padding-top: 80px; }
 
-        main {
-            padding-top: 80px; 
-        }
-
-        /* MOBILE FIX: Targeted Specifically to the 900px breakpoint */
+        /* 2. MOBILE OVERRIDE (Only triggers under 900px) */
         @media screen and (max-width: 900px) {
-            /* Force the Neighbourhood Grid to stack 1-by-1 */
-            .portfolio-grid, .grid-3 {
+            
+            /* Stops the horizontal scroll/shaking */
+            html, body {
+                overflow-x: hidden !important;
+                width: 100% !important;
+                position: relative !important;
+                margin: 0 !important;
+                padding: 0 !important;
+            }
+
+            /* This targets the inline grid on your index page specifically */
+            section div[style*="grid-template-columns"] {
                 display: block !important;
+                grid-template-columns: none !important;
                 width: 100% !important;
                 padding: 0 20px !important;
                 box-sizing: border-box !important;
             }
 
+            /* Mobile-friendly Neighbourhood Cards */
             .enclave-card {
                 display: block !important;
                 width: 100% !important;
-                margin: 0 0 15px 0 !important;
-                padding: 40px 20px !important;
+                margin: 0 0 12px 0 !important;
+                padding: 30px 20px !important;
                 box-sizing: border-box !important;
-                min-height: 120px !important;
+                text-decoration: none !important;
             }
 
-            /* Clean up the Header on Mobile */
-            #site-header {
-                flex-direction: column !important;
-                padding: 15px 5% !important;
-                text-align: center !important;
-                display: flex !important;
+            /* Clean up mobile header */
+            #site-header { 
+                flex-direction: column !important; 
+                padding: 15px !important; 
             }
-            #site-header nav {
-                margin-top: 10px !important;
-                margin-left: 0 !important;
-                display: flex !important;
-                flex-wrap: wrap !important;
-                justify-content: center !important;
+            #site-header nav { 
+                margin-top: 10px !important; 
+                margin-left: 0 !important; 
+                display: flex !important; 
+                justify-content: center !important; 
             }
-            #site-header nav a {
-                margin: 5px 10px !important;
-                font-size: 0.65rem !important;
-            }
+            #site-header nav a { margin: 5px 8px !important; font-size: 0.65rem !important; }
         }
     </style>
 </head>
-<body style="margin:0; padding:0; font-family: sans-serif; background-color: #fdfcf9;">
+<body style="margin:0; padding:0; background-color: #fdfcf9;">
 
     <header id="site-header" style="display: flex; justify-content: space-between; align-items: center; padding: 30px 10%; border-bottom: 1px solid rgba(0,0,0,0.05);">
         <a href="/" style="font-size: 1.1rem; letter-spacing: 3px; text-transform: uppercase; font-weight: bold; color: #1a1a1a; text-decoration: none;">TANVIR BHUPAL</a>
@@ -86,25 +87,20 @@
         {{ content }}
     </main>
 
-    <footer style="padding: 80px 10%; border-top: 1px solid #eee; background: #fff; font-size: 0.8rem; margin-top: 50px;">
-      <div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
-        
-        <div style="width: 45%; text-align: left; line-height: 1.6;">
-          <p style="margin: 0 0 5px 0;"><strong>© 2026 Tanvir Bhupal. Real Estate Advisor.</strong></p>
-          <p style="margin: 0; color: #666;">eXp Realty – 701 W Georgia St #1500</p>
-          <p style="margin: 0; color: #666;">Vancouver, BC V7Y 1G5</p>
-          <p style="margin: 0;"><a href="mailto:tanvir@tanvirbhupal.com" style="color: #1a1a1a; text-decoration: none; font-weight: bold;">tanvir@tanvirbhupal.com</a></p>
-          <p style="margin: 5px 0 0 0; font-weight: bold;">604-897-7826</p>
+    <footer style="padding: 60px 10%; border-top: 1px solid #eee; background: #fff; font-size: 0.8rem; margin-top: 50px;">
+      <div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; width: 100%;">
+        <div style="flex: 1; min-width: 250px; text-align: left; line-height: 1.6; margin-bottom: 30px;">
+          <p><strong>© 2026 Tanvir Bhupal. Real Estate Advisor.</strong></p>
+          <p style="color: #666;">eXp Realty – 701 W Georgia St #1500<br>Vancouver, BC V7Y 1G5</p>
+          <p><a href="mailto:tanvir@tanvirbhupal.com" style="color: #1a1a1a; text-decoration: none; font-weight: bold;">tanvir@tanvirbhupal.com</a></p>
+          <p style="font-weight: bold;">604-897-7826</p>
         </div>
-
-        <div style="width: 45%; text-align: right; color: #666; line-height: 1.6;">
-          <p style="margin: 0;">This website is not intended to solicit buyers or sellers currently under contract.</p>
-          <p style="margin: 0;">All information is deemed reliable but not guaranteed.</p>
+        <div style="flex: 1; min-width: 250px; text-align: right; color: #666; line-height: 1.6;">
+          <p>All information is deemed reliable but not guaranteed.</p>
           <div style="margin-top: 25px; letter-spacing: 2px; font-size: 0.7rem; color: #1a1a1a; font-weight: bold; text-transform: uppercase;">
-            LinkedIn // Instagram // Spotify // Google
+            LinkedIn // Instagram // Spotify
           </div>
         </div>
-
       </div>
     </footer>
 
@@ -112,11 +108,8 @@
       (function() {
         let lastScrollY = window.scrollY;
         const header = document.getElementById('site-header');
-        const threshold = 10; 
-
         window.addEventListener('scroll', () => {
           const currentScrollY = window.scrollY;
-          if (Math.abs(currentScrollY - lastScrollY) <= threshold) return;
           if (currentScrollY > lastScrollY && currentScrollY > 100) {
             header.classList.add('header-hidden');
           } else {
@@ -126,6 +119,5 @@
         });
       })();
     </script>
-
 </body>
 </html>
