@@ -6,102 +6,73 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }} | Tanvir Bhupal</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=101">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}?v=102">
     {% if page.faq_schema %}<script type="application/ld+json">{{ page.faq_schema }}</script>{% endif %}
     
-<style>
-    /* 1. Desktop / Essential Logic */
-    #site-header {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        z-index: 1000;
-        transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
-        box-sizing: border-box; 
-    }
-    
-    .header-hidden {
-        transform: translateY(-100%);
-    }
-
-    main {
-        padding-top: 80px; 
-    }
-
-    /* 2. Total Mobile Reset (Only happens on phones) */
-    @media (max-width: 768px) {
-        
-        /* Fix the Header & Force Center */
+    <style>
+        /* Logic for Header Scroll */
         #site-header {
-            flex-direction: column !important;
-            padding: 15px 5% !important;
-            height: auto !important;
-            text-align: center !important;
-            display: flex !important;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            transition: transform 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+            box-sizing: border-box; 
+            background: #f2f0eb;
         }
-        #site-header nav {
-            margin-top: 15px !important;
-            margin-left: 0 !important;
-            display: flex !important;
-            flex-wrap: wrap !important;
-            justify-content: center !important;
-            width: 100% !important;
-        }
-        #site-header nav a {
-            margin: 5px 10px !important;
-            font-size: 0.65rem !important;
+        
+        .header-hidden {
+            transform: translateY(-100%);
         }
 
-       /* THE SUPREME COMMANDER RULE */
-html body main .portfolio-grid {
-    display: block !important; 
-    width: 100% !important;
-    max-width: 100% !important;
-    padding: 0 20px !important;
-}
-
-html body main .enclave-card {
-    display: block !important;
-    width: 100% !important;
-    margin: 0 0 20px 0 !important;
-}
-
-        .enclave-card {
-            display: block !important;
-            width: 100% !important;
-            margin: 0 0 20px 0 !important;
-            padding: 50px 20px !important;
-            box-sizing: border-box !important;
-            min-height: 150px;
+        main {
+            padding-top: 80px; 
         }
 
-        /* Fix the Footer & Kill the Side-Scroll */
-        footer {
-            padding: 50px 20px !important;
-        }
-        footer div {
-            flex-direction: column !important;
-            text-align: center !important;
-            display: flex !important;
-        }
-        footer div div {
-            width: 100% !important;
-            text-align: center !important;
-            margin-bottom: 40px !important;
-        }
+        /* MOBILE FIX: Targeted Specifically to the 900px breakpoint */
+        @media screen and (max-width: 900px) {
+            /* Force the Neighbourhood Grid to stack 1-by-1 */
+            .portfolio-grid, .grid-3 {
+                display: block !important;
+                width: 100% !important;
+                padding: 0 20px !important;
+                box-sizing: border-box !important;
+            }
 
-        body, html {
-            overflow-x: hidden !important;
-            width: 100% !important;
-            position: relative !important;
+            .enclave-card {
+                display: block !important;
+                width: 100% !important;
+                margin: 0 0 15px 0 !important;
+                padding: 40px 20px !important;
+                box-sizing: border-box !important;
+                min-height: 120px !important;
+            }
+
+            /* Clean up the Header on Mobile */
+            #site-header {
+                flex-direction: column !important;
+                padding: 15px 5% !important;
+                text-align: center !important;
+                display: flex !important;
+            }
+            #site-header nav {
+                margin-top: 10px !important;
+                margin-left: 0 !important;
+                display: flex !important;
+                flex-wrap: wrap !important;
+                justify-content: center !important;
+            }
+            #site-header nav a {
+                margin: 5px 10px !important;
+                font-size: 0.65rem !important;
+            }
         }
-    }
-</style>
+    </style>
 </head>
 <body style="margin:0; padding:0; font-family: sans-serif; background-color: #fdfcf9;">
 
-    <header id="site-header" style="display: flex; justify-content: space-between; align-items: center; padding: 30px 10%; border-bottom: 1px solid rgba(0,0,0,0.05); background: #f2f0eb;">
+    <header id="site-header" style="display: flex; justify-content: space-between; align-items: center; padding: 30px 10%; border-bottom: 1px solid rgba(0,0,0,0.05);">
         <a href="/" style="font-size: 1.1rem; letter-spacing: 3px; text-transform: uppercase; font-weight: bold; color: #1a1a1a; text-decoration: none;">TANVIR BHUPAL</a>
         <nav>
             <a href="/about" style="text-decoration: none; color: #666; margin-left: 30px; font-size: 0.75rem; text-transform: uppercase; letter-spacing: 2px;">Approach</a>
@@ -122,7 +93,7 @@ html body main .enclave-card {
           <p style="margin: 0 0 5px 0;"><strong>© 2026 Tanvir Bhupal. Real Estate Advisor.</strong></p>
           <p style="margin: 0; color: #666;">eXp Realty – 701 W Georgia St #1500</p>
           <p style="margin: 0; color: #666;">Vancouver, BC V7Y 1G5</p>
-            <p style="margin: 0;"><a href="mailto:tanvir@tanvirbhupal.com" style="color: #1a1a1a; text-decoration: none; font-weight: bold;">tanvir@tanvirbhupal.com</a></p>
+          <p style="margin: 0;"><a href="mailto:tanvir@tanvirbhupal.com" style="color: #1a1a1a; text-decoration: none; font-weight: bold;">tanvir@tanvirbhupal.com</a></p>
           <p style="margin: 5px 0 0 0; font-weight: bold;">604-897-7826</p>
         </div>
 
@@ -145,15 +116,12 @@ html body main .enclave-card {
 
         window.addEventListener('scroll', () => {
           const currentScrollY = window.scrollY;
-          
           if (Math.abs(currentScrollY - lastScrollY) <= threshold) return;
-
           if (currentScrollY > lastScrollY && currentScrollY > 100) {
             header.classList.add('header-hidden');
           } else {
             header.classList.remove('header-hidden');
           }
-          
           lastScrollY = currentScrollY;
         });
       })();
