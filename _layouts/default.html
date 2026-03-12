@@ -23,21 +23,25 @@
             background: #f2f0eb;
         }
         .header-hidden { transform: translateY(-100%); }
-        main { padding-top: 80px; }
+        main { padding-top: 80px; min-height: 80vh; }
 
-        /* 2. MOBILE OVERRIDE (Only triggers under 900px) */
+        /* 2. MOBILE OVERRIDE (Under 900px) */
         @media screen and (max-width: 900px) {
             
-            /* Stops the horizontal scroll/shaking */
             html, body {
                 overflow-x: hidden !important;
                 width: 100% !important;
                 position: relative !important;
-                margin: 0 !important;
-                padding: 0 !important;
             }
 
-            /* This targets the inline grid on your index page specifically */
+            /* Fix for Cutoff Text/Headings */
+            h1, h2, h3, p {
+                word-wrap: break-word !important;
+                overflow-wrap: break-word !important;
+                max-width: 100% !important;
+            }
+
+            /* Targets the index grid override */
             section div[style*="grid-template-columns"] {
                 display: block !important;
                 grid-template-columns: none !important;
@@ -46,28 +50,32 @@
                 box-sizing: border-box !important;
             }
 
-            /* Mobile-friendly Neighbourhood Cards */
             .enclave-card {
                 display: block !important;
                 width: 100% !important;
                 margin: 0 0 12px 0 !important;
                 padding: 30px 20px !important;
                 box-sizing: border-box !important;
-                text-decoration: none !important;
             }
 
-            /* Clean up mobile header */
+            /* Fix for Navigation Squeeze */
             #site-header { 
                 flex-direction: column !important; 
-                padding: 15px !important; 
+                padding: 10px 5% !important; 
             }
             #site-header nav { 
-                margin-top: 10px !important; 
-                margin-left: 0 !important; 
+                margin: 8px 0 0 0 !important;
                 display: flex !important; 
-                justify-content: center !important; 
+                justify-content: center !important;
+                width: 100% !important;
+                flex-wrap: nowrap !important; /* Keep items on one line */
             }
-            #site-header nav a { margin: 5px 8px !important; font-size: 0.65rem !important; }
+            #site-header nav a { 
+                margin: 0 6px !important; /* Tighter margins */
+                font-size: 10px !important; /* Slightly smaller to fit */
+                letter-spacing: 1px !important;
+                white-space: nowrap !important; /* Prevents "The Briefing" from breaking */
+            }
         }
     </style>
 </head>
