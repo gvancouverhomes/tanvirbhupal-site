@@ -35,20 +35,19 @@
                 margin: 0 !important;
             }
 
-            /* FIX: Stops large titles from breaking mid-word */
+            /* Fix large headings from breaking */
             h1, h2 {
-                font-size: 1.8rem !important; /* Scaled down for mobile */
+                font-size: 1.8rem !important;
                 line-height: 1.2 !important;
-                word-wrap: normal !important;
-                overflow-wrap: normal !important;
-                hyphens: none !important;
             }
 
-            /* TARGETING THE EMAIL BLEED */
-            .enclave-card a, [class*="box"] a, [class*="card"] a {
+            /* TARGETING THE EMAIL IN THE CONTACT BOX */
+            /* This shrinks the email address specifically so it fits the white box */
+            .enclave-card a[href^="mailto:"], [class*="box"] a[href^="mailto:"] {
+                font-size: 0.85rem !important; /* Slightly smaller font for the long email */
                 word-break: break-all !important;
-                display: inline-block !important;
-                max-width: 100% !important;
+                display: block !important;
+                margin-top: 10px;
             }
 
             /* Target index grid override */
@@ -60,17 +59,17 @@
                 box-sizing: border-box !important;
             }
 
-            /* Fix for Contact & Neighbourhood Cards */
+            /* Ensure the Contact Boxes have enough room */
             .enclave-card, [class*="card"], [class*="box"] {
                 display: block !important;
                 width: 100% !important;
-                margin: 0 0 20px 0 !important;
-                padding: 40px 20px !important;
+                margin: 0 0 25px 0 !important;
+                padding: 50px 15px !important; /* Extra vertical space for clarity */
                 box-sizing: border-box !important;
                 text-align: center !important;
             }
 
-            /* Navigation: Fixed "The Briefing" wrap */
+            /* Navigation: Keeping "The Briefing" on one line */
             #site-header { 
                 flex-direction: column !important; 
                 padding: 10px 0 !important; 
@@ -79,7 +78,6 @@
                 margin: 10px 0 0 0 !important;
                 display: flex !important; 
                 justify-content: center !important;
-                width: 100% !important;
             }
             #site-header nav a { 
                 margin: 0 4px !important; 
