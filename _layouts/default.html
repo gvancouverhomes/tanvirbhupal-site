@@ -35,14 +35,23 @@
                 margin: 0 !important;
             }
 
-            /* Fix for Text Cutoff & Word Breaks */
-            h1, h2, h3, p {
-                word-wrap: break-word !important;
-                overflow-wrap: break-word !important;
-                hyphens: none !important; /* Prevents ugly dashes */
+            /* FIX: Stops large titles from breaking mid-word */
+            h1, h2 {
+                font-size: 1.8rem !important; /* Scaled down for mobile */
+                line-height: 1.2 !important;
+                word-wrap: normal !important;
+                overflow-wrap: normal !important;
+                hyphens: none !important;
             }
 
-            /* Targets the index grid override */
+            /* TARGETING THE EMAIL BLEED */
+            .enclave-card a, [class*="box"] a, [class*="card"] a {
+                word-break: break-all !important;
+                display: inline-block !important;
+                max-width: 100% !important;
+            }
+
+            /* Target index grid override */
             section div[style*="grid-template-columns"] {
                 display: block !important;
                 grid-template-columns: none !important;
@@ -51,17 +60,17 @@
                 box-sizing: border-box !important;
             }
 
-            /* Fix for Contact/Info Squares being cutoff */
+            /* Fix for Contact & Neighbourhood Cards */
             .enclave-card, [class*="card"], [class*="box"] {
                 display: block !important;
                 width: 100% !important;
-                max-width: 100% !important;
-                margin: 0 0 15px 0 !important;
-                padding: 30px 15px !important; /* Added safe internal padding */
+                margin: 0 0 20px 0 !important;
+                padding: 40px 20px !important;
                 box-sizing: border-box !important;
+                text-align: center !important;
             }
 
-            /* Navigation: Keeping it on one line */
+            /* Navigation: Fixed "The Briefing" wrap */
             #site-header { 
                 flex-direction: column !important; 
                 padding: 10px 0 !important; 
@@ -73,9 +82,9 @@
                 width: 100% !important;
             }
             #site-header nav a { 
-                margin: 0 5px !important; 
-                font-size: 9px !important; /* Slightly smaller to ensure fit */
-                letter-spacing: 0.5px !important; /* Tighter spacing */
+                margin: 0 4px !important; 
+                font-size: 9px !important; 
+                letter-spacing: 0px !important;
                 white-space: nowrap !important; 
             }
         }
