@@ -10,13 +10,15 @@ permalink: /contact/
     <h1 style="font-size: 2.8rem; font-weight: normal; color: #1a1a1a; margin-bottom: 30px; letter-spacing: -1px;">Start With a Straight Conversation</h1>
     
     <p style="font-size: 1.2rem; line-height: 1.7; color: #444; margin-bottom: 20px;">
-      Buying in Surrey/South Surrey/White Rock? I will tell you which neighbourhood fits your situation and what to watch for before you remove subjects.
+      <strong>Buying in Surrey, South Surrey, or White Rock?</strong><br>
+      I help you identify which neighbourhood fits your specific transition and, more importantly, what to watch for (zoning, schools, land utility) before your capital is fully committed.
     </p>
     <p style="font-size: 1.2rem; line-height: 1.7; color: #444; margin-bottom: 40px;">
-      Selling? I will tell you what your property is actually worth right now, how long it should realistically take to sell, and what the right positioning strategy is before it hits the market.
+      <strong>Selling?</strong><br>
+      I provide an unvarnished look at what your property is worth in today’s market, a realistic timeline, and the precise positioning strategy required before it goes live.
     </p>
     <p style="font-size: 1.1rem; line-height: 1.7; color: #666; margin-bottom: 50px;">
-      If it is not a good fit, I will tell you that too.
+      If the move doesn't make strategic sense, I will tell you that too.
     </p>
 
     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 40px; margin-bottom: 60px;">
