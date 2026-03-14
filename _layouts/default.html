@@ -35,55 +35,48 @@
                 margin: 0 !important;
             }
 
-            /* Fix large headings from breaking */
+            /* Fixes the "Neighbourhood" word break */
             h1, h2 {
-                font-size: 1.8rem !important;
+                font-size: 1.7rem !important;
                 line-height: 1.2 !important;
             }
 
-            /* TARGETING THE EMAIL IN THE CONTACT BOX */
-            /* This shrinks the email address specifically so it fits the white box */
-            .enclave-card a[href^="mailto:"], [class*="box"] a[href^="mailto:"] {
-                font-size: 0.85rem !important; /* Slightly smaller font for the long email */
-                word-break: break-all !important;
+            /* TARGETS THE CONTACT BOX DIRECTLY */
+            /* This looks for any div with a white background and border (your contact box) */
+            div[style*="background: #fff"], div[style*="background-color: #fff"], .enclave-card {
+                width: 100% !important;
+                max-width: 100% !important;
+                padding: 40px 15px !important; /* Forces internal breathing room */
+                box-sizing: border-box !important;
+                margin-left: 0 !important;
+                margin-right: 0 !important;
                 display: block !important;
-                margin-top: 10px;
             }
 
-            /* Target index grid override */
-            section div[style*="grid-template-columns"] {
-                display: block !important;
-                grid-template-columns: none !important;
-                width: 100% !important;
-                padding: 0 15px !important;
-                box-sizing: border-box !important;
-            }
-
-            /* Ensure the Contact Boxes have enough room */
-            .enclave-card, [class*="card"], [class*="box"] {
+            /* FORCES the Email to stay inside that box */
+            div[style*="background"] a[href^="mailto:"], .enclave-card a {
+                font-size: 0.8rem !important; /* Smaller text to fit the phone width */
+                word-break: break-all !important; /* Snaps the email to a new line if needed */
                 display: block !important;
                 width: 100% !important;
-                margin: 0 0 25px 0 !important;
-                padding: 50px 15px !important; /* Extra vertical space for clarity */
-                box-sizing: border-box !important;
-                text-align: center !important;
             }
 
             /* Navigation: Keeping "The Briefing" on one line */
-            #site-header { 
-                flex-direction: column !important; 
-                padding: 10px 0 !important; 
-            }
-            #site-header nav { 
-                margin: 10px 0 0 0 !important;
-                display: flex !important; 
-                justify-content: center !important;
-            }
+            #site-header { flex-direction: column !important; padding: 10px 0 !important; }
+            #site-header nav { margin-top: 10px !important; display: flex !important; justify-content: center !important; }
             #site-header nav a { 
                 margin: 0 4px !important; 
                 font-size: 9px !important; 
-                letter-spacing: 0px !important;
                 white-space: nowrap !important; 
+                letter-spacing: 0px !important;
+            }
+
+            /* Ensures the main container doesn't push off-screen */
+            div[style*="max-width: 850px"], section {
+                max-width: 100% !important;
+                padding-left: 15px !important;
+                padding-right: 15px !important;
+                box-sizing: border-box !important;
             }
         }
     </style>
